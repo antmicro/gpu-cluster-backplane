@@ -514,10 +514,6 @@
     [
       "00000000-0000-0000-0000-0000622e8aaf",
       "Power Cycling & Current Measurement"
-    ],
-    [
-      "00000000-0000-0000-0000-0000623923f9",
-      "daughterboard-supply"
     ]
   ],
   "text_variables": {}
