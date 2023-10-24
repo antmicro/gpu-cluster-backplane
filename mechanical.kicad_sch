@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (rev "1.0.0")
+    (comment 1 "www.antmicro.com")
+    (comment 2 "Antmicro Ltd.")
+  )
+
   (lib_symbols
     (symbol "antmicroMechanicalParts:MP_Pad6mm_Drill3mm" (pin_names hide) (in_bom no) (on_board yes)
       (property "Reference" "MP" (id 0) (at 20.32 -2.54 0)

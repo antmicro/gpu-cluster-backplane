@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (rev "1.0.0")
+    (comment 1 "www.antmicro.com")
+    (comment 2 "Antmicro Ltd.")
+  )
+
   (lib_symbols
     (symbol "39288080_1" (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 6.35 0)

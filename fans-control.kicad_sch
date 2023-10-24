@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (rev "1.0.0")
+    (comment 1 "www.antmicro.com")
+    (comment 2 "Antmicro Ltd.")
+  )
+
   (lib_symbols
   )
 
