@@ -512,10 +512,6 @@
       "FTDI"
     ],
     [
-      "00000000-0000-0000-0000-0000622e8aaf",
-      "Power Cycling & Current Measurement"
-    ],
-    [
       "bcb16a6a-fd3f-4f16-bb24-31b44a65af30",
       "fans-control"
     ],
