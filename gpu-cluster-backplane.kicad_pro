@@ -514,6 +514,26 @@
     [
       "00000000-0000-0000-0000-0000622e8aaf",
       "Power Cycling & Current Measurement"
+    ],
+    [
+      "bcb16a6a-fd3f-4f16-bb24-31b44a65af30",
+      "fans-control"
+    ],
+    [
+      "bca41246-5f9e-44a6-89f5-aaffb4c7ee99",
+      "mechanical"
+    ],
+    [
+      "65998599-1c43-4f45-95a6-61fea5536bd5",
+      "power-cycling"
+    ],
+    [
+      "8af0c60d-b845-4eae-99f7-a79a87ab7545",
+      "voltage-and-current-measurement"
+    ],
+    [
+      "53b81f23-9977-43ed-8653-ef76934c16e5",
+      "connectors"
     ]
   ],
   "text_variables": {}
