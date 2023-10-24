@@ -3805,14 +3805,29 @@
     (path "/00000000-0000-0000-0000-000062220f27/d0ac0d46-6613-42bf-9337-457b296198ee"
       (reference "FB?") (unit 1) (value "FB_600Z_0.5A_Murata-BLM18AG_0603") (footprint "antmicro-footprints:FB_0603_1608Metric")
     )
+    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/0012dc6a-3ff9-4af7-a7fa-20633cbd3118"
+      (reference "J?") (unit 1) (value "Conn_1-2212115-4") (footprint "antmicro-footprints:Conn_1-2212115-4")
+    )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/2715672d-c41d-4cae-88f8-41c6b70a4be6"
       (reference "J?") (unit 1) (value "39288080") (footprint "gpu-cluster-backplane-footprints:MOLEX_39288080")
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/272525c1-ec02-4ccf-b61f-fbdec6c91891"
       (reference "J?") (unit 1) (value "39288080") (footprint "gpu-cluster-backplane-footprints:MOLEX_39288080")
     )
+    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/2f713dc0-f6f1-4dd9-a281-3b27d173ffb3"
+      (reference "J?") (unit 1) (value "Conn_1-2212115-4") (footprint "antmicro-footprints:Conn_1-2212115-4")
+    )
+    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/424d8c5d-77d8-4540-9e45-1cd5c900694a"
+      (reference "J?") (unit 1) (value "Conn_1-2212115-4") (footprint "antmicro-footprints:Conn_1-2212115-4")
+    )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/5757d486-9d6f-40e6-97ea-e5b6e50af286"
       (reference "J?") (unit 1) (value "39288080") (footprint "gpu-cluster-backplane-footprints:MOLEX_39288080")
+    )
+    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/73dc023a-1107-469b-938e-84672fff5021"
+      (reference "J?") (unit 1) (value "Conn_1-2212115-4") (footprint "antmicro-footprints:Conn_1-2212115-4")
+    )
+    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/77b4460d-c3c1-4699-981b-8a59794aed2f"
+      (reference "J?") (unit 1) (value "Conn_1-2212115-4") (footprint "antmicro-footprints:Conn_1-2212115-4")
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/7f9c83a9-fc3d-4668-bef0-876dbc621bcc"
       (reference "J?") (unit 1) (value "39288080") (footprint "gpu-cluster-backplane-footprints:MOLEX_39288080")
@@ -3820,8 +3835,17 @@
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/84541309-608c-4e50-a964-188d0c922f6d"
       (reference "J?") (unit 1) (value "39288080") (footprint "gpu-cluster-backplane-footprints:MOLEX_39288080")
     )
+    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/b8033063-0170-4b9d-acb8-7ee0946972a1"
+      (reference "J?") (unit 1) (value "Conn_1-2212115-4") (footprint "antmicro-footprints:Conn_1-2212115-4")
+    )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/bcd3eb0c-8638-4030-ba6e-3b58b2197332"
       (reference "J?") (unit 1) (value "10107844-002LF") (footprint "gpu-cluster-backplane-footprints:10107844-002LF")
+    )
+    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/c70f1383-8bf6-424a-924b-082ea65e7cfa"
+      (reference "J?") (unit 1) (value "Conn_1-2212115-4") (footprint "antmicro-footprints:Conn_1-2212115-4")
+    )
+    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/cfdc64c0-f058-4e52-a533-e5c44e20c4c4"
+      (reference "J?") (unit 1) (value "Conn_1-2212115-4") (footprint "antmicro-footprints:Conn_1-2212115-4")
     )
     (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/00e1acd4-7e89-43ac-a58a-e2e59569e6f2"
       (reference "MP?") (unit 1) (value "MP_Pad6mm_Drill3mm") (footprint "antmicro-footprints:MP_Pad6mm_Drill3mm")
