@@ -3038,6 +3038,10 @@
     (effects (font (size 15 15)) (justify left bottom))
     (uuid c3f20110-fd6a-488a-95cb-dfdc1ca4a8e2)
   )
+  (text "DEBUG" (at 337.185 115.57 0)
+    (effects (font (size 8 8)) (justify left bottom))
+    (uuid cbdd1c46-26cd-4fa6-aa0e-4bbbca89d7f9)
+  )
   (text "Y" (at 372.745 188.595 90)
     (effects (font (size 15 15)) (justify left bottom))
     (uuid ced56b9b-f3a0-40ea-af8d-6ab60def583e)
@@ -3429,6 +3433,9 @@
     (path "/2402805b-470a-47a4-b447-56d2d6025765/6eb51017-bedd-4e58-bb88-71f3d0b1d5a4"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/6ef4667e-1f48-4f56-93e4-38d8e8734440"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/65998599-1c43-4f45-95a6-61fea5536bd5/6f3ea4de-b9a2-4b80-9694-ec23efd445a3"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -3451,6 +3458,9 @@
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/2402805b-470a-47a4-b447-56d2d6025765/7aa9ac65-16c3-4fad-9d6d-0035a5ba1aed"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/2402805b-470a-47a4-b447-56d2d6025765/7b52eb8b-a6da-4a9d-8490-49a0f374ee90"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/7bf1f883-742d-46d9-8d32-b83e29535544"
@@ -3490,6 +3500,12 @@
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/65998599-1c43-4f45-95a6-61fea5536bd5/97ac5d24-f368-4964-8573-efc54cf759c2"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/2402805b-470a-47a4-b447-56d2d6025765/999e9103-88e5-442c-903d-17970de8b6bc"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/9ac25e07-27de-43a3-93a7-d708828b2ba0"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/9bb40ff1-4579-4028-a808-6d3110f07766"
@@ -3908,9 +3924,6 @@
     )
     (path "/8af0c60d-b845-4eae-99f7-a79a87ab7545/f8320510-1dec-4ace-bfc7-5bd53244f520"
       (reference "FB?") (unit 1) (value "FB_600Z_0.5A_Murata-BLM18AG_0603") (footprint "antmicro-footprints:FB_0603_1608Metric")
-    )
-    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/0012dc6a-3ff9-4af7-a7fa-20633cbd3118"
-      (reference "J?") (unit 1) (value "Conn_1-2212115-4") (footprint "antmicro-footprints:Conn_1-2212115-4")
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/158bc2b7-4f9e-4777-9018-3cc6b8489d03"
       (reference "J?") (unit 1) (value "10107844-002LF") (footprint "antmicro-footprints:10107844-002LF")
@@ -4823,6 +4836,9 @@
     )
     (path "/8af0c60d-b845-4eae-99f7-a79a87ab7545/d12040b7-af1c-4ae6-bda9-92eeb151f065"
       (reference "U?") (unit 1) (value "TMCS1100A2-Q1") (footprint "gpu-cluster-backplane-footprints:SOIC-8_W3.9mm")
+    )
+    (path "/2402805b-470a-47a4-b447-56d2d6025765/de076f76-f495-45fb-ad0f-b41df4c39f17"
+      (reference "U?") (unit 1) (value "Si7021") (footprint "antmicro-footprints:DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm")
     )
     (path "/8af0c60d-b845-4eae-99f7-a79a87ab7545/ded9f239-cc29-49a4-86f8-2bb77db6f9df"
       (reference "U?") (unit 1) (value "TMCS1100A2-Q1") (footprint "gpu-cluster-backplane-footprints:SOIC-8_W3.9mm")
