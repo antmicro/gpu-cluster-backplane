@@ -528,6 +528,10 @@
       "voltage-and-current-measurement"
     ],
     [
+      "2402805b-470a-47a4-b447-56d2d6025765",
+      "debug-signals"
+    ],
+    [
       "53b81f23-9977-43ed-8653-ef76934c16e5",
       "connectors"
     ]

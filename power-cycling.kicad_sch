@@ -3179,7 +3179,7 @@
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Val" "0R" (id 6) (at 333.375 184.785 0))
-    (property "DNP" "DNP`" (id 7) (at 332.105 189.865 0))
+    (property "DNP" "DNP" (id 7) (at 332.105 189.865 0))
     (pin "1" (uuid 73b6380b-f906-47bf-a658-cf31b0102015))
     (pin "2" (uuid a4a7dd10-8ac5-4043-8fd6-d11ee4abe072))
   )
