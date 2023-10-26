@@ -4554,7 +4554,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (global_label "SCL" (shape bidirectional) (at 267.335 75.565 0) (fields_autoplaced)
+  (global_label "SCL" (shape output) (at 267.335 75.565 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 8a234276-d558-4813-83d5-066b758ce7e5)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 273.1668 75.4856 0)
