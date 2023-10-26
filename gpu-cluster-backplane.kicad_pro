@@ -534,6 +534,10 @@
     [
       "53b81f23-9977-43ed-8653-ef76934c16e5",
       "connectors"
+    ],
+    [
+      "0eb7683a-233a-4366-941b-c6456024a57b",
+      "environmental_sensor"
     ]
   ],
   "text_variables": {}
