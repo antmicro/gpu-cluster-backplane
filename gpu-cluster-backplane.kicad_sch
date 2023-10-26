@@ -3014,6 +3014,11 @@
     (effects (font (size 8 8)) (justify left bottom))
     (uuid 5a23e91c-d98c-47db-bcbb-562157643e46)
   )
+  (text "need to update this diagram as it is not finished\n"
+    (at 199.39 139.065 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 89c3108c-c0b0-45ac-ab33-2b1d37334594)
+  )
   (text "GPU Cluster Backplane" (at 15.875 23.495 0)
     (effects (font (size 3 3) (thickness 0.6) bold) (justify left bottom))
     (uuid 8ab2ca48-c9b5-4a90-beb1-4bcec4088cf1)
@@ -3381,6 +3386,9 @@
     (path "/8af0c60d-b845-4eae-99f7-a79a87ab7545/4485c0c4-14e7-4011-9b39-7128bc6ed969"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/45c15744-1f15-49d9-8ca1-fbb4faba1383"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000062220f27/4a9ab000-5a9a-4b62-974d-a6b5c1217b3b"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -3526,6 +3534,9 @@
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/65998599-1c43-4f45-95a6-61fea5536bd5/71c6ed9e-00af-4360-9cc5-df3f3f81f2be"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/71ecbbcd-1791-4a57-90d9-0f63b4ef4912"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062220f27/7310497a-685c-45e6-8b16-bf1b10c01c91"
@@ -4440,6 +4451,9 @@
     (path "/65998599-1c43-4f45-95a6-61fea5536bd5/6d713d6c-63db-4da5-b269-7799e9d0d8b8"
       (reference "Q?") (unit 1) (value "2N7002K-T1-E3") (footprint "antmicro-footprints:SOT-23-3")
     )
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/75438740-7b02-4e5d-a6d1-3a5c4e37a8f9"
+      (reference "Q?") (unit 1) (value "2N7002K-T1-E3") (footprint "antmicro-footprints:SOT-23-3")
+    )
     (path "/65998599-1c43-4f45-95a6-61fea5536bd5/d9b79d3c-2d3f-4672-a0f7-8f8fabbf71fb"
       (reference "Q?") (unit 1) (value "2N7002K-T1-E3") (footprint "antmicro-footprints:SOT-23-3")
     )
@@ -4722,6 +4736,9 @@
     (path "/2402805b-470a-47a4-b447-56d2d6025765/4d01f071-cea1-44d0-85ed-1a01dbf84c08"
       (reference "R?") (unit 1) (value "R_10k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/4e7e71d9-1f5d-4377-ac51-7f69d3b41443"
+      (reference "R?") (unit 1) (value "R_10k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
+    )
     (path "/2402805b-470a-47a4-b447-56d2d6025765/4f73d459-99af-49f0-be64-ed2e694e2494"
       (reference "R?") (unit 1) (value "R_0R_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
@@ -4805,6 +4822,9 @@
     )
     (path "/0eb7683a-233a-4366-941b-c6456024a57b/70617b34-ac3f-41d6-a811-5c09f963b008"
       (reference "R?") (unit 1) (value "R_0R_0402") (footprint "nuc-compute-cluster-environment-sensor-footprints:R_0402_1005Metric")
+    )
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/7329a774-e62f-4251-8634-de4cee64f5ae"
+      (reference "R?") (unit 1) (value "R_10k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/2402805b-470a-47a4-b447-56d2d6025765/75092181-0de5-4e69-89ed-c5de3766d969"
       (reference "R?") (unit 1) (value "R_10k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
@@ -5406,6 +5426,9 @@
     (path "/0eb7683a-233a-4366-941b-c6456024a57b/059ccd57-e1a5-4ab0-8b9c-f498ba44e0c4"
       (reference "U?") (unit 1) (value "FT4232H_VQFN") (footprint "nuc-compute-cluster-environment-sensor-footprints:QFN-56-1EP_8x8mm_P0.5mm")
     )
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/0d62144d-e4c2-412b-b42b-7d6a323d2110"
+      (reference "U?") (unit 1) (value "74VHC153FT") (footprint "antmicro-footprints:TSSOP-16_4.4x5mm_P0.65mm")
+    )
     (path "/2402805b-470a-47a4-b447-56d2d6025765/0d6c2fc6-fd30-42f4-9e77-33e54c7388c6"
       (reference "U?") (unit 1) (value "TCA9534PWR") (footprint "antmicro-footprints:TSSOP-16_4.4x5mm_P0.65mm")
     )
@@ -5417,6 +5440,9 @@
     )
     (path "/8af0c60d-b845-4eae-99f7-a79a87ab7545/2a398652-aca9-486a-b4c5-740f8b3e8470"
       (reference "U?") (unit 1) (value "ADS7828") (footprint "antmicro-footprints:TSSOP-16_4.4x5mm_P0.65mm")
+    )
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/2a901979-ad99-4427-96a3-d5dc488bd67a"
+      (reference "U?") (unit 1) (value "74VHC153FT") (footprint "antmicro-footprints:TSSOP-16_4.4x5mm_P0.65mm")
     )
     (path "/0eb7683a-233a-4366-941b-c6456024a57b/2b679113-06e9-4557-9db8-20e56580b7a8"
       (reference "U?") (unit 1) (value "SHT45") (footprint "nuc-compute-cluster-environment-sensor-footprints:Sensirion_DFN-4-1.5x1.5x0.5mm_P0.8mm")
@@ -5439,14 +5465,17 @@
     (path "/00000000-0000-0000-0000-000062220f27/5ec036d3-29c5-4a56-ab64-70820fe910de"
       (reference "U?") (unit 1) (value "AP62301WU-7") (footprint "d1600e-psu-breakout-board-footprints:TSOT23-6")
     )
-    (path "/00000000-0000-0000-0000-000062220f27/646a4462-16c2-4492-b1ac-5d9422cc27a3"
-      (reference "U?") (unit 1) (value "LM1117MP-25NOPB") (footprint "antmicro-footprints:SOT-223")
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/683d8d79-59aa-46d7-a305-5f01745340d4"
+      (reference "U?") (unit 1) (value "74VHC153FT") (footprint "antmicro-footprints:TSSOP-16_4.4x5mm_P0.65mm")
     )
     (path "/8af0c60d-b845-4eae-99f7-a79a87ab7545/7aa5e833-62a3-46f0-8e03-c32d3a7a140b"
       (reference "U?") (unit 1) (value "TMCS1100A2-Q1") (footprint "gpu-cluster-backplane-footprints:SOIC-8_W3.9mm")
     )
     (path "/2402805b-470a-47a4-b447-56d2d6025765/8df2aade-8813-4032-9f9f-11eaacd22a7b"
       (reference "U?") (unit 1) (value "TCA9534PWR") (footprint "antmicro-footprints:TSSOP-16_4.4x5mm_P0.65mm")
+    )
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/990117c2-2bce-4681-9665-fc25a6971d95"
+      (reference "U?") (unit 1) (value "74VHC153FT") (footprint "antmicro-footprints:TSSOP-16_4.4x5mm_P0.65mm")
     )
     (path "/8af0c60d-b845-4eae-99f7-a79a87ab7545/a3a5f7b9-a374-45e6-b4d1-007ca04ebd6c"
       (reference "U?") (unit 1) (value "ADS7828") (footprint "antmicro-footprints:TSSOP-16_4.4x5mm_P0.65mm")
