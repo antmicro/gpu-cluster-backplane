@@ -3256,6 +3256,9 @@
     (path "/8af0c60d-b845-4eae-99f7-a79a87ab7545/1855bf93-8994-4040-a04c-c2a1eb64797e"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-000062220f27/19c925b9-4300-4b44-bf53-d3511c5f5054"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "d1600e-psu-breakout-board-footprints:")
+    )
     (path "/2402805b-470a-47a4-b447-56d2d6025765/1a3b7cf2-b799-4b58-9891-c7d5451a328b"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -3291,6 +3294,9 @@
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/2ee68b33-3eb1-4194-884d-03a07ce0996c"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-000062220f27/32e67519-b9bc-40a7-a540-8d1f1105b02b"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "d1600e-psu-breakout-board-footprints:")
     )
     (path "/2402805b-470a-47a4-b447-56d2d6025765/357d6cef-b7ea-497d-bc96-2cbe993a74bb"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -3403,6 +3409,9 @@
     (path "/00000000-0000-0000-0000-000062220f27/638b7d08-c0cd-46f9-bfe9-e0a60cc6b5c6"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-000062220f27/639bb381-4b04-4fb0-a8d3-c4ce84ea53cb"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "d1600e-psu-breakout-board-footprints:")
+    )
     (path "/2402805b-470a-47a4-b447-56d2d6025765/63e4cf5e-9b3e-4784-97bc-8d36c8836ab4"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -3505,6 +3514,9 @@
     (path "/8af0c60d-b845-4eae-99f7-a79a87ab7545/940a7f5c-f86a-4ba3-b7a6-37e148efd916"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-000062220f27/956dbc99-4f64-4c3b-8969-109b9c8535d6"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "d1600e-psu-breakout-board-footprints:")
+    )
     (path "/65998599-1c43-4f45-95a6-61fea5536bd5/96b2019e-2966-4723-8058-d16baef74b18"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -3603,6 +3615,9 @@
     )
     (path "/00000000-0000-0000-0000-000062220f27/bb74a214-4b63-443e-b94f-2fb4a4067f50"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-000062220f27/bc199820-8e70-44c1-a5af-0729a2bf8e01"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "d1600e-psu-breakout-board-footprints:")
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/bce935ee-e6be-409b-8e09-cd2e7164fb2f"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -3793,6 +3808,9 @@
     (path "/00000000-0000-0000-0000-000062220f27/0c5ed4fb-d5d5-49f5-9427-58e66876ca95"
       (reference "C13") (unit 1) (value "C_4u7_0402") (footprint "antmicro-footprints:C_0402_1005Metric")
     )
+    (path "/00000000-0000-0000-0000-000062220f27/00667ecb-10f8-431c-b3a9-4b615f30970f"
+      (reference "C?") (unit 1) (value "C_10u_16V_0603") (footprint "d1600e-psu-breakout-board-footprints:0603-cap")
+    )
     (path "/00000000-0000-0000-0000-000062220f27/030f6341-f2c3-48f9-9c77-d8ba5b8604ff"
       (reference "C?") (unit 1) (value "C_18p_0402") (footprint "antmicro-footprints:0402-cap")
     )
@@ -3825,6 +3843,9 @@
     )
     (path "/8af0c60d-b845-4eae-99f7-a79a87ab7545/34dc8716-f97f-4a94-8cd0-94756c7dc54b"
       (reference "C?") (unit 1) (value "C_100n_0402") (footprint "antmicro-footprints:C_0402_1005Metric")
+    )
+    (path "/00000000-0000-0000-0000-000062220f27/38b98c66-9dd7-4b45-9492-877cb783a272"
+      (reference "C?") (unit 1) (value "C_22u_0603") (footprint "d1600e-psu-breakout-board-footprints:0603-cap")
     )
     (path "/00000000-0000-0000-0000-000062220f27/38ff2525-dae3-46bd-9a94-5f99794b6cbb"
       (reference "C?") (unit 1) (value "C_100n_0402") (footprint "antmicro-footprints:C_0402_1005Metric")
@@ -3871,6 +3892,9 @@
     (path "/00000000-0000-0000-0000-000062220f27/890057bc-5b42-496a-bc6e-eda9b4181256"
       (reference "C?") (unit 1) (value "C_4u7_0402") (footprint "antmicro-footprints:C_0402_1005Metric")
     )
+    (path "/00000000-0000-0000-0000-000062220f27/9840a3bc-0120-4ded-8327-7bd3bcb8ddeb"
+      (reference "C?") (unit 1) (value "C_22u_0603") (footprint "d1600e-psu-breakout-board-footprints:0603-cap")
+    )
     (path "/8af0c60d-b845-4eae-99f7-a79a87ab7545/9f3f5dd9-8d8e-4528-92ce-f6c6b36b4839"
       (reference "C?") (unit 1) (value "C_100n_0402") (footprint "antmicro-footprints:C_0402_1005Metric")
     )
@@ -3885,6 +3909,9 @@
     )
     (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/c90b7346-845a-41ec-936e-578c0ec2f906"
       (reference "C?") (unit 1) (value "C_1u_16V_0402") (footprint "antmicro-footprints:C_0402_1005Metric")
+    )
+    (path "/00000000-0000-0000-0000-000062220f27/d0757a36-5bb7-4bff-a8b3-75118f89a707"
+      (reference "C?") (unit 1) (value "C_100n_0402") (footprint "d1600e-psu-breakout-board-footprints:0402-cap")
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/d8423944-ea6f-4165-888c-9ba55bfe2271"
       (reference "C?") (unit 1) (value "C_100n_0402") (footprint "antmicro-footprints:C_0402_1005Metric")
@@ -4009,6 +4036,9 @@
     (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/4aed8a29-49ba-433d-b359-cc8cd3273bda"
       (reference "FB?") (unit 1) (value "FB_120Z_3A_0603") (footprint "antmicro-footprints:FB_0603_1608Metric")
     )
+    (path "/00000000-0000-0000-0000-000062220f27/59f80c9e-64be-4a03-8b71-6fd083154475"
+      (reference "FB?") (unit 1) (value "BLM21SN300SZ1D") (footprint "antmicro-footprints:FB_0805_2012Metric")
+    )
     (path "/00000000-0000-0000-0000-000062220f27/5f7c0813-c289-4ff8-9395-b1187f0dc1a2"
       (reference "FB?") (unit 1) (value "FB_600Z_0.5A_Murata-BLM18AG_0603") (footprint "antmicro-footprints:FB_0603_1608Metric")
     )
@@ -4065,6 +4095,12 @@
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/c114c1a1-e019-44b5-a4e3-1f0211bf5aa1"
       (reference "J?") (unit 1) (value "Conn_1-2212115-4") (footprint "antmicro-footprints:Conn_1-2212115-4")
+    )
+    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/d487856c-50b5-4513-a936-99c02662cdbc"
+      (reference "J?") (unit 1) (value "JST_XH_1x2_S2B-XH-A-LF-SN") (footprint "antmicro-footprints:Conn_JST_XH_1x2_S2B-XH-A-LF-SN")
+    )
+    (path "/00000000-0000-0000-0000-000062220f27/4590bdc2-d16e-48d9-92d1-64de83f08644"
+      (reference "L?") (unit 1) (value "74437336033") (footprint "d1600e-psu-breakout-board-footprints:WE_74437336033")
     )
     (path "/00000000-0000-0000-0000-000062220f27/ca699956-bf44-4e41-a198-95ea3a0173ed"
       (reference "L?") (unit 1) (value "74437336033") (footprint "d1600e-psu-breakout-board-footprints:WE_74437336033")
@@ -4129,9 +4165,6 @@
     (path "/65998599-1c43-4f45-95a6-61fea5536bd5/132c3bd8-2ad4-402a-8115-6912b68891ff"
       (reference "Q?") (unit 1) (value "2N7002K-T1-E3") (footprint "antmicro-footprints:SOT-23-3")
     )
-    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/28c54e2a-ff5b-4641-809f-6aed638f3b69"
-      (reference "Q?") (unit 1) (value "BSS84PH6327XTSA2") (footprint "antmicro-footprints:SOT-23-3")
-    )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/335e62f2-bb59-4c5b-a1ea-867c4007e9dd"
       (reference "Q?") (unit 1) (value "BC856,215") (footprint "gpu-cluster-backplane-footprints:SOT-23-3")
     )
@@ -4139,9 +4172,6 @@
       (reference "Q?") (unit 1) (value "2N7002K-T1-E3") (footprint "antmicro-footprints:SOT-23-3")
     )
     (path "/65998599-1c43-4f45-95a6-61fea5536bd5/6d713d6c-63db-4da5-b269-7799e9d0d8b8"
-      (reference "Q?") (unit 1) (value "2N7002K-T1-E3") (footprint "antmicro-footprints:SOT-23-3")
-    )
-    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/b350187c-bf51-43bb-9f8d-e2a589df9f83"
       (reference "Q?") (unit 1) (value "2N7002K-T1-E3") (footprint "antmicro-footprints:SOT-23-3")
     )
     (path "/65998599-1c43-4f45-95a6-61fea5536bd5/d9b79d3c-2d3f-4672-a0f7-8f8fabbf71fb"
@@ -4468,6 +4498,9 @@
     (path "/8af0c60d-b845-4eae-99f7-a79a87ab7545/7692f715-d92e-4cfe-acd9-51a00ada3cd8"
       (reference "R?") (unit 1) (value "R_15k4_0.1%_0402") (footprint "antmicro-footprints:0402-res")
     )
+    (path "/00000000-0000-0000-0000-000062220f27/779e6b9d-9230-4fa8-875b-a0115b8917e0"
+      (reference "R?") (unit 1) (value "R_680R_0402") (footprint "antmicro-footprints:0402-res")
+    )
     (path "/2402805b-470a-47a4-b447-56d2d6025765/78026216-4a83-4e14-98ed-84a82409682e"
       (reference "R?") (unit 1) (value "R_0R_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
@@ -4521,6 +4554,9 @@
     )
     (path "/00000000-0000-0000-0000-000062220f27/8db29d40-ed24-4c87-9b86-9da8df13222e"
       (reference "R?") (unit 1) (value "R_680R_0402") (footprint "antmicro-footprints:0402-res")
+    )
+    (path "/00000000-0000-0000-0000-000062220f27/8e5cacde-0b58-49a7-8c6a-f69c8b88f28b"
+      (reference "R?") (unit 1) (value "R_2k15_0402") (footprint "antmicro-footprints:0402-res")
     )
     (path "/65998599-1c43-4f45-95a6-61fea5536bd5/8ef72e8c-6775-4f22-bcd0-aa50c5318446"
       (reference "R?") (unit 1) (value "R_4k7_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
@@ -4996,6 +5032,9 @@
     (path "/00000000-0000-0000-0000-000062220f27/5ec036d3-29c5-4a56-ab64-70820fe910de"
       (reference "U?") (unit 1) (value "AP62301WU-7") (footprint "d1600e-psu-breakout-board-footprints:TSOT23-6")
     )
+    (path "/00000000-0000-0000-0000-000062220f27/646a4462-16c2-4492-b1ac-5d9422cc27a3"
+      (reference "U?") (unit 1) (value "LM1117MP-25NOPB") (footprint "antmicro-footprints:SOT-223")
+    )
     (path "/8af0c60d-b845-4eae-99f7-a79a87ab7545/7aa5e833-62a3-46f0-8e03-c32d3a7a140b"
       (reference "U?") (unit 1) (value "TMCS1100A2-Q1") (footprint "gpu-cluster-backplane-footprints:SOIC-8_W3.9mm")
     )
@@ -5019,6 +5058,9 @@
     )
     (path "/8af0c60d-b845-4eae-99f7-a79a87ab7545/ded9f239-cc29-49a4-86f8-2bb77db6f9df"
       (reference "U?") (unit 1) (value "TMCS1100A2-Q1") (footprint "gpu-cluster-backplane-footprints:SOIC-8_W3.9mm")
+    )
+    (path "/00000000-0000-0000-0000-000062220f27/df0b4991-b542-448e-b103-5572227d3f55"
+      (reference "U?") (unit 1) (value "AP62301WU-7") (footprint "d1600e-psu-breakout-board-footprints:TSOT23-6")
     )
     (path "/8af0c60d-b845-4eae-99f7-a79a87ab7545/e8347c83-03b4-46ee-9e01-d7ffdf3a8b2f"
       (reference "U?") (unit 1) (value "TMCS1100A2-Q1") (footprint "gpu-cluster-backplane-footprints:SOIC-8_W3.9mm")
