@@ -540,10 +540,6 @@
       "debug-signals"
     ],
     [
-      "0eb7683a-233a-4366-941b-c6456024a57b",
-      "environmental_sensor"
-    ],
-    [
       "204e0897-3aee-4c22-af96-21f8b21af049",
       "GPU-output1"
     ],
@@ -574,6 +570,10 @@
     [
       "64b9bf37-6542-4282-ac5c-0f37eeadadb7",
       "GPU-output7"
+    ],
+    [
+      "e533e23e-4e5b-4fd9-a11b-897bfa025959",
+      "env-sensor"
     ]
   ],
   "text_variables": {}
