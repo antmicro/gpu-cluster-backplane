@@ -512,6 +512,10 @@
       "FTDI"
     ],
     [
+      "04a027ef-6cb3-46e0-9c8b-839fbc699922",
+      "GPU-output"
+    ],
+    [
       "bcb16a6a-fd3f-4f16-bb24-31b44a65af30",
       "fans-control"
     ],
@@ -528,16 +532,48 @@
       "voltage-and-current-measurement"
     ],
     [
-      "2402805b-470a-47a4-b447-56d2d6025765",
-      "debug-signals"
-    ],
-    [
       "53b81f23-9977-43ed-8653-ef76934c16e5",
       "connectors"
     ],
     [
+      "2402805b-470a-47a4-b447-56d2d6025765",
+      "debug-signals"
+    ],
+    [
       "0eb7683a-233a-4366-941b-c6456024a57b",
       "environmental_sensor"
+    ],
+    [
+      "204e0897-3aee-4c22-af96-21f8b21af049",
+      "GPU-output1"
+    ],
+    [
+      "2fc489a5-703f-4762-965d-adf8e763b673",
+      "output-control-and-data-acq"
+    ],
+    [
+      "67ea593b-dd98-43a2-ac72-4ea1303a8039",
+      "GPU-output2"
+    ],
+    [
+      "e86fd581-bf67-481e-b49d-1b8c1d1eff8e",
+      "GPU-output3"
+    ],
+    [
+      "ef6dcb14-8727-4d1a-a94f-c8f9bbc7a9e4",
+      "GPU-output4"
+    ],
+    [
+      "c24d6f2d-f5c9-4d75-ba96-cdff61983e02",
+      "GPU-output5"
+    ],
+    [
+      "70a87bb3-17e5-4f5c-a4da-1915c51ec71c",
+      "GPU-output6"
+    ],
+    [
+      "64b9bf37-6542-4282-ac5c-0f37eeadadb7",
+      "GPU-output7"
     ]
   ],
   "text_variables": {}
