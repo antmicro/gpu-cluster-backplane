@@ -3311,26 +3311,26 @@
   )
 
   (symbol_instances
-    (path "/e533e23e-4e5b-4fd9-a11b-897bfa025959/6eac7731-2395-4cb8-805d-cf8145a44f1c"
-      (reference "#FLG04") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
-    (path "/e533e23e-4e5b-4fd9-a11b-897bfa025959/cee8a0bd-e636-45fa-9391-fbfdc8f781a5"
-      (reference "#FLG05") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
-    (path "/e533e23e-4e5b-4fd9-a11b-897bfa025959/5986d425-7bed-4b9b-acab-d4ecbeac683c"
-      (reference "#FLG06") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
-    (path "/e533e23e-4e5b-4fd9-a11b-897bfa025959/716519c2-052d-4738-9065-69407639e256"
-      (reference "#FLG?") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
     (path "/e533e23e-4e5b-4fd9-a11b-897bfa025959/7f24c544-a2dd-40fe-bb5e-0ac5c488fe41"
-      (reference "#FLG?") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
-    (path "/e533e23e-4e5b-4fd9-a11b-897bfa025959/a5c95c6d-e05c-46a9-888a-471d9f5d4432"
-      (reference "#FLG?") (unit 1) (value "PWR_FLAG") (footprint "")
+      (reference "#FLG01") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/e533e23e-4e5b-4fd9-a11b-897bfa025959/f437e4b9-f599-412b-a731-805b9d80fb2c"
-      (reference "#FLG?") (unit 1) (value "PWR_FLAG") (footprint "")
+      (reference "#FLG02") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/e533e23e-4e5b-4fd9-a11b-897bfa025959/a5c95c6d-e05c-46a9-888a-471d9f5d4432"
+      (reference "#FLG03") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/e533e23e-4e5b-4fd9-a11b-897bfa025959/716519c2-052d-4738-9065-69407639e256"
+      (reference "#FLG04") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/e533e23e-4e5b-4fd9-a11b-897bfa025959/6eac7731-2395-4cb8-805d-cf8145a44f1c"
+      (reference "#FLG05") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/e533e23e-4e5b-4fd9-a11b-897bfa025959/cee8a0bd-e636-45fa-9391-fbfdc8f781a5"
+      (reference "#FLG06") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/e533e23e-4e5b-4fd9-a11b-897bfa025959/5986d425-7bed-4b9b-acab-d4ecbeac683c"
+      (reference "#FLG07") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062220f27/b76f8022-8078-4af9-a732-3aa1f4b81cfb"
       (reference "#PWR01") (unit 1) (value "GND") (footprint "")
