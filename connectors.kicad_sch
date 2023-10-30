@@ -5355,7 +5355,7 @@
   (symbol (lib_id "antmicroTestPoints:TP_1mm_SMD") (at 125.73 153.67 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a7ed6f87-fc02-49ab-a2d0-bc0e55839608)
-    (property "Reference" "TP28" (id 0) (at 128.27 157.48 90)
+    (property "Reference" "TP28" (id 0) (at 129.54 157.48 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "TP_1mm_SMD" (id 1) (at 118.11 168.91 0)
