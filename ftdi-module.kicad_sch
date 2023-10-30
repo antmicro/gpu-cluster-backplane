@@ -7265,7 +7265,7 @@
   (symbol (lib_name "PESD5V0S2BQA_1") (lib_id "antmicroTVSDiodes:PESD5V0S2BQA") (at 255.27 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid abd04767-7285-4ca6-88c7-6264e8f87d0f)
-    (property "Reference" "D?" (id 0) (at 269.24 53.3399 0)
+    (property "Reference" "D3" (id 0) (at 269.24 53.3399 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "PESD5V0S2BQA" (id 1) (at 283.21 63.5 0)
