@@ -12241,7 +12241,7 @@
   )
 
   (symbol (lib_name "R_5k1_0402_3") (lib_id "antmicroResistors0402:R_5k1_0402") (at 381 45.72 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 6ff4db60-2cec-4426-9155-26a64638ae54)
     (property "Reference" "R257" (id 0) (at 378.46 41.9099 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -12273,6 +12273,7 @@
     (property "Tolerance" "1%" (id 9) (at 391.16 25.4 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
+    (property "DNP" "DNP" (id 10) (at 381 43.18 0))
     (pin "1" (uuid 9bdadd5c-a492-4d9a-9d3c-f4d9688d2356))
     (pin "2" (uuid f2eb87e4-56be-4660-a926-7e61dea3c8f4))
   )
@@ -14757,7 +14758,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_5k1_0402") (at 388.62 45.72 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid dc50c199-5e8c-4dfd-814e-f756f7398f1f)
     (property "Reference" "R258" (id 0) (at 391.16 41.9099 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -14789,6 +14790,7 @@
     (property "Tolerance" "1%" (id 9) (at 398.78 25.4 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
+    (property "DNP" "DNP" (id 10) (at 388.62 43.18 0))
     (pin "1" (uuid 450fd61b-754d-4f1d-8d1b-e54119cca274))
     (pin "2" (uuid 2a15478a-a716-4418-8f96-896868d0731d))
   )
