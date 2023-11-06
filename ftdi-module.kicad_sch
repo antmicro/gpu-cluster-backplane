@@ -5,7 +5,7 @@
   (paper "A3")
 
   (title_block
-    (title "D1600E PSU Breakout Board")
+    (title "GPU Cluster Backplane")
     (date "2023-10-18")
     (rev "1.0.0")
     (comment 1 "www.antmicro.com")
@@ -5010,10 +5010,6 @@
     )
   )
 
-  (text "replace with LDO\n" (at 95.25 185.42 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 0b975ae4-e710-469d-a6ff-d373c3fbd4fe)
-  )
   (text "3V3 DC/DC Converter" (at 213.36 189.865 0)
     (effects (font (size 2.9972 2.9972)) (justify left bottom))
     (uuid 1fd9e4cf-5292-46e2-a32d-99be43e08df4)

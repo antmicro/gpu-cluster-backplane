@@ -5,11 +5,12 @@
   (paper "A3")
 
   (title_block
-    (title "Server Case Temperature/Humidity Sensor")
-    (date "2022-12-27")
+    (title "GPU Cluster Backplane")
+    (date "2023-10-18")
     (rev "1.0.0")
     (company "Antmicro Ltd")
     (comment 1 "www.antmicro.com")
+    (comment 2 "Antmicro Ltd.")
   )
 
   (lib_symbols
