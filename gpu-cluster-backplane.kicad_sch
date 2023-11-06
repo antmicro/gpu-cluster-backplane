@@ -5017,8 +5017,8 @@
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/666f5f5f-81b7-4c42-a566-41ed7090dcf1"
       (reference "J7") (unit 1) (value "PinHeader_1x4_P2.5mm_Drill1mm_Horizontal_Shrouded") (footprint "antmicro-footprints:PinHeader_1x4_P2.5mm_Drill1mm_Horizontal_Shrouded")
     )
-    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/9992d087-817d-4230-9120-db6a9c9bf474"
-      (reference "J8") (unit 1) (value "JST_XH_1x2_S2B-XH-A-LF-SN") (footprint "antmicro-footprints:Conn_JST_XH_1x2_S2B-XH-A-LF-SN")
+    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/75515aa4-c658-43c8-8da9-6ff4b674be60"
+      (reference "J8") (unit 1) (value "JST_XH_1x2_B2B-XH-A-LF-SN") (footprint "antmicro-footprints:Conn_JST_XH_1x2_B2B-XH-A-LF-SN")
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/957ce348-b3cf-4bdb-bdb9-9d2a439a6424"
       (reference "J9") (unit 1) (value "PinHeader_1x2_P2.5mm_Drill1mm_Horizontal_Shrouded") (footprint "antmicro-footprints:PinHeader_1x2_P2.5mm_Drill1mm_Horizontal_Shrouded")
