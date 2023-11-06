@@ -3787,7 +3787,7 @@
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/fe833edd-254e-45a5-bb84-2fcb4a36d3bb"
       (reference "#PWR0135") (unit 1) (value "GND") (footprint "")
     )
-    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/541d79f4-5938-4ed2-897c-de6247fd9b6b"
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/1266a19d-79b8-4408-a4d7-15b2e7eb53d2"
       (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/abe46ec1-76ca-4faa-a401-3b2e4633da24"
@@ -4834,7 +4834,7 @@
     (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/8da9d725-78e2-4fdd-b981-f727807366b8"
       (reference "D9") (unit 1) (value "1N4148WS-7-F") (footprint "antmicro-footprints:SOD-323")
     )
-    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/7c1589ca-0646-4b5c-b777-bf063764509d"
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/6cacfceb-b38e-4997-a07f-a4c1187f10ac"
       (reference "D10") (unit 1) (value "1N4148WS-7-F") (footprint "antmicro-footprints:SOD-323")
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/17eff88c-9848-4540-a8ee-17504c098fc4"
@@ -4969,7 +4969,7 @@
     (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/c7d7c2ad-c800-4e39-8f55-d4a2bf60fac5"
       (reference "FB8") (unit 1) (value "FB_120Z_3A_Murata-BLM18SG_0603") (footprint "antmicro-footprints:FB_0603_1608Metric")
     )
-    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/56168b43-b18b-49fd-a387-abe5226f3e09"
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/09ec9c7b-2899-4510-b4d3-b3dd97be751e"
       (reference "FB9") (unit 1) (value "FB_120Z_3A_0603") (footprint "antmicro-footprints:FB_0603_1608Metric")
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/bb3b872c-2140-40ed-8928-827ceba876a1"
@@ -5014,14 +5014,14 @@
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/158bc2b7-4f9e-4777-9018-3cc6b8489d03"
       (reference "J6") (unit 1) (value "10107844-002LF") (footprint "antmicro-footprints:10107844-002LF")
     )
-    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/0889470e-2259-4ff2-b040-90413cb9a9d3"
-      (reference "J7") (unit 1) (value "JST_SH_1x4_BM04B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:Conn_JST_SH_1x4_BM04B-SRSS-TB-LF-SN")
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/8baa79e2-6d58-41a0-b8bb-3c97dca40411"
+      (reference "J7") (unit 1) (value "JST_XH_1x2_B2B-XH-A-LF-SN") (footprint "antmicro-footprints:Conn_JST_XH_1x2_B2B-XH-A-LF-SN")
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/75515aa4-c658-43c8-8da9-6ff4b674be60"
       (reference "J8") (unit 1) (value "JST_XH_1x2_B2B-XH-A-LF-SN") (footprint "antmicro-footprints:Conn_JST_XH_1x2_B2B-XH-A-LF-SN")
     )
-    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/fb1859a1-5945-46f3-bcd0-b79bf582e40f"
-      (reference "J9") (unit 1) (value "JST_XH_1x2_B2B-XH-A-LF-SN") (footprint "antmicro-footprints:Conn_JST_XH_1x2_B2B-XH-A-LF-SN")
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/f7e95770-b6ba-4a5f-a009-66a93966c915"
+      (reference "J9") (unit 1) (value "JST_SH_1x4_BM04B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:Conn_JST_SH_1x4_BM04B-SRSS-TB-LF-SN")
     )
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/204e0897-3aee-4c22-af96-21f8b21af049/82f0fa8d-4f87-4407-b909-2c0975d8f2e1"
       (reference "J10") (unit 1) (value "Conn_1-2212115-4") (footprint "antmicro-footprints:Conn_1-2212115-4")
