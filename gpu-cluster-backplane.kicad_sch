@@ -6301,8 +6301,8 @@
     (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/dd549627-8745-4548-a367-5a875f565a00"
       (reference "U10") (unit 1) (value "TS5A3359_VSSOP") (footprint "antmicro-footprints:VSSOP-8_2.3x2mm_P0.5mm")
     )
-    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/0bf7efa9-a1ea-49be-b070-02571c29c534"
-      (reference "U11") (unit 1) (value "USB-C_GCT_USB4145-03-0070-C") (footprint "antmicro-footprints:GCT_USB4145-03-0070-C_REVA")
+    (path "/53b81f23-9977-43ed-8653-ef76934c16e5/0a1b76dd-4130-431b-aa34-de7363ff0f6d"
+      (reference "U11") (unit 1) (value "USB-C_GCT_USB4145-03-0070-C") (footprint "antmicro-footprints:USB-C_Receptacle_GCT_USB4145-03-0070-C")
     )
     (path "/2402805b-470a-47a4-b447-56d2d6025765/0d6c2fc6-fd30-42f4-9e77-33e54c7388c6"
       (reference "U12") (unit 1) (value "TCA9534PWR") (footprint "antmicro-footprints:TSSOP-16_4.4x5mm_P0.65mm")
