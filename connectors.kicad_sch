@@ -1610,7 +1610,6 @@
     )
   )
 
-
   (junction (at 76.2 92.71) (diameter 0) (color 0 0 0 0)
     (uuid 17bf6c5f-95b4-4525-9e91-65e7d1c885c0)
   )
@@ -5355,7 +5354,7 @@
   (symbol (lib_id "antmicroUSBConnectors:USB-C_GCT_USB4145-03-0070-C") (at 330.2 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4de5d4df-3c84-4116-9923-a46837fa1b0c)
-    (property "Reference" "J10" (id 0) (at 344.17 88.9 0)
+    (property "Reference" "J100" (id 0) (at 344.17 88.9 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "USB-C_GCT_USB4145-03-0070-C" (id 1) (at 373.38 105.41 0)

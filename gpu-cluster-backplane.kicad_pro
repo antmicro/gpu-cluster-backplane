@@ -496,7 +496,7 @@
     ],
     [
       "00000000-0000-0000-0000-000062220f27",
-      "FTDI-and-power"
+      "FTDI and power"
     ],
     [
       "04a027ef-6cb3-46e0-9c8b-839fbc699922",
@@ -504,19 +504,19 @@
     ],
     [
       "bcb16a6a-fd3f-4f16-bb24-31b44a65af30",
-      "fans-control"
+      "Fans control"
     ],
     [
       "bca41246-5f9e-44a6-89f5-aaffb4c7ee99",
-      "mechanical"
+      "Mechanical"
     ],
     [
       "53b81f23-9977-43ed-8653-ef76934c16e5",
-      "connectors"
+      "Connectors"
     ],
     [
       "2402805b-470a-47a4-b447-56d2d6025765",
-      "debug-signals"
+      "Debug signals"
     ],
     [
       "204e0897-3aee-4c22-af96-21f8b21af049",
@@ -524,7 +524,7 @@
     ],
     [
       "2fc489a5-703f-4762-965d-adf8e763b673",
-      "output-control-and-data-acq"
+      "Output control and data acq"
     ],
     [
       "67ea593b-dd98-43a2-ac72-4ea1303a8039",
@@ -552,7 +552,7 @@
     ],
     [
       "e533e23e-4e5b-4fd9-a11b-897bfa025959",
-      "env-sensor"
+      "Env sensor"
     ]
   ],
   "text_variables": {}
