@@ -7024,6 +7024,7 @@
     )
   )
 
+
   (junction (at 36.83 156.21) (diameter 0) (color 0 0 0 0)
     (uuid 0034b141-56e6-46b4-bda3-e4b17ad6ca06)
   )
@@ -12728,22 +12729,6 @@
     )
     (pin "1" (uuid 34dad532-d74e-4499-afd6-63dfeb618fd9))
     (pin "2" (uuid a309dbc1-9994-4462-b057-75209969806c))
-  )
-
-  (symbol (lib_id "antmicropower:PWR_FLAG") (at 76.2 184.15 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid a132963e-4912-459f-a643-c27277df36de)
-    (property "Reference" "#FLG07" (id 0) (at 76.2 182.245 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "PWR_FLAG" (id 1) (at 76.2 179.07 0))
-    (property "Footprint" "" (id 2) (at 76.2 184.15 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 76.2 184.15 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid f82d97e5-faa9-404f-9d02-a4858c6122d3))
   )
 
   (symbol (lib_name "R_100k_0402_4") (lib_id "antmicroResistors0402:R_100k_0402") (at 307.34 139.7 90) (unit 1)
