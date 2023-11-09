@@ -6,10 +6,10 @@
 
   (title_block
     (title "GPU Cluster Backplane")
-    (date "2023-10-18")
+    (date "2023-11-09")
     (rev "1.0.0")
+    (company "Antmicro Ltd")
     (comment 1 "www.antmicro.com")
-    (comment 2 "Antmicro Ltd.")
   )
 
   (lib_symbols
