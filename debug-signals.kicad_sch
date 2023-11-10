@@ -4145,7 +4145,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0a9943e7-7930-4fa8-b937-7ebbd02f6dc3)
   )
-  (text "I2C adress: 0x23\n" (at 105.41 172.72 0)
+  (text "I2C adress: 0x26\n" (at 105.41 172.72 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0ba7d7e4-d377-4007-acc9-fcbffe3be258)
   )
