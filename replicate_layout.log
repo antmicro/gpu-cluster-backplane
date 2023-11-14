@@ -1,143 +1,140 @@
-11-14 11:20:49 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 359:Plugin executed on: 'linux'
-11-14 11:20:49 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 360:Plugin executed with python version: '3.11.4 (main, Jun  9 2023, 07:59:55) [GCC 12.3.0]'
-11-14 11:20:49 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 361:KiCad build version: 6.0.11+dfsg-1
-11-14 11:20:49 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 362:Plugin version: 1.3.5
-11-14 11:20:49 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 363:Frame repr: <wx._core.Frame object at 0x7f83a5e0aa70>
-11-14 11:20:49 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 387:Preparing replicator with J1 as a reference
-11-14 11:20:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 113:getting a list of all footprints on board
-11-14 11:20:49 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 435:source anchor footprint is 'J1'
+11-14 12:23:44 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 359:Plugin executed on: 'linux'
+11-14 12:23:44 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 360:Plugin executed with python version: '3.11.4 (main, Jun  9 2023, 07:59:55) [GCC 12.3.0]'
+11-14 12:23:44 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 361:KiCad build version: 6.0.11+dfsg-1
+11-14 12:23:44 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 362:Plugin version: 1.3.5
+11-14 12:23:44 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 363:Frame repr: <wx._core.Frame object at 0x7f83a5e0aa70>
+11-14 12:23:44 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 387:Preparing replicator with J1 as a reference
+11-14 12:23:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 113:getting a list of all footprints on board
+11-14 12:23:44 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 435:source anchor footprint is 'J1'
 Located on: ['Output control and data acq', 'GPU-output']
 With filenames: ['output-control.kicad_sch', 'GPU-output.kicad_sch']
 With sheet_id:['Output control and data acq', 'GPU-output']
-11-14 11:20:49 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 442:Corresponding footprints are 
+11-14 12:23:44 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 442:Corresponding footprints are 
 [('J13', ['Output control and data acq', 'GPU-output4']), ('J16', ['Output control and data acq', 'GPU-output7']), ('J15', ['Output control and data acq', 'GPU-output6']), ('J11', ['Output control and data acq', 'GPU-output2']), ('J10', ['Output control and data acq', 'GPU-output1']), ('J12', ['Output control and data acq', 'GPU-output3']), ('J14', ['Output control and data acq', 'GPU-output5']), ('J1', ['Output control and data acq', 'GPU-output'])]
-11-14 11:20:49 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 454:Showing dialog
-11-14 11:20:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 391:constructing a list of sheets suitable for replication on level:'GPU-output', file:'GPU-output.kicad_sch'
-11-14 11:20:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 428:suitable sheets are:[['Output control and data acq', 'GPU-output1'], ['Output control and data acq', 'GPU-output2'], ['Output control and data acq', 'GPU-output3'], ['Output control and data acq', 'GPU-output4'], ['Output control and data acq', 'GPU-output5'], ['Output control and data acq', 'GPU-output6'], ['Output control and data acq', 'GPU-output7']]
-11-14 11:20:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1356:Level selected: ['Output control and data acq', 'GPU-output']
-11-14 11:20:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1191:Filtering list of tracks
-11-14 11:20:50 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 460:Toolbar position: wx.Point(5086, 123)
-11-14 11:20:50 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 465:Dialog position: wx.Point(4722, 123)
-11-14 11:20:56 com_github_MitjaNemec_ReplicateLayout.replicate_layout 391:constructing a list of sheets suitable for replication on level:'GPU-output', file:'GPU-output.kicad_sch'
-11-14 11:20:56 com_github_MitjaNemec_ReplicateLayout.replicate_layout 428:suitable sheets are:[['Output control and data acq', 'GPU-output1'], ['Output control and data acq', 'GPU-output2'], ['Output control and data acq', 'GPU-output3'], ['Output control and data acq', 'GPU-output4'], ['Output control and data acq', 'GPU-output5'], ['Output control and data acq', 'GPU-output6'], ['Output control and data acq', 'GPU-output7']]
-11-14 11:20:56 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1356:Level selected: ['Output control and data acq', 'GPU-output']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 391:constructing a list of sheets suitable for replication on level:'GPU-output', file:'GPU-output.kicad_sch'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 428:suitable sheets are:[['Output control and data acq', 'GPU-output1'], ['Output control and data acq', 'GPU-output2'], ['Output control and data acq', 'GPU-output3'], ['Output control and data acq', 'GPU-output4'], ['Output control and data acq', 'GPU-output5'], ['Output control and data acq', 'GPU-output6'], ['Output control and data acq', 'GPU-output7']]
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 207:Replicating layout
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 237:Starting replication of sheets: [['Output control and data acq', 'GPU-output1'], ['Output control and data acq', 'GPU-output2'], ['Output control and data acq', 'GPU-output3'], ['Output control and data acq', 'GPU-output4'], ['Output control and data acq', 'GPU-output5'], ['Output control and data acq', 'GPU-output6'], ['Output control and data acq', 'GPU-output7']]
+11-14 12:23:44 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 454:Showing dialog
+11-14 12:23:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 391:constructing a list of sheets suitable for replication on level:'GPU-output', file:'GPU-output.kicad_sch'
+11-14 12:23:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 428:suitable sheets are:[['Output control and data acq', 'GPU-output1'], ['Output control and data acq', 'GPU-output2'], ['Output control and data acq', 'GPU-output3'], ['Output control and data acq', 'GPU-output4'], ['Output control and data acq', 'GPU-output5'], ['Output control and data acq', 'GPU-output6'], ['Output control and data acq', 'GPU-output7']]
+11-14 12:23:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1356:Level selected: ['Output control and data acq', 'GPU-output']
+11-14 12:23:44 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1191:Filtering list of tracks
+11-14 12:23:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 460:Toolbar position: wx.Point(5086, 123)
+11-14 12:23:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 465:Dialog position: wx.Point(4722, 123)
+11-14 12:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 391:constructing a list of sheets suitable for replication on level:'GPU-output', file:'GPU-output.kicad_sch'
+11-14 12:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 428:suitable sheets are:[['Output control and data acq', 'GPU-output1'], ['Output control and data acq', 'GPU-output2'], ['Output control and data acq', 'GPU-output3'], ['Output control and data acq', 'GPU-output4'], ['Output control and data acq', 'GPU-output5'], ['Output control and data acq', 'GPU-output6'], ['Output control and data acq', 'GPU-output7']]
+11-14 12:23:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1356:Level selected: ['Output control and data acq', 'GPU-output']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 391:constructing a list of sheets suitable for replication on level:'GPU-output', file:'GPU-output.kicad_sch'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 428:suitable sheets are:[['Output control and data acq', 'GPU-output1'], ['Output control and data acq', 'GPU-output2'], ['Output control and data acq', 'GPU-output3'], ['Output control and data acq', 'GPU-output4'], ['Output control and data acq', 'GPU-output5'], ['Output control and data acq', 'GPU-output6'], ['Output control and data acq', 'GPU-output7']]
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 207:Replicating layout
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 237:Starting replication of sheets: [['Output control and data acq', 'GPU-output1'], ['Output control and data acq', 'GPU-output2'], ['Output control and data acq', 'GPU-output3'], ['Output control and data acq', 'GPU-output4'], ['Output control and data acq', 'GPU-output5'], ['Output control and data acq', 'GPU-output6'], ['Output control and data acq', 'GPU-output7']]
 on level: ['Output control and data acq', 'GPU-output']
 with tracks=False, zone=True, text=True, text=True, intersecting=False, remove=False, locked footprints=False, group_only=False
-11-14 11:21:32 root 299:updating GUI message: 'Preparing for replication'
-11-14 11:21:32 root 304:updating GUI with: 0
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 307:Getting the list of source footprints
-11-14 11:21:32 root 304:updating GUI with: 0
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 317:Getting the list of all the remaining footprints
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 324:Getting source tracks
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1191:Filtering list of tracks
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 328:Getting source zones
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 332:Getting source text items
-11-14 11:21:32 root 304:updating GUI with: 66
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 336:Getting source drawing items
-11-14 11:21:32 root 299:updating GUI message: 'Replicating footprints'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 742:Replicating footprints
-11-14 11:21:32 root 304:updating GUI with: 0
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 748:Replicating footprints on sheet ['Output control and data acq', 'GPU-output1']
-11-14 11:21:32 root 304:updating GUI with: 13
-11-14 11:21:32 root 304:updating GUI with: 13
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 748:Replicating footprints on sheet ['Output control and data acq', 'GPU-output2']
-11-14 11:21:32 root 304:updating GUI with: 14
-11-14 11:21:32 root 304:updating GUI with: 27
-11-14 11:21:32 root 304:updating GUI with: 28
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 748:Replicating footprints on sheet ['Output control and data acq', 'GPU-output3']
-11-14 11:21:32 root 304:updating GUI with: 41
-11-14 11:21:32 root 304:updating GUI with: 42
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 748:Replicating footprints on sheet ['Output control and data acq', 'GPU-output4']
-11-14 11:21:32 root 304:updating GUI with: 55
-11-14 11:21:32 root 304:updating GUI with: 56
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 748:Replicating footprints on sheet ['Output control and data acq', 'GPU-output5']
-11-14 11:21:32 root 304:updating GUI with: 70
-11-14 11:21:32 root 304:updating GUI with: 70
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 748:Replicating footprints on sheet ['Output control and data acq', 'GPU-output6']
-11-14 11:21:32 root 304:updating GUI with: 84
-11-14 11:21:32 root 304:updating GUI with: 85
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 748:Replicating footprints on sheet ['Output control and data acq', 'GPU-output7']
-11-14 11:21:32 root 304:updating GUI with: 98
-11-14 11:21:32 root 299:updating GUI message: 'Replicating zones'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 967:Replicating zones
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 974:Replicating zones on sheet ['Output control and data acq', 'GPU-output1']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 737:Net pairs for sheet ['Output control and data acq', 'GPU-output1'] :[('VCC5V0', 'VCC5V0'), ('/Output control and data acq/C_ADC1', '/Output control and data acq/C_ADC2'), ('Net-(Q3-Pad4)', 'Net-(Q10-Pad4)'), ('/Output control and data acq/V_ADC1', '/Output control and data acq/V_ADC2'), ('/Output control and data acq/GPU-output/C_MEAS', '/Output control and data acq/GPU-output1/C_MEAS'), ('Net-(D5-Pad1)', 'Net-(D16-Pad1)'), ('P2', 'P2'), ('/Output control and data acq/GPU-output/CARD_PRESENT', '/Output control and data acq/GPU-output1/CARD_PRESENT'), ('GND', 'GND'), ('Net-(Q2-Pad4)', 'Net-(Q9-Pad4)'), ('VCC3V3', 'VCC3V3'), ('/Output control and data acq/PC_1', '/Output control and data acq/PC_2'), ('Net-(D4-PadA)', 'Net-(D15-PadA)'), ('Net-(R27-Pad2)', 'Net-(R166-Pad2)'), ('Net-(Q1-Pad2)', 'Net-(Q8-Pad2)'), ('FAN_PWM_1', 'FAN_PWM_2'), ('/Output control and data acq/GPU-output/FAN_PWM_INTERNAL', '/Output control and data acq/GPU-output1/FAN_PWM_INTERNAL'), ('VCC12V0', 'VCC12V0')]
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: '/Output control and data acq/GPU-output/C_MEAS'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: '/Output control and data acq/GPU-output1/C_MEAS'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'P2'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'P2'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'GND'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'GND'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 974:Replicating zones on sheet ['Output control and data acq', 'GPU-output2']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 737:Net pairs for sheet ['Output control and data acq', 'GPU-output2'] :[('/Output control and data acq/C_ADC1', '/Output control and data acq/C_ADC3'), ('Net-(D5-Pad1)', 'Net-(D19-Pad1)'), ('VCC5V0', 'VCC5V0'), ('Net-(D4-PadA)', 'Net-(D18-PadA)'), ('P2', 'P2'), ('GND', 'GND'), ('/Output control and data acq/GPU-output/C_MEAS', '/Output control and data acq/GPU-output2/C_MEAS'), ('/Output control and data acq/GPU-output/FAN_PWM_INTERNAL', '/Output control and data acq/GPU-output2/FAN_PWM_INTERNAL'), ('/Output control and data acq/V_ADC1', '/Output control and data acq/V_ADC3'), ('Net-(Q1-Pad2)', 'Net-(Q11-Pad2)'), ('Net-(R27-Pad2)', 'Net-(R192-Pad2)'), ('VCC3V3', 'VCC3V3'), ('FAN_PWM_1', 'FAN_PWM_3'), ('/Output control and data acq/PC_1', '/Output control and data acq/PC_3'), ('VCC12V0', 'VCC12V0'), ('Net-(Q3-Pad4)', 'Net-(Q13-Pad4)'), ('Net-(Q2-Pad4)', 'Net-(Q12-Pad4)'), ('/Output control and data acq/GPU-output/CARD_PRESENT', '/Output control and data acq/GPU-output2/CARD_PRESENT')]
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: '/Output control and data acq/GPU-output/C_MEAS'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: '/Output control and data acq/GPU-output2/C_MEAS'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'P2'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'P2'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'GND'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'GND'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 974:Replicating zones on sheet ['Output control and data acq', 'GPU-output3']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 737:Net pairs for sheet ['Output control and data acq', 'GPU-output3'] :[('Net-(Q1-Pad2)', 'Net-(Q14-Pad2)'), ('/Output control and data acq/GPU-output/C_MEAS', '/Output control and data acq/GPU-output3/C_MEAS'), ('Net-(Q3-Pad4)', 'Net-(Q16-Pad4)'), ('Net-(D5-Pad1)', 'Net-(D22-Pad1)'), ('VCC5V0', 'VCC5V0'), ('/Output control and data acq/C_ADC1', '/Output control and data acq/C_ADC4'), ('Net-(R27-Pad2)', 'Net-(R203-Pad2)'), ('P2', 'P2'), ('/Output control and data acq/GPU-output/FAN_PWM_INTERNAL', '/Output control and data acq/GPU-output3/FAN_PWM_INTERNAL'), ('Net-(D4-PadA)', 'Net-(D21-PadA)'), ('GND', 'GND'), ('/Output control and data acq/GPU-output/CARD_PRESENT', '/Output control and data acq/GPU-output3/CARD_PRESENT'), ('Net-(Q2-Pad4)', 'Net-(Q15-Pad4)'), ('VCC3V3', 'VCC3V3'), ('/Output control and data acq/PC_1', '/Output control and data acq/PC_4'), ('FAN_PWM_1', 'FAN_PWM_4'), ('VCC12V0', 'VCC12V0'), ('/Output control and data acq/V_ADC1', '/Output control and data acq/V_ADC4')]
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: '/Output control and data acq/GPU-output/C_MEAS'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: '/Output control and data acq/GPU-output3/C_MEAS'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'P2'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'P2'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'GND'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'GND'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 974:Replicating zones on sheet ['Output control and data acq', 'GPU-output4']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 737:Net pairs for sheet ['Output control and data acq', 'GPU-output4'] :[('FAN_PWM_1', 'FAN_PWM_5'), ('/Output control and data acq/C_ADC1', '/Output control and data acq/C_ADC5'), ('VCC5V0', 'VCC5V0'), ('Net-(R27-Pad2)', 'Net-(R214-Pad2)'), ('Net-(Q2-Pad4)', 'Net-(Q18-Pad4)'), ('/Output control and data acq/GPU-output/CARD_PRESENT', '/Output control and data acq/GPU-output4/CARD_PRESENT'), ('P2', 'P2'), ('GND', 'GND'), ('/Output control and data acq/V_ADC1', '/Output control and data acq/V_ADC5'), ('/Output control and data acq/GPU-output/C_MEAS', '/Output control and data acq/GPU-output4/C_MEAS'), ('VCC3V3', 'VCC3V3'), ('Net-(D4-PadA)', 'Net-(D24-PadA)'), ('Net-(Q1-Pad2)', 'Net-(Q17-Pad2)'), ('/Output control and data acq/GPU-output/FAN_PWM_INTERNAL', '/Output control and data acq/GPU-output4/FAN_PWM_INTERNAL'), ('VCC12V0', 'VCC12V0'), ('Net-(D5-Pad1)', 'Net-(D25-Pad1)'), ('/Output control and data acq/PC_1', '/Output control and data acq/PC_5'), ('Net-(Q3-Pad4)', 'Net-(Q19-Pad4)')]
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: '/Output control and data acq/GPU-output/C_MEAS'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: '/Output control and data acq/GPU-output4/C_MEAS'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'P2'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'P2'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'GND'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'GND'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 974:Replicating zones on sheet ['Output control and data acq', 'GPU-output5']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 737:Net pairs for sheet ['Output control and data acq', 'GPU-output5'] :[('/Output control and data acq/C_ADC1', '/Output control and data acq/C_ADC6'), ('VCC5V0', 'VCC5V0'), ('/Output control and data acq/PC_1', '/Output control and data acq/PC_6'), ('/Output control and data acq/V_ADC1', '/Output control and data acq/V_ADC6'), ('Net-(D4-PadA)', 'Net-(D27-PadA)'), ('P2', 'P2'), ('Net-(D5-Pad1)', 'Net-(D28-Pad1)'), ('GND', 'GND'), ('/Output control and data acq/GPU-output/FAN_PWM_INTERNAL', '/Output control and data acq/GPU-output5/FAN_PWM_INTERNAL'), ('/Output control and data acq/GPU-output/C_MEAS', '/Output control and data acq/GPU-output5/C_MEAS'), ('Net-(Q2-Pad4)', 'Net-(Q21-Pad4)'), ('Net-(Q1-Pad2)', 'Net-(Q20-Pad2)'), ('Net-(R27-Pad2)', 'Net-(R225-Pad2)'), ('VCC3V3', 'VCC3V3'), ('Net-(Q3-Pad4)', 'Net-(Q22-Pad4)'), ('/Output control and data acq/GPU-output/CARD_PRESENT', '/Output control and data acq/GPU-output5/CARD_PRESENT'), ('FAN_PWM_1', 'FAN_PWM_6'), ('VCC12V0', 'VCC12V0')]
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: '/Output control and data acq/GPU-output/C_MEAS'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: '/Output control and data acq/GPU-output5/C_MEAS'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'P2'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'P2'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'GND'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'GND'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 974:Replicating zones on sheet ['Output control and data acq', 'GPU-output6']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 737:Net pairs for sheet ['Output control and data acq', 'GPU-output6'] :[('Net-(Q2-Pad4)', 'Net-(Q24-Pad4)'), ('VCC5V0', 'VCC5V0'), ('/Output control and data acq/C_ADC1', '/Output control and data acq/C_ADC7'), ('/Output control and data acq/V_ADC1', '/Output control and data acq/V_ADC7'), ('Net-(D4-PadA)', 'Net-(D30-PadA)'), ('P2', 'P2'), ('GND', 'GND'), ('/Output control and data acq/GPU-output/FAN_PWM_INTERNAL', '/Output control and data acq/GPU-output6/FAN_PWM_INTERNAL'), ('VCC3V3', 'VCC3V3'), ('/Output control and data acq/GPU-output/CARD_PRESENT', '/Output control and data acq/GPU-output6/CARD_PRESENT'), ('Net-(R27-Pad2)', 'Net-(R236-Pad2)'), ('Net-(D5-Pad1)', 'Net-(D31-Pad1)'), ('Net-(Q3-Pad4)', 'Net-(Q25-Pad4)'), ('/Output control and data acq/GPU-output/C_MEAS', '/Output control and data acq/GPU-output6/C_MEAS'), ('/Output control and data acq/PC_1', '/Output control and data acq/PC_7'), ('FAN_PWM_1', 'FAN_PWM_7'), ('VCC12V0', 'VCC12V0'), ('Net-(Q1-Pad2)', 'Net-(Q23-Pad2)')]
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: '/Output control and data acq/GPU-output/C_MEAS'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: '/Output control and data acq/GPU-output6/C_MEAS'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'P2'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'P2'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'GND'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'GND'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 974:Replicating zones on sheet ['Output control and data acq', 'GPU-output7']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 737:Net pairs for sheet ['Output control and data acq', 'GPU-output7'] :[('/Output control and data acq/GPU-output/C_MEAS', '/Output control and data acq/GPU-output7/C_MEAS'), ('Net-(Q3-Pad4)', 'Net-(Q28-Pad4)'), ('Net-(R27-Pad2)', 'Net-(R247-Pad2)'), ('VCC5V0', 'VCC5V0'), ('/Output control and data acq/V_ADC1', '/Output control and data acq/V_ADC8'), ('Net-(Q2-Pad4)', 'Net-(Q27-Pad4)'), ('P2', 'P2'), ('GND', 'GND'), ('FAN_PWM_1', 'FAN_PWM_8'), ('/Output control and data acq/GPU-output/CARD_PRESENT', '/Output control and data acq/GPU-output7/CARD_PRESENT'), ('VCC3V3', 'VCC3V3'), ('/Output control and data acq/GPU-output/FAN_PWM_INTERNAL', '/Output control and data acq/GPU-output7/FAN_PWM_INTERNAL'), ('Net-(D5-Pad1)', 'Net-(D34-Pad1)'), ('/Output control and data acq/C_ADC1', '/Output control and data acq/C_ADC8'), ('Net-(D4-PadA)', 'Net-(D33-PadA)'), ('VCC12V0', 'VCC12V0'), ('Net-(Q1-Pad2)', 'Net-(Q26-Pad2)'), ('/Output control and data acq/PC_1', '/Output control and data acq/PC_8')]
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: '/Output control and data acq/GPU-output/C_MEAS'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: '/Output control and data acq/GPU-output7/C_MEAS'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'P2'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'P2'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'GND'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'GND'
-11-14 11:21:32 root 299:updating GUI message: 'Replicating text'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1047:Replicating text
-11-14 11:21:32 root 304:updating GUI with: 0
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating text on sheet ['Output control and data acq', 'GPU-output1']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating text on sheet ['Output control and data acq', 'GPU-output2']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating text on sheet ['Output control and data acq', 'GPU-output3']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating text on sheet ['Output control and data acq', 'GPU-output4']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating text on sheet ['Output control and data acq', 'GPU-output5']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating text on sheet ['Output control and data acq', 'GPU-output6']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating text on sheet ['Output control and data acq', 'GPU-output7']
-11-14 11:21:32 root 299:updating GUI message: 'Replicating drawings'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1088:Replicating drawings
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1094:Replicating drawings on sheet ['Output control and data acq', 'GPU-output1']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1094:Replicating drawings on sheet ['Output control and data acq', 'GPU-output2']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1094:Replicating drawings on sheet ['Output control and data acq', 'GPU-output3']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1094:Replicating drawings on sheet ['Output control and data acq', 'GPU-output4']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1094:Replicating drawings on sheet ['Output control and data acq', 'GPU-output5']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1094:Replicating drawings on sheet ['Output control and data acq', 'GPU-output6']
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1094:Replicating drawings on sheet ['Output control and data acq', 'GPU-output7']
-11-14 11:21:32 root 299:updating GUI message: 'Removing duplicates'
-11-14 11:21:32 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 223:Replication complete
+11-14 12:23:57 root 299:updating GUI message: 'Preparing for replication'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 307:Getting the list of source footprints
+11-14 12:23:57 root 304:updating GUI with: 0
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 317:Getting the list of all the remaining footprints
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 324:Getting source tracks
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1191:Filtering list of tracks
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 328:Getting source zones
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 332:Getting source text items
+11-14 12:23:57 root 304:updating GUI with: 66
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 336:Getting source drawing items
+11-14 12:23:57 root 304:updating GUI with: 83
+11-14 12:23:57 root 299:updating GUI message: 'Replicating footprints'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 742:Replicating footprints
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 748:Replicating footprints on sheet ['Output control and data acq', 'GPU-output1']
+11-14 12:23:57 root 304:updating GUI with: 11
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 748:Replicating footprints on sheet ['Output control and data acq', 'GPU-output2']
+11-14 12:23:57 root 304:updating GUI with: 24
+11-14 12:23:57 root 304:updating GUI with: 24
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 748:Replicating footprints on sheet ['Output control and data acq', 'GPU-output3']
+11-14 12:23:57 root 304:updating GUI with: 36
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 748:Replicating footprints on sheet ['Output control and data acq', 'GPU-output4']
+11-14 12:23:57 root 304:updating GUI with: 49
+11-14 12:23:57 root 304:updating GUI with: 49
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 748:Replicating footprints on sheet ['Output control and data acq', 'GPU-output5']
+11-14 12:23:57 root 304:updating GUI with: 63
+11-14 12:23:57 root 304:updating GUI with: 63
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 748:Replicating footprints on sheet ['Output control and data acq', 'GPU-output6']
+11-14 12:23:57 root 304:updating GUI with: 75
+11-14 12:23:57 root 304:updating GUI with: 75
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 748:Replicating footprints on sheet ['Output control and data acq', 'GPU-output7']
+11-14 12:23:57 root 304:updating GUI with: 89
+11-14 12:23:57 root 304:updating GUI with: 90
+11-14 12:23:57 root 299:updating GUI message: 'Replicating zones'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 967:Replicating zones
+11-14 12:23:57 root 304:updating GUI with: 0
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 974:Replicating zones on sheet ['Output control and data acq', 'GPU-output1']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 737:Net pairs for sheet ['Output control and data acq', 'GPU-output1'] :[('VCC5V0', 'VCC5V0'), ('/Output control and data acq/C_ADC1', '/Output control and data acq/C_ADC2'), ('Net-(Q3-Pad4)', 'Net-(Q10-Pad4)'), ('/Output control and data acq/V_ADC1', '/Output control and data acq/V_ADC2'), ('/Output control and data acq/GPU-output/C_MEAS', '/Output control and data acq/GPU-output1/C_MEAS'), ('Net-(D5-Pad1)', 'Net-(D16-Pad1)'), ('P2', 'P2'), ('/Output control and data acq/GPU-output/CARD_PRESENT', '/Output control and data acq/GPU-output1/CARD_PRESENT'), ('GND', 'GND'), ('Net-(Q2-Pad4)', 'Net-(Q9-Pad4)'), ('VCC3V3', 'VCC3V3'), ('/Output control and data acq/PC_1', '/Output control and data acq/PC_2'), ('Net-(D4-PadA)', 'Net-(D15-PadA)'), ('Net-(R27-Pad2)', 'Net-(R166-Pad2)'), ('Net-(Q1-Pad2)', 'Net-(Q8-Pad2)'), ('FAN_PWM_1', 'FAN_PWM_2'), ('/Output control and data acq/GPU-output/FAN_PWM_INTERNAL', '/Output control and data acq/GPU-output1/FAN_PWM_INTERNAL'), ('VCC12V0', 'VCC12V0')]
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: '/Output control and data acq/GPU-output/C_MEAS'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: '/Output control and data acq/GPU-output1/C_MEAS'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'P2'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'P2'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'GND'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'GND'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 974:Replicating zones on sheet ['Output control and data acq', 'GPU-output2']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 737:Net pairs for sheet ['Output control and data acq', 'GPU-output2'] :[('/Output control and data acq/C_ADC1', '/Output control and data acq/C_ADC3'), ('Net-(D5-Pad1)', 'Net-(D19-Pad1)'), ('VCC5V0', 'VCC5V0'), ('Net-(D4-PadA)', 'Net-(D18-PadA)'), ('P2', 'P2'), ('GND', 'GND'), ('/Output control and data acq/GPU-output/C_MEAS', '/Output control and data acq/GPU-output2/C_MEAS'), ('/Output control and data acq/GPU-output/FAN_PWM_INTERNAL', '/Output control and data acq/GPU-output2/FAN_PWM_INTERNAL'), ('/Output control and data acq/V_ADC1', '/Output control and data acq/V_ADC3'), ('Net-(Q1-Pad2)', 'Net-(Q11-Pad2)'), ('Net-(R27-Pad2)', 'Net-(R192-Pad2)'), ('VCC3V3', 'VCC3V3'), ('FAN_PWM_1', 'FAN_PWM_3'), ('/Output control and data acq/PC_1', '/Output control and data acq/PC_3'), ('VCC12V0', 'VCC12V0'), ('Net-(Q3-Pad4)', 'Net-(Q13-Pad4)'), ('Net-(Q2-Pad4)', 'Net-(Q12-Pad4)'), ('/Output control and data acq/GPU-output/CARD_PRESENT', '/Output control and data acq/GPU-output2/CARD_PRESENT')]
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: '/Output control and data acq/GPU-output/C_MEAS'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: '/Output control and data acq/GPU-output2/C_MEAS'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'P2'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'P2'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'GND'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'GND'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 974:Replicating zones on sheet ['Output control and data acq', 'GPU-output3']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 737:Net pairs for sheet ['Output control and data acq', 'GPU-output3'] :[('Net-(Q1-Pad2)', 'Net-(Q14-Pad2)'), ('/Output control and data acq/GPU-output/C_MEAS', '/Output control and data acq/GPU-output3/C_MEAS'), ('Net-(Q3-Pad4)', 'Net-(Q16-Pad4)'), ('Net-(D5-Pad1)', 'Net-(D22-Pad1)'), ('VCC5V0', 'VCC5V0'), ('/Output control and data acq/C_ADC1', '/Output control and data acq/C_ADC4'), ('Net-(R27-Pad2)', 'Net-(R203-Pad2)'), ('P2', 'P2'), ('/Output control and data acq/GPU-output/FAN_PWM_INTERNAL', '/Output control and data acq/GPU-output3/FAN_PWM_INTERNAL'), ('Net-(D4-PadA)', 'Net-(D21-PadA)'), ('GND', 'GND'), ('/Output control and data acq/GPU-output/CARD_PRESENT', '/Output control and data acq/GPU-output3/CARD_PRESENT'), ('Net-(Q2-Pad4)', 'Net-(Q15-Pad4)'), ('VCC3V3', 'VCC3V3'), ('/Output control and data acq/PC_1', '/Output control and data acq/PC_4'), ('FAN_PWM_1', 'FAN_PWM_4'), ('VCC12V0', 'VCC12V0'), ('/Output control and data acq/V_ADC1', '/Output control and data acq/V_ADC4')]
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: '/Output control and data acq/GPU-output/C_MEAS'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: '/Output control and data acq/GPU-output3/C_MEAS'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'P2'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'P2'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'GND'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'GND'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 974:Replicating zones on sheet ['Output control and data acq', 'GPU-output4']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 737:Net pairs for sheet ['Output control and data acq', 'GPU-output4'] :[('FAN_PWM_1', 'FAN_PWM_5'), ('/Output control and data acq/C_ADC1', '/Output control and data acq/C_ADC5'), ('VCC5V0', 'VCC5V0'), ('Net-(R27-Pad2)', 'Net-(R214-Pad2)'), ('Net-(Q2-Pad4)', 'Net-(Q18-Pad4)'), ('/Output control and data acq/GPU-output/CARD_PRESENT', '/Output control and data acq/GPU-output4/CARD_PRESENT'), ('P2', 'P2'), ('GND', 'GND'), ('/Output control and data acq/V_ADC1', '/Output control and data acq/V_ADC5'), ('/Output control and data acq/GPU-output/C_MEAS', '/Output control and data acq/GPU-output4/C_MEAS'), ('VCC3V3', 'VCC3V3'), ('Net-(D4-PadA)', 'Net-(D24-PadA)'), ('Net-(Q1-Pad2)', 'Net-(Q17-Pad2)'), ('/Output control and data acq/GPU-output/FAN_PWM_INTERNAL', '/Output control and data acq/GPU-output4/FAN_PWM_INTERNAL'), ('VCC12V0', 'VCC12V0'), ('Net-(D5-Pad1)', 'Net-(D25-Pad1)'), ('/Output control and data acq/PC_1', '/Output control and data acq/PC_5'), ('Net-(Q3-Pad4)', 'Net-(Q19-Pad4)')]
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: '/Output control and data acq/GPU-output/C_MEAS'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: '/Output control and data acq/GPU-output4/C_MEAS'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'P2'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'P2'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'GND'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'GND'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 974:Replicating zones on sheet ['Output control and data acq', 'GPU-output5']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 737:Net pairs for sheet ['Output control and data acq', 'GPU-output5'] :[('/Output control and data acq/C_ADC1', '/Output control and data acq/C_ADC6'), ('VCC5V0', 'VCC5V0'), ('/Output control and data acq/PC_1', '/Output control and data acq/PC_6'), ('/Output control and data acq/V_ADC1', '/Output control and data acq/V_ADC6'), ('Net-(D4-PadA)', 'Net-(D27-PadA)'), ('P2', 'P2'), ('Net-(D5-Pad1)', 'Net-(D28-Pad1)'), ('GND', 'GND'), ('/Output control and data acq/GPU-output/FAN_PWM_INTERNAL', '/Output control and data acq/GPU-output5/FAN_PWM_INTERNAL'), ('/Output control and data acq/GPU-output/C_MEAS', '/Output control and data acq/GPU-output5/C_MEAS'), ('Net-(Q2-Pad4)', 'Net-(Q21-Pad4)'), ('Net-(Q1-Pad2)', 'Net-(Q20-Pad2)'), ('Net-(R27-Pad2)', 'Net-(R225-Pad2)'), ('VCC3V3', 'VCC3V3'), ('Net-(Q3-Pad4)', 'Net-(Q22-Pad4)'), ('/Output control and data acq/GPU-output/CARD_PRESENT', '/Output control and data acq/GPU-output5/CARD_PRESENT'), ('FAN_PWM_1', 'FAN_PWM_6'), ('VCC12V0', 'VCC12V0')]
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: '/Output control and data acq/GPU-output/C_MEAS'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: '/Output control and data acq/GPU-output5/C_MEAS'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'P2'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'P2'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'GND'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'GND'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 974:Replicating zones on sheet ['Output control and data acq', 'GPU-output6']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 737:Net pairs for sheet ['Output control and data acq', 'GPU-output6'] :[('Net-(Q2-Pad4)', 'Net-(Q24-Pad4)'), ('VCC5V0', 'VCC5V0'), ('/Output control and data acq/C_ADC1', '/Output control and data acq/C_ADC7'), ('/Output control and data acq/V_ADC1', '/Output control and data acq/V_ADC7'), ('Net-(D4-PadA)', 'Net-(D30-PadA)'), ('P2', 'P2'), ('GND', 'GND'), ('/Output control and data acq/GPU-output/FAN_PWM_INTERNAL', '/Output control and data acq/GPU-output6/FAN_PWM_INTERNAL'), ('VCC3V3', 'VCC3V3'), ('/Output control and data acq/GPU-output/CARD_PRESENT', '/Output control and data acq/GPU-output6/CARD_PRESENT'), ('Net-(R27-Pad2)', 'Net-(R236-Pad2)'), ('Net-(D5-Pad1)', 'Net-(D31-Pad1)'), ('Net-(Q3-Pad4)', 'Net-(Q25-Pad4)'), ('/Output control and data acq/GPU-output/C_MEAS', '/Output control and data acq/GPU-output6/C_MEAS'), ('/Output control and data acq/PC_1', '/Output control and data acq/PC_7'), ('FAN_PWM_1', 'FAN_PWM_7'), ('VCC12V0', 'VCC12V0'), ('Net-(Q1-Pad2)', 'Net-(Q23-Pad2)')]
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: '/Output control and data acq/GPU-output/C_MEAS'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: '/Output control and data acq/GPU-output6/C_MEAS'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'P2'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'P2'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'GND'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'GND'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 974:Replicating zones on sheet ['Output control and data acq', 'GPU-output7']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 737:Net pairs for sheet ['Output control and data acq', 'GPU-output7'] :[('/Output control and data acq/GPU-output/C_MEAS', '/Output control and data acq/GPU-output7/C_MEAS'), ('Net-(Q3-Pad4)', 'Net-(Q28-Pad4)'), ('Net-(R27-Pad2)', 'Net-(R247-Pad2)'), ('VCC5V0', 'VCC5V0'), ('/Output control and data acq/V_ADC1', '/Output control and data acq/V_ADC8'), ('Net-(Q2-Pad4)', 'Net-(Q27-Pad4)'), ('P2', 'P2'), ('GND', 'GND'), ('FAN_PWM_1', 'FAN_PWM_8'), ('/Output control and data acq/GPU-output/CARD_PRESENT', '/Output control and data acq/GPU-output7/CARD_PRESENT'), ('VCC3V3', 'VCC3V3'), ('/Output control and data acq/GPU-output/FAN_PWM_INTERNAL', '/Output control and data acq/GPU-output7/FAN_PWM_INTERNAL'), ('Net-(D5-Pad1)', 'Net-(D34-Pad1)'), ('/Output control and data acq/C_ADC1', '/Output control and data acq/C_ADC8'), ('Net-(D4-PadA)', 'Net-(D33-PadA)'), ('VCC12V0', 'VCC12V0'), ('Net-(Q1-Pad2)', 'Net-(Q26-Pad2)'), ('/Output control and data acq/PC_1', '/Output control and data acq/PC_8')]
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: '/Output control and data acq/GPU-output/C_MEAS'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: '/Output control and data acq/GPU-output7/C_MEAS'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'P2'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'P2'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Src zone on new: 'GND'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Dst zone on new: 'GND'
+11-14 12:23:57 root 299:updating GUI message: 'Replicating text'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1047:Replicating text
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating text on sheet ['Output control and data acq', 'GPU-output1']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating text on sheet ['Output control and data acq', 'GPU-output2']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating text on sheet ['Output control and data acq', 'GPU-output3']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating text on sheet ['Output control and data acq', 'GPU-output4']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating text on sheet ['Output control and data acq', 'GPU-output5']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating text on sheet ['Output control and data acq', 'GPU-output6']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating text on sheet ['Output control and data acq', 'GPU-output7']
+11-14 12:23:57 root 299:updating GUI message: 'Replicating drawings'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1088:Replicating drawings
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1094:Replicating drawings on sheet ['Output control and data acq', 'GPU-output1']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1094:Replicating drawings on sheet ['Output control and data acq', 'GPU-output2']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1094:Replicating drawings on sheet ['Output control and data acq', 'GPU-output3']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1094:Replicating drawings on sheet ['Output control and data acq', 'GPU-output4']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1094:Replicating drawings on sheet ['Output control and data acq', 'GPU-output5']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1094:Replicating drawings on sheet ['Output control and data acq', 'GPU-output6']
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1094:Replicating drawings on sheet ['Output control and data acq', 'GPU-output7']
+11-14 12:23:57 root 299:updating GUI message: 'Removing duplicates'
+11-14 12:23:57 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 223:Replication complete
