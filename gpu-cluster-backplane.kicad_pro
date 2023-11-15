@@ -146,6 +146,10 @@
           "drill": 0.25
         },
         {
+          "diameter": 0.6,
+          "drill": 0.3
+        },
+        {
           "diameter": 0.8,
           "drill": 0.4
         }
@@ -405,8 +409,6 @@
           "GND",
           "VBUS",
           "VCC12V0",
-          "VCC3V3",
-          "VCC5V0",
           "VCC5V0_USB"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
@@ -419,19 +421,22 @@
       {
         "bus_width": 12.0,
         "clearance": 0.127,
-        "diff_pair_gap": 0.127,
+        "diff_pair_gap": 0.3,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.325,
+        "diff_pair_width": 0.185,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "USB_Diff",
-        "nets": [],
+        "nets": [
+          "USB_BACKPLANE_D+",
+          "USB_BACKPLANE_D-"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6.0
       }
     ],
