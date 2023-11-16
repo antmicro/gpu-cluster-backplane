@@ -5102,10 +5102,6 @@
     (effects (font (size 2 2)) (justify left bottom))
     (uuid 3f754ef4-7c0a-47cf-b4f7-a73018b72ee4)
   )
-  (text "check if ~RESET should be pulled HIGH\n" (at 97.155 95.25 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 672fb8a9-08af-4caa-8416-c764d93a4b35)
-  )
   (text "Values for feedback resitors have been\ndivided by 5 (comparing to datasheet) to eliminate\nconverter failure caused by accidential touch"
     (at 132.08 217.17 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))

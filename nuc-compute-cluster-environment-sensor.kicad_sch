@@ -6979,6 +6979,7 @@
     )
   )
 
+
   (junction (at 36.83 156.21) (diameter 0) (color 0 0 0 0)
     (uuid 0034b141-56e6-46b4-bda3-e4b17ad6ca06)
   )
@@ -8829,6 +8830,10 @@
   (text "3V3 LDO,\n300mA max \noutput current" (at 181.61 62.23 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 000fff95-103c-4d90-bfce-75c2a4da4218)
+  )
+  (text "External I2C connector" (at 185.42 236.22 0)
+    (effects (font (size 2 2)) (justify left bottom))
+    (uuid 06595c5e-6a6a-4f5e-ae91-c70542843ea1)
   )
   (text "STM32 Main Microcontroller" (at 139.7 91.44 0)
     (effects (font (size 2 2)) (justify left bottom))

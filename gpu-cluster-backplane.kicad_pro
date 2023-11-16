@@ -164,7 +164,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "multiple_net_names|355600|736600|7f6ea91c-6966-4690-a9c3-679c8dc63b31|75ed6b32-feb4-479f-b04b-343b8f23621a"
+    ],
     "meta": {
       "version": 0
     },
@@ -557,7 +559,7 @@
     ],
     [
       "e533e23e-4e5b-4fd9-a11b-897bfa025959",
-      "Env sensor"
+      "Environment sensor"
     ]
   ],
   "text_variables": {}
