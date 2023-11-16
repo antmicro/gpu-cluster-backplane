@@ -110,7 +110,7 @@
         "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.125,
-        "min_copper_edge_clearance": 0.049999999999999996,
+        "min_copper_edge_clearance": 0.3,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
@@ -164,9 +164,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "multiple_net_names|355600|736600|7f6ea91c-6966-4690-a9c3-679c8dc63b31|75ed6b32-feb4-479f-b04b-343b8f23621a"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
