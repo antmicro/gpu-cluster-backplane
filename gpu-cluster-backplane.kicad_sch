@@ -4994,7 +4994,7 @@
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/64b9bf37-6542-4282-ac5c-0f37eeadadb7/dbc6355a-b8a4-4b1c-86f9-13581bd17b5a"
       (reference "J16") (unit 1) (value "Conn_1-2212115-4") (footprint "antmicro-footprints:Conn_1-2212115-4")
     )
-    (path "/e533e23e-4e5b-4fd9-a11b-897bfa025959/3197c633-ab08-4f23-a09a-0c0fc5c17098"
+    (path "/e533e23e-4e5b-4fd9-a11b-897bfa025959/ae86dc8c-ecf0-4561-a3ee-ff60e349998f"
       (reference "J17") (unit 1) (value "USB-C_GCT_USB4145-03-0070-C") (footprint "antmicro-footprints:USB-C_Receptacle_GCT_USB4145-03-0070-C")
     )
     (path "/e533e23e-4e5b-4fd9-a11b-897bfa025959/6fce7c5e-ef22-4fcb-ab0e-c08473f5fdc7"
