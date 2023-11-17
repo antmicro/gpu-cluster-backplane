@@ -1,6 +1,6 @@
 # GPU cluster backplane
 
-Copyright (c) 2022-2023 [Antmicro](https://www.antmicro.com)
+Copyright (c) 2023 [Antmicro](https://www.antmicro.com)
 
 ![](img/gpu-cluster-backplane-vis.png)
 
