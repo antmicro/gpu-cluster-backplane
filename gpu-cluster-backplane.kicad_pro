@@ -81,7 +81,8 @@
         "silk_over_copper|401958000|154760000|40739a92-1022-498e-a464-ca4e1b148d05|9f0125b4-d549-4beb-8915-c3338dbcfba4",
         "silk_over_copper|55528500|104760000|29a8a9de-8f40-4bc6-bfd0-c56d0bc07af4|6dd8678b-2443-4c44-9cab-102e923590d4",
         "silk_over_copper|74137500|104760000|29a8a9de-8f40-4bc6-bfd0-c56d0bc07af4|b9f1cfd4-cb56-4685-bee0-ad3ae932045f",
-        "silk_over_copper|92128500|104760000|29a8a9de-8f40-4bc6-bfd0-c56d0bc07af4|e485f308-269b-4910-b80a-3e97196f8afa"
+        "silk_over_copper|92128500|104760000|29a8a9de-8f40-4bc6-bfd0-c56d0bc07af4|e485f308-269b-4910-b80a-3e97196f8afa",
+        "track_dangling|158600000|114450000|795b6849-8de0-4126-b42f-80c7a237e158|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "filename": "board_design_settings.json",
