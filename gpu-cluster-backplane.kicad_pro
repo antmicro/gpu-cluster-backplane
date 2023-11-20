@@ -55,7 +55,15 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|121251000|117762144|925df522-09bb-4454-b914-61b615f12694|594b0eca-39ec-4e3c-ba82-978988751c48",
+        "clearance|121399000|115013144|1c7d61e8-0be8-4301-b8d2-44b2cfe64bbe|7344e18b-5948-40df-9240-56e84aaaa74c",
+        "clearance|194451000|117762144|fa988945-c6da-4b2e-b922-9097b7050757|d7c4a6e7-8e6b-4cb1-a8b8-b3dcc6775717",
+        "clearance|194599000|115013144|35a8dfac-f8c1-4c12-84a1-f3f69edcc4ac|5b20dbee-270f-48ab-bb21-04341577fdba",
+        "clearance|267736000|117762144|bdd674db-4169-4373-ab72-5f089caa5953|adce4a14-3ce2-4166-8ec0-4fdb80407421",
+        "clearance|267884000|115013144|40363ad9-d6ce-484e-8487-bac8e3cc4c53|dcf4833f-0379-421a-b19d-0dbcf3a943e2",
+        "clearance|48299000|115013144|afdd8c41-b1a3-424e-9e6a-46b50273edd3|d252a3d7-8821-4c0e-a177-a70334ca993e"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
