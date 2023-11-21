@@ -5516,8 +5516,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 053902aa-6986-4626-a6bd-b2ce7584fb8a)
   )
-  (text "To enable fullspeed when overtemp solder R62, R303, R304, Q30.\nAlso DNP R63"
-    (at 110.49 283.21 0)
+  (text "To enable fullspeed when overtemp solder R62, R303, R304, Q30.\nAlso DNP R63\nSet R62 to 10k"
+    (at 110.49 284.48 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 149a1ebf-0f18-4e2a-90fa-c763ab22ff1a)
   )
