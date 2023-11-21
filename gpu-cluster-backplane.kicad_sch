@@ -3410,11 +3410,17 @@
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/6856186c-1e93-4740-9e37-24a4d6ebd38c"
       (reference "#FLG0111") (unit 1) (value "PWR_FLAG") (footprint "")
     )
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/4bb88696-6ec9-43c9-9880-24f2278129ee"
+      (reference "#PWR01") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000062220f27/9ea43fff-0b9a-4703-8007-d1f0d1b6c21b"
       (reference "#PWR02") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/e6cbd8eb-9d99-464c-902e-da91e1516900"
       (reference "#PWR03") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/a7434087-f1a3-40e2-b405-d847a26f0f59"
+      (reference "#PWR04") (unit 1) (value "GND") (footprint "")
     )
     (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/29e9d01e-5603-4780-bf1d-951b61f6abc3"
       (reference "#PWR06") (unit 1) (value "GND") (footprint "")
@@ -5291,6 +5297,9 @@
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/886ad4e3-2bd5-4138-9aec-9f66f0eaee18"
       (reference "Q29") (unit 1) (value "BC807-25W") (footprint "antmicro-footprints:SOT-323")
     )
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/82ece5f6-95e1-44ad-bc2e-ce7bc85376e7"
+      (reference "Q30") (unit 1) (value "BSS138PW") (footprint "antmicro-footprints:SC70-3")
+    )
     (path "/00000000-0000-0000-0000-000062220f27/3319202c-007e-4394-ae0e-f5fcf3a37eb4"
       (reference "R1") (unit 1) (value "R_330R_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
@@ -6196,6 +6205,12 @@
     )
     (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/51b0d8bc-e00e-4a5c-affc-e73ff46b6329"
       (reference "R302") (unit 1) (value "R_0R_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
+    )
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/606eef9a-1f0c-48f0-a6c4-448db0fec1e6"
+      (reference "R303") (unit 1) (value "R_10k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
+    )
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/61e46c60-3ac1-4df4-bc18-30c7d7b8f5fb"
+      (reference "R304") (unit 1) (value "R_100R_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/31711d0d-ecdc-46b0-9e63-679ac3ee67eb"
       (reference "SW1") (unit 1) (value "MSS3-V-T_R") (footprint "antmicro-footprints:Switch_Slide_MSS3")
