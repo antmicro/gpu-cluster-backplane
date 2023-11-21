@@ -4589,6 +4589,9 @@
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/64b9bf37-6542-4282-ac5c-0f37eeadadb7/6f29e94f-1e90-433e-949c-f51c445243eb"
       (reference "#PWR0411") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/7871547e-6015-4e29-8b6e-a99f26cced13"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/f793c79b-9fb5-4239-8a76-eb548534cf07"
       (reference "BAT1") (unit 1) (value "BAT-HLD-012-SMT-TR") (footprint "antmicro-footprints:BAT_BAT-HLD-012-SMT-TR")
     )
