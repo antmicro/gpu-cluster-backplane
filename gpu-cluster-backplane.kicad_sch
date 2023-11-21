@@ -5141,14 +5141,14 @@
     (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/aa3c8b08-09de-40c7-87e5-f0da6d2b7db4"
       (reference "J17") (unit 1) (value "USB-C_GCT_USB4145-03-0070-C") (footprint "antmicro-footprints:USB-C_Receptacle_GCT_USB4145-03-0070-C")
     )
-    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/f8a8f51a-8a06-4c1c-9499-302900f5d686"
-      (reference "J18") (unit 1) (value "SM04B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:SM04B-SRSS-TB-LF-SN")
+    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/9c27f3be-e7dc-43ef-8026-3d7c9230adbd"
+      (reference "J18") (unit 1) (value "JST_SH_1x4_SM04B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:Conn_JST_SH_1x4_SM04B-SRSS-TB-LF-SN")
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/c860b157-b649-466a-abe2-2e2be13ac233"
       (reference "J19") (unit 1) (value "USB-C_GCT_USB4145-03-0070-C") (footprint "antmicro-footprints:USB-C_Receptacle_GCT_USB4145-03-0070-C")
     )
-    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/efd1e413-031e-4de8-ba15-c607238b080b"
-      (reference "J20") (unit 1) (value "SM04B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:SM04B-SRSS-TB-LF-SN")
+    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/2d2c606e-224a-41cc-bc60-91acb22f96f9"
+      (reference "J20") (unit 1) (value "JST_SH_1x4_SM04B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:Conn_JST_SH_1x4_SM04B-SRSS-TB-LF-SN")
     )
     (path "/00000000-0000-0000-0000-000062220f27/8dabdc3a-0b1d-4243-88ba-0fca32837669"
       (reference "L1") (unit 1) (value "L_3u3_4.1A_WE-LHMI-5030") (footprint "antmicro-footprints:L_WE-LHMI-5030")
