@@ -5195,8 +5195,8 @@
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/64b9bf37-6542-4282-ac5c-0f37eeadadb7/dbc6355a-b8a4-4b1c-86f9-13581bd17b5a"
       (reference "J16") (unit 1) (value "Conn_1-2212115-4") (footprint "antmicro-footprints:Conn_1-2212115-4")
     )
-    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/3d64718d-9fb0-48dc-98c9-8904d29806f6"
-      (reference "J17") (unit 1) (value "USB-C_USB4105-GF-A") (footprint "antmicro-footprints:USB-C_GCT_USB4105-GF-A")
+    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/aa3c8b08-09de-40c7-87e5-f0da6d2b7db4"
+      (reference "J17") (unit 1) (value "USB-C_GCT_USB4145-03-0070-C") (footprint "antmicro-footprints:USB-C_Receptacle_GCT_USB4145-03-0070-C")
     )
     (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/f8a8f51a-8a06-4c1c-9499-302900f5d686"
       (reference "J18") (unit 1) (value "SM04B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:SM04B-SRSS-TB-LF-SN")
@@ -5246,14 +5246,14 @@
     (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/c0ea5bea-192d-48e7-b54d-40eb9d854700"
       (reference "MP9") (unit 1) (value "MP_Pad6mm_Drill3mm") (footprint "antmicro-footprints:MP_Pad6mm_Drill3mm")
     )
-    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/ca024669-51e3-411b-8457-fd0a93701818"
-      (reference "MP10") (unit 1) (value "PCB_Mount_Hole_2.7mm_M2.5_pad") (footprint "antmicro-footprints:mounting-hole-2.7mm-M2.5-Pad")
+    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/e5f97f92-a448-477e-9ab2-db205cfd2502"
+      (reference "MP10") (unit 1) (value "MP_Pad5.4mm_Drill2.7mm") (footprint "antmicro-footprints:MP_Pad5.4mm_Drill2.7mm")
     )
-    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/4a6ee6eb-5bc8-44b1-bf9c-573b92bbd489"
-      (reference "MP11") (unit 1) (value "PCB_Mount_Hole_2.7mm_M2.5_pad") (footprint "antmicro-footprints:mounting-hole-2.7mm-M2.5-Pad")
+    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/778e9dea-f813-4719-8a54-29959a4ee663"
+      (reference "MP11") (unit 1) (value "MP_Pad5.4mm_Drill2.7mm") (footprint "antmicro-footprints:MP_Pad5.4mm_Drill2.7mm")
     )
-    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/58524e38-3dee-49ca-b1ae-8a088132f94a"
-      (reference "MP12") (unit 1) (value "PCB_Mount_Hole_2.7mm_M2.5_pad") (footprint "antmicro-footprints:mounting-hole-2.7mm-M2.5-Pad")
+    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/43426c8a-dad5-4c22-a848-75530d3db852"
+      (reference "MP12") (unit 1) (value "MP_Pad5.4mm_Drill2.7mm") (footprint "antmicro-footprints:MP_Pad5.4mm_Drill2.7mm")
     )
     (path "/13cf1c74-fc9e-45c9-bc98-99d130f0b206"
       (reference "N1") (unit 1) (value "antmicro_logo") (footprint "antmicro-footprints:antmicro-logo_scaled_20mm")
