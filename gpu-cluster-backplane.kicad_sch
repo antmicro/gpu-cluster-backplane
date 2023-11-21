@@ -6503,8 +6503,8 @@
     (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/ebbeb46e-0dc1-4e67-b23e-00c9df049c5e"
       (reference "U30") (unit 1) (value "SHT45") (footprint "antmicro-footprints:Sensirion_DFN-4-1.5x1.5x0.5mm_P0.8mm")
     )
-    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/34d1ea42-d641-433e-8494-4a4e3a89c64b"
-      (reference "U31") (unit 1) (value "BME280") (footprint "antmicro-footprints:Pressure_Sensor_LGA-8_2.5x2.5mm_BME280")
+    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/a7a348f2-0fb6-46d6-ad71-8f603070c200"
+      (reference "U31") (unit 1) (value "BME280") (footprint "antmicro-footprints:LGA-8_2.5x2.5mm_BME280")
     )
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/04a027ef-6cb3-46e0-9c8b-839fbc699922/f2b8571b-245d-4fbc-a0c3-a57e61bdfe17"
       (reference "U33") (unit 1) (value "SN74LV1T125DBVR") (footprint "antmicro-footprints:SOT-23-5")
