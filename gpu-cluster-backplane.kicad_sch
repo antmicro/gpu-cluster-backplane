@@ -4007,6 +4007,9 @@
     (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/8acb1f4b-7565-4a76-99c9-bde523e28ca3"
       (reference "#PWR0207") (unit 1) (value "GND") (footprint "")
     )
+    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/7871547e-6015-4e29-8b6e-a99f26cced13"
+      (reference "#PWR0208") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/204e0897-3aee-4c22-af96-21f8b21af049/6e9e0a6c-56f5-48a7-8370-171ca2238fa3"
       (reference "#PWR0209") (unit 1) (value "+3V3") (footprint "")
     )
@@ -4589,9 +4592,6 @@
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/64b9bf37-6542-4282-ac5c-0f37eeadadb7/6f29e94f-1e90-433e-949c-f51c445243eb"
       (reference "#PWR0411") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/7871547e-6015-4e29-8b6e-a99f26cced13"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
-    )
     (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/f793c79b-9fb5-4239-8a76-eb548534cf07"
       (reference "BAT1") (unit 1) (value "BAT-HLD-012-SMT-TR") (footprint "antmicro-footprints:BAT_BAT-HLD-012-SMT-TR")
     )
@@ -5099,6 +5099,42 @@
     (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/a21dff19-cb31-418a-8043-1c4218348968"
       (reference "FB17") (unit 1) (value "FB_120Z_2A_0603") (footprint "antmicro-footprints:FB_0603_1608Metric")
     )
+    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/8b9a6a6c-64f2-45b3-a48f-4beb26b7c7d8"
+      (reference "H1") (unit 1) (value "Spacer_Drill3.7mm_H10mm_9774100151R") (footprint "antmicro-footprints:Spacer_Drill3.7mm_H10mm_9774100151R")
+    )
+    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/6957e93a-3cc6-49a2-b0f0-0702f236112f"
+      (reference "H2") (unit 1) (value "Spacer_Drill3.7mm_H10mm_9774100151R") (footprint "antmicro-footprints:Spacer_Drill3.7mm_H10mm_9774100151R")
+    )
+    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/f50404d3-7ea7-48e8-968d-72f1ca9eaad9"
+      (reference "H3") (unit 1) (value "Spacer_Drill3.7mm_H10mm_9774100151R") (footprint "antmicro-footprints:Spacer_Drill3.7mm_H10mm_9774100151R")
+    )
+    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/8d895be5-0aa9-4012-b51e-ddfb0dc95941"
+      (reference "H4") (unit 1) (value "Spacer_Drill3.7mm_H10mm_9774100151R") (footprint "antmicro-footprints:Spacer_Drill3.7mm_H10mm_9774100151R")
+    )
+    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/7f1f1b54-41bc-4d2d-a53f-f239317523fe"
+      (reference "H5") (unit 1) (value "Spacer_Drill3.7mm_H10mm_9774100151R") (footprint "antmicro-footprints:Spacer_Drill3.7mm_H10mm_9774100151R")
+    )
+    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/617c41e8-5210-4f0a-b24f-27e15bfa96f5"
+      (reference "H6") (unit 1) (value "Spacer_Drill3.7mm_H10mm_9774100151R") (footprint "antmicro-footprints:Spacer_Drill3.7mm_H10mm_9774100151R")
+    )
+    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/fc54c6a8-a122-41d5-9b53-4035734af18b"
+      (reference "H7") (unit 1) (value "Spacer_Drill3.7mm_H10mm_9774100151R") (footprint "antmicro-footprints:Spacer_Drill3.7mm_H10mm_9774100151R")
+    )
+    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/350b4147-44c0-444d-8bc5-01d981e3427c"
+      (reference "H8") (unit 1) (value "Spacer_Drill3.7mm_H10mm_9774100151R") (footprint "antmicro-footprints:Spacer_Drill3.7mm_H10mm_9774100151R")
+    )
+    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/8dad9e8f-3772-4681-8ed3-c38b3ec2ef1b"
+      (reference "H9") (unit 1) (value "Spacer_Drill3.7mm_H10mm_9774100151R") (footprint "antmicro-footprints:Spacer_Drill3.7mm_H10mm_9774100151R")
+    )
+    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/027e9c99-f3f7-46b2-9fa9-409954401c2a"
+      (reference "H10") (unit 1) (value "Spacer_Drill3.7mm_H10mm_9774100151R") (footprint "antmicro-footprints:Spacer_Drill3.7mm_H10mm_9774100151R")
+    )
+    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/6dc22f57-5dbd-46e9-a93f-51a74c55488c"
+      (reference "H11") (unit 1) (value "Spacer_Drill3.7mm_H10mm_9774100151R") (footprint "antmicro-footprints:Spacer_Drill3.7mm_H10mm_9774100151R")
+    )
+    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/a17df4b5-1a68-4318-8edd-b3ed93d28036"
+      (reference "H12") (unit 1) (value "Spacer_Drill3.7mm_H10mm_9774100151R") (footprint "antmicro-footprints:Spacer_Drill3.7mm_H10mm_9774100151R")
+    )
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/04a027ef-6cb3-46e0-9c8b-839fbc699922/dbc6355a-b8a4-4b1c-86f9-13581bd17b5a"
       (reference "J1") (unit 1) (value "Conn_1-2212115-4") (footprint "antmicro-footprints:Conn_1-2212115-4")
     )
@@ -5170,42 +5206,6 @@
     )
     (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/8de61e21-5f5f-49a6-b5d5-feb6898fa72b"
       (reference "LD2") (unit 1) (value "LED_G_0603_KP-1608ZGC") (footprint "antmicro-footprints:LED_0603_1608Metric_G")
-    )
-    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/07f5d528-970c-48b2-8b04-9db668cfea30"
-      (reference "MP1") (unit 1) (value "MP_Pad6mm_Drill3mm") (footprint "antmicro-footprints:MP_Pad6mm_Drill3mm")
-    )
-    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/5c83374b-7556-4af8-9795-0a0c7b6fc84a"
-      (reference "MP2") (unit 1) (value "MP_Pad6mm_Drill3mm") (footprint "antmicro-footprints:MP_Pad6mm_Drill3mm")
-    )
-    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/a113c995-8482-4e83-9f63-54522aa530d8"
-      (reference "MP3") (unit 1) (value "MP_Pad6mm_Drill3mm") (footprint "antmicro-footprints:MP_Pad6mm_Drill3mm")
-    )
-    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/c287e551-e869-437b-8e23-5ed6c3b2d6b5"
-      (reference "MP4") (unit 1) (value "MP_Pad6mm_Drill3mm") (footprint "antmicro-footprints:MP_Pad6mm_Drill3mm")
-    )
-    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/c8b33547-c177-4be1-adf8-4f4822473972"
-      (reference "MP5") (unit 1) (value "MP_Pad6mm_Drill3mm") (footprint "antmicro-footprints:MP_Pad6mm_Drill3mm")
-    )
-    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/5075e54e-fb32-4815-9b1f-2d2d628e52a6"
-      (reference "MP6") (unit 1) (value "MP_Pad6mm_Drill3mm") (footprint "antmicro-footprints:MP_Pad6mm_Drill3mm")
-    )
-    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/3d83d5df-a485-43bf-8a31-dc4371f620ae"
-      (reference "MP7") (unit 1) (value "MP_Pad6mm_Drill3mm") (footprint "antmicro-footprints:MP_Pad6mm_Drill3mm")
-    )
-    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/4cf10526-cd60-46bd-a6eb-c410bf74c3d6"
-      (reference "MP8") (unit 1) (value "MP_Pad6mm_Drill3mm") (footprint "antmicro-footprints:MP_Pad6mm_Drill3mm")
-    )
-    (path "/bca41246-5f9e-44a6-89f5-aaffb4c7ee99/c0ea5bea-192d-48e7-b54d-40eb9d854700"
-      (reference "MP9") (unit 1) (value "MP_Pad6mm_Drill3mm") (footprint "antmicro-footprints:MP_Pad6mm_Drill3mm")
-    )
-    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/e5f97f92-a448-477e-9ab2-db205cfd2502"
-      (reference "MP10") (unit 1) (value "MP_Pad5.4mm_Drill2.7mm") (footprint "antmicro-footprints:MP_Pad5.4mm_Drill2.7mm")
-    )
-    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/778e9dea-f813-4719-8a54-29959a4ee663"
-      (reference "MP11") (unit 1) (value "MP_Pad5.4mm_Drill2.7mm") (footprint "antmicro-footprints:MP_Pad5.4mm_Drill2.7mm")
-    )
-    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/43426c8a-dad5-4c22-a848-75530d3db852"
-      (reference "MP12") (unit 1) (value "MP_Pad5.4mm_Drill2.7mm") (footprint "antmicro-footprints:MP_Pad5.4mm_Drill2.7mm")
     )
     (path "/13cf1c74-fc9e-45c9-bc98-99d130f0b206"
       (reference "N1") (unit 1) (value "antmicro_logo") (footprint "antmicro-footprints:antmicro-logo_scaled_20mm")
