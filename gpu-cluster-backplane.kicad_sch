@@ -4928,8 +4928,8 @@
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/04a027ef-6cb3-46e0-9c8b-839fbc699922/9bec343c-77cc-4d49-be27-eb86d30eb6e0"
       (reference "D5") (unit 1) (value "LED_G_0603_LG_L29K-G2J1-24-Z") (footprint "antmicro-footprints:LED_0603_1608Metric_G")
     )
-    (path "/2fc489a5-703f-4762-965d-adf8e763b673/04a027ef-6cb3-46e0-9c8b-839fbc699922/7daaf096-1672-47d4-ad53-535a184e1ee7"
-      (reference "D6") (unit 1) (value "ESDA25P35-1U1M") (footprint "antmicro-footprints:ESDA25P35-1U1M")
+    (path "/2fc489a5-703f-4762-965d-adf8e763b673/04a027ef-6cb3-46e0-9c8b-839fbc699922/ab189459-54ea-4d2e-8fde-28c44b0512b9"
+      (reference "D6") (unit 1) (value "ESD5B5_0ST1G") (footprint "antmicro-footprints:SOD-523_NP")
     )
     (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/bb484414-305d-456d-9c31-27cab5f84d3d"
       (reference "D7") (unit 1) (value "1N4148WS-7-F") (footprint "antmicro-footprints:SOD-323")
@@ -4961,8 +4961,8 @@
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/204e0897-3aee-4c22-af96-21f8b21af049/9bec343c-77cc-4d49-be27-eb86d30eb6e0"
       (reference "D16") (unit 1) (value "LED_G_0603_LG_L29K-G2J1-24-Z") (footprint "antmicro-footprints:LED_0603_1608Metric_G")
     )
-    (path "/2fc489a5-703f-4762-965d-adf8e763b673/204e0897-3aee-4c22-af96-21f8b21af049/7daaf096-1672-47d4-ad53-535a184e1ee7"
-      (reference "D17") (unit 1) (value "ESDA25P35-1U1M") (footprint "antmicro-footprints:ESDA25P35-1U1M")
+    (path "/2fc489a5-703f-4762-965d-adf8e763b673/204e0897-3aee-4c22-af96-21f8b21af049/ab189459-54ea-4d2e-8fde-28c44b0512b9"
+      (reference "D17") (unit 1) (value "ESD5B5_0ST1G") (footprint "antmicro-footprints:SOD-523_NP")
     )
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/67ea593b-dd98-43a2-ac72-4ea1303a8039/eb1f910f-f804-47d6-93f6-d630faf96009"
       (reference "D18") (unit 1) (value "BZT52C15-7-F") (footprint "antmicro-footprints:D_SOD-123F")
@@ -4970,8 +4970,8 @@
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/67ea593b-dd98-43a2-ac72-4ea1303a8039/9bec343c-77cc-4d49-be27-eb86d30eb6e0"
       (reference "D19") (unit 1) (value "LED_G_0603_LG_L29K-G2J1-24-Z") (footprint "antmicro-footprints:LED_0603_1608Metric_G")
     )
-    (path "/2fc489a5-703f-4762-965d-adf8e763b673/67ea593b-dd98-43a2-ac72-4ea1303a8039/7daaf096-1672-47d4-ad53-535a184e1ee7"
-      (reference "D20") (unit 1) (value "ESDA25P35-1U1M") (footprint "antmicro-footprints:ESDA25P35-1U1M")
+    (path "/2fc489a5-703f-4762-965d-adf8e763b673/67ea593b-dd98-43a2-ac72-4ea1303a8039/ab189459-54ea-4d2e-8fde-28c44b0512b9"
+      (reference "D20") (unit 1) (value "ESD5B5_0ST1G") (footprint "antmicro-footprints:SOD-523_NP")
     )
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/e86fd581-bf67-481e-b49d-1b8c1d1eff8e/eb1f910f-f804-47d6-93f6-d630faf96009"
       (reference "D21") (unit 1) (value "BZT52C15-7-F") (footprint "antmicro-footprints:D_SOD-123F")
@@ -4979,8 +4979,8 @@
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/e86fd581-bf67-481e-b49d-1b8c1d1eff8e/9bec343c-77cc-4d49-be27-eb86d30eb6e0"
       (reference "D22") (unit 1) (value "LED_G_0603_LG_L29K-G2J1-24-Z") (footprint "antmicro-footprints:LED_0603_1608Metric_G")
     )
-    (path "/2fc489a5-703f-4762-965d-adf8e763b673/e86fd581-bf67-481e-b49d-1b8c1d1eff8e/7daaf096-1672-47d4-ad53-535a184e1ee7"
-      (reference "D23") (unit 1) (value "ESDA25P35-1U1M") (footprint "antmicro-footprints:ESDA25P35-1U1M")
+    (path "/2fc489a5-703f-4762-965d-adf8e763b673/e86fd581-bf67-481e-b49d-1b8c1d1eff8e/ab189459-54ea-4d2e-8fde-28c44b0512b9"
+      (reference "D23") (unit 1) (value "ESD5B5_0ST1G") (footprint "antmicro-footprints:SOD-523_NP")
     )
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/ef6dcb14-8727-4d1a-a94f-c8f9bbc7a9e4/eb1f910f-f804-47d6-93f6-d630faf96009"
       (reference "D24") (unit 1) (value "BZT52C15-7-F") (footprint "antmicro-footprints:D_SOD-123F")
@@ -4988,8 +4988,8 @@
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/ef6dcb14-8727-4d1a-a94f-c8f9bbc7a9e4/9bec343c-77cc-4d49-be27-eb86d30eb6e0"
       (reference "D25") (unit 1) (value "LED_G_0603_LG_L29K-G2J1-24-Z") (footprint "antmicro-footprints:LED_0603_1608Metric_G")
     )
-    (path "/2fc489a5-703f-4762-965d-adf8e763b673/ef6dcb14-8727-4d1a-a94f-c8f9bbc7a9e4/7daaf096-1672-47d4-ad53-535a184e1ee7"
-      (reference "D26") (unit 1) (value "ESDA25P35-1U1M") (footprint "antmicro-footprints:ESDA25P35-1U1M")
+    (path "/2fc489a5-703f-4762-965d-adf8e763b673/ef6dcb14-8727-4d1a-a94f-c8f9bbc7a9e4/ab189459-54ea-4d2e-8fde-28c44b0512b9"
+      (reference "D26") (unit 1) (value "ESD5B5_0ST1G") (footprint "antmicro-footprints:SOD-523_NP")
     )
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/c24d6f2d-f5c9-4d75-ba96-cdff61983e02/eb1f910f-f804-47d6-93f6-d630faf96009"
       (reference "D27") (unit 1) (value "BZT52C15-7-F") (footprint "antmicro-footprints:D_SOD-123F")
@@ -4997,8 +4997,8 @@
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/c24d6f2d-f5c9-4d75-ba96-cdff61983e02/9bec343c-77cc-4d49-be27-eb86d30eb6e0"
       (reference "D28") (unit 1) (value "LED_G_0603_LG_L29K-G2J1-24-Z") (footprint "antmicro-footprints:LED_0603_1608Metric_G")
     )
-    (path "/2fc489a5-703f-4762-965d-adf8e763b673/c24d6f2d-f5c9-4d75-ba96-cdff61983e02/7daaf096-1672-47d4-ad53-535a184e1ee7"
-      (reference "D29") (unit 1) (value "ESDA25P35-1U1M") (footprint "antmicro-footprints:ESDA25P35-1U1M")
+    (path "/2fc489a5-703f-4762-965d-adf8e763b673/c24d6f2d-f5c9-4d75-ba96-cdff61983e02/ab189459-54ea-4d2e-8fde-28c44b0512b9"
+      (reference "D29") (unit 1) (value "ESD5B5_0ST1G") (footprint "antmicro-footprints:SOD-523_NP")
     )
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/70a87bb3-17e5-4f5c-a4da-1915c51ec71c/eb1f910f-f804-47d6-93f6-d630faf96009"
       (reference "D30") (unit 1) (value "BZT52C15-7-F") (footprint "antmicro-footprints:D_SOD-123F")
@@ -5006,8 +5006,8 @@
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/70a87bb3-17e5-4f5c-a4da-1915c51ec71c/9bec343c-77cc-4d49-be27-eb86d30eb6e0"
       (reference "D31") (unit 1) (value "LED_G_0603_LG_L29K-G2J1-24-Z") (footprint "antmicro-footprints:LED_0603_1608Metric_G")
     )
-    (path "/2fc489a5-703f-4762-965d-adf8e763b673/70a87bb3-17e5-4f5c-a4da-1915c51ec71c/7daaf096-1672-47d4-ad53-535a184e1ee7"
-      (reference "D32") (unit 1) (value "ESDA25P35-1U1M") (footprint "antmicro-footprints:ESDA25P35-1U1M")
+    (path "/2fc489a5-703f-4762-965d-adf8e763b673/70a87bb3-17e5-4f5c-a4da-1915c51ec71c/ab189459-54ea-4d2e-8fde-28c44b0512b9"
+      (reference "D32") (unit 1) (value "ESD5B5_0ST1G") (footprint "antmicro-footprints:SOD-523_NP")
     )
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/64b9bf37-6542-4282-ac5c-0f37eeadadb7/eb1f910f-f804-47d6-93f6-d630faf96009"
       (reference "D33") (unit 1) (value "BZT52C15-7-F") (footprint "antmicro-footprints:D_SOD-123F")
@@ -5015,8 +5015,8 @@
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/64b9bf37-6542-4282-ac5c-0f37eeadadb7/9bec343c-77cc-4d49-be27-eb86d30eb6e0"
       (reference "D34") (unit 1) (value "LED_G_0603_LG_L29K-G2J1-24-Z") (footprint "antmicro-footprints:LED_0603_1608Metric_G")
     )
-    (path "/2fc489a5-703f-4762-965d-adf8e763b673/64b9bf37-6542-4282-ac5c-0f37eeadadb7/7daaf096-1672-47d4-ad53-535a184e1ee7"
-      (reference "D35") (unit 1) (value "ESDA25P35-1U1M") (footprint "antmicro-footprints:ESDA25P35-1U1M")
+    (path "/2fc489a5-703f-4762-965d-adf8e763b673/64b9bf37-6542-4282-ac5c-0f37eeadadb7/ab189459-54ea-4d2e-8fde-28c44b0512b9"
+      (reference "D35") (unit 1) (value "ESD5B5_0ST1G") (footprint "antmicro-footprints:SOD-523_NP")
     )
     (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/28e36f7b-9c95-44f7-88dd-21e8bdc02ad8"
       (reference "D36") (unit 1) (value "ESD9X5.0ST5G") (footprint "antmicro-footprints:SOD-923")
