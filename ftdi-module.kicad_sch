@@ -6,7 +6,7 @@
 
   (title_block
     (title "GPU Cluster Backplane")
-    (date "2023-11-09")
+    (date "2023-11-24")
     (rev "1.0.0")
     (company "Antmicro Ltd")
     (comment 1 "www.antmicro.com")
@@ -2062,6 +2062,7 @@
       )
     )
   )
+
 
   (junction (at 340.36 193.04) (diameter 0) (color 0 0 0 0)
     (uuid 0473971f-ab02-4f18-a905-17cd2629bfef)

@@ -6,7 +6,7 @@
 
   (title_block
     (title "GPU Cluster Backplane")
-    (date "2023-11-09")
+    (date "2023-11-24")
     (rev "1.0.0")
     (company "Antmicro Ltd")
     (comment 1 "www.antmicro.com")
@@ -3362,9 +3362,6 @@
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/2cf0c92c-8d70-4e04-b955-5d4b62fd4398"
       (reference "#FLG07") (unit 1) (value "PWR_FLAG") (footprint "")
     )
-    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/b4349790-34b8-42aa-9e3c-dfb565fbc98b"
-      (reference "#FLG08") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
     (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/682d0a2f-3d58-48c5-af8a-ac5e3e06fe5f"
       (reference "#FLG09") (unit 1) (value "PWR_FLAG") (footprint "")
     )
@@ -3409,6 +3406,9 @@
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/6856186c-1e93-4740-9e37-24a4d6ebd38c"
       (reference "#FLG0111") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/368ee2b3-bfb9-47f4-920b-157582aee415"
+      (reference "#FLG0112") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/4bb88696-6ec9-43c9-9880-24f2278129ee"
       (reference "#PWR01") (unit 1) (value "+3V3") (footprint "")
