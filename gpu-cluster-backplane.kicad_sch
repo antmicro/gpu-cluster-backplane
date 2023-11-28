@@ -4592,6 +4592,9 @@
     (path "/2fc489a5-703f-4762-965d-adf8e763b673/64b9bf37-6542-4282-ac5c-0f37eeadadb7/6f29e94f-1e90-433e-949c-f51c445243eb"
       (reference "#PWR0411") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/5712f4f7-267c-4cdd-a3ad-07840ae1444a"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/f793c79b-9fb5-4239-8a76-eb548534cf07"
       (reference "BAT1") (unit 1) (value "BAT-HLD-012-SMT-TR") (footprint "antmicro-footprints:BAT_BAT-HLD-012-SMT-TR")
     )
@@ -5194,6 +5197,9 @@
     )
     (path "/7683f3e4-00d0-4793-94e6-2229e562f7ca/2d2c606e-224a-41cc-bc60-91acb22f96f9"
       (reference "J20") (unit 1) (value "JST_SH_1x4_SM04B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:Conn_JST_SH_1x4_SM04B-SRSS-TB-LF-SN")
+    )
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/ec5e6422-50c6-47bd-b9c2-b7580b50c2ad"
+      (reference "J?") (unit 1) (value "JST_SH_1x2_BM02B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:Conn_JST_SH_1x2_BM02B-SRSS-TB-LF-SN")
     )
     (path "/00000000-0000-0000-0000-000062220f27/8dabdc3a-0b1d-4243-88ba-0fca32837669"
       (reference "L1") (unit 1) (value "L_3u3_4.1A_WE-LHMI-5030") (footprint "antmicro-footprints:L_WE-LHMI-5030")
