@@ -5141,20 +5141,17 @@
     (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/8baa79e2-6d58-41a0-b8bb-3c97dca40411"
       (reference "J2") (unit 1) (value "JST_XH_1x2_B2B-XH-A-LF-SN") (footprint "antmicro-footprints:Conn_JST_XH_1x2_B2B-XH-A-LF-SN")
     )
-    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/2b97d55b-d713-41c2-be60-1a8f25f4bff9"
-      (reference "J3") (unit 1) (value "JST_SH_1x4_BM04B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:Conn_JST_SH_1x4_BM04B-SRSS-TB-LF-SN")
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/fa129547-f069-49fa-90a9-bd6019e00a0a"
+      (reference "J3") (unit 1) (value "Molex_KK_1x4_22-23-2041") (footprint "antmicro-footprints:Conn_Molex_KK_1x4_22-23-2041")
     )
-    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/e555f2e3-82f1-4c32-83b8-99f69d4d337c"
-      (reference "J4") (unit 1) (value "JST_SH_1x4_BM04B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:Conn_JST_SH_1x4_BM04B-SRSS-TB-LF-SN")
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/c3da3fb8-749f-4443-8073-eb9b44316e19"
+      (reference "J4") (unit 1) (value "Molex_KK_1x4_22-23-2041") (footprint "antmicro-footprints:Conn_Molex_KK_1x4_22-23-2041")
     )
-    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/94bbcd38-97e2-4b1e-a519-55da90305e96"
-      (reference "J5") (unit 1) (value "JST_SH_1x4_BM04B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:Conn_JST_SH_1x4_BM04B-SRSS-TB-LF-SN")
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/912c1bf3-35eb-4144-932b-de71568b5e58"
+      (reference "J5") (unit 1) (value "Molex_KK_1x4_22-23-2041") (footprint "antmicro-footprints:Conn_Molex_KK_1x4_22-23-2041")
     )
-    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/4de1cafc-2ffa-4abd-ad96-4b50a6b3c26e"
-      (reference "J6") (unit 1) (value "JST_SH_1x4_BM04B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:Conn_JST_SH_1x4_BM04B-SRSS-TB-LF-SN")
-    )
-    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/f7e95770-b6ba-4a5f-a009-66a93966c915"
-      (reference "J7") (unit 1) (value "JST_SH_1x4_BM04B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:Conn_JST_SH_1x4_BM04B-SRSS-TB-LF-SN")
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/4fd083f3-daf9-449f-be18-efd39a42f6bb"
+      (reference "J6") (unit 1) (value "Molex_KK_1x4_22-23-2041") (footprint "antmicro-footprints:Conn_Molex_KK_1x4_22-23-2041")
     )
     (path "/53b81f23-9977-43ed-8653-ef76934c16e5/feefd1b7-a835-4894-bc5c-ee3843a439ea"
       (reference "J8") (unit 1) (value "Socket_10107844-002LF") (footprint "antmicro-footprints:Socket_10107844-002LF")
@@ -5197,6 +5194,9 @@
     )
     (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/ec5e6422-50c6-47bd-b9c2-b7580b50c2ad"
       (reference "J21") (unit 1) (value "JST_SH_1x2_BM02B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:Conn_JST_SH_1x2_BM02B-SRSS-TB-LF-SN")
+    )
+    (path "/bcb16a6a-fd3f-4f16-bb24-31b44a65af30/045c0c91-6934-4a21-8f3a-90d01397c3c6"
+      (reference "J23") (unit 1) (value "Molex_KK_1x4_22-23-2041") (footprint "antmicro-footprints:Conn_Molex_KK_1x4_22-23-2041")
     )
     (path "/00000000-0000-0000-0000-000062220f27/8dabdc3a-0b1d-4243-88ba-0fca32837669"
       (reference "L1") (unit 1) (value "L_3u3_4.1A_WE-LHMI-5030") (footprint "antmicro-footprints:L_WE-LHMI-5030")
