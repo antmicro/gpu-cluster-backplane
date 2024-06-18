@@ -35,10 +35,13 @@
       (property "Author" "Antmicro" (at 15.24 -20.32 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
+      (property "Public" "False" (at 22.86 -12.7 0)
+        (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+      )
       (property "License" "Apache-2.0" (at 15.24 -22.86 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (property "ki_keywords" "MECHANICAL, Spacer" (at 0 0 0)
+      (property "ki_keywords" "MECHANICAL, SPACER" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_description" "Spacer, SMT, Steel, Threaded, Swage Round, Tin plated, M2.5, WA-SMSI Series" (at 0 0 0)
@@ -2411,6 +2414,9 @@
     (property "License" "Apache-2.0" (at 226.06 129.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
+    (property "Public" "False" (at 218.44 139.7 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
     (pin "1" (uuid d8e85cb1-1cb9-4d48-8e43-3c5f4e6a5df3))
     (instances
       (project "gpu-cluster-backplane"
@@ -2510,6 +2516,9 @@
     (property "License" "Apache-2.0" (at 204.47 129.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
+    (property "Public" "False" (at 196.85 139.7 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
     (pin "1" (uuid 71ae1d12-55b2-423c-a0ce-27e38b41e170))
     (instances
       (project "gpu-cluster-backplane"
@@ -2546,6 +2555,9 @@
     )
     (property "License" "Apache-2.0" (at 161.29 129.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+    )
+    (property "Public" "False" (at 153.67 139.7 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (pin "1" (uuid ec5922b2-a289-4f3b-93ac-3074c031c5d1))
     (instances
@@ -2615,6 +2627,9 @@
     (property "License" "Apache-2.0" (at 204.47 105.41 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
+    (property "Public" "False" (at 196.85 115.57 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
     (pin "1" (uuid 16e74146-58ae-4422-bc2f-8efba71ddae6))
     (instances
       (project "gpu-cluster-backplane"
@@ -2651,6 +2666,9 @@
     )
     (property "License" "Apache-2.0" (at 161.29 105.41 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+    )
+    (property "Public" "False" (at 153.67 115.57 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (pin "1" (uuid 7cfd2040-f589-4e40-bd0c-25ae82adad2d))
     (instances
@@ -2689,6 +2707,9 @@
     (property "License" "Apache-2.0" (at 182.88 129.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
+    (property "Public" "False" (at 175.26 139.7 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
     (pin "1" (uuid 5555d890-2d54-4e3d-b06c-2c150cba2de3))
     (instances
       (project "gpu-cluster-backplane"
@@ -2725,6 +2746,9 @@
     )
     (property "License" "Apache-2.0" (at 247.65 105.41 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+    )
+    (property "Public" "False" (at 240.03 115.57 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (pin "1" (uuid 89c5693c-3d39-478c-b487-f16734de6f95))
     (instances
@@ -2887,6 +2911,9 @@
     (property "License" "Apache-2.0" (at 182.88 105.41 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
+    (property "Public" "False" (at 175.26 115.57 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
     (pin "1" (uuid 6ceef710-079b-4210-811c-7c45a055032b))
     (instances
       (project "gpu-cluster-backplane"
@@ -2923,6 +2950,9 @@
     )
     (property "License" "Apache-2.0" (at 226.06 105.41 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+    )
+    (property "Public" "False" (at 218.44 115.57 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (pin "1" (uuid ae52c046-9e90-4520-9b25-a2ab33fef85a))
     (instances
