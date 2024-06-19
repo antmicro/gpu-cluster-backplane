@@ -62,7 +62,6 @@
         )
       )
     )
-
     (symbol "antmicropower:GND" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 8.89 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -102,6 +101,7 @@
       )
     )
   )
+
 
   (wire (pts (xy 176.53 133.35) (xy 176.53 128.27))
     (stroke (width 0) (type default))

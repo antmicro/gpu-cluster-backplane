@@ -85,7 +85,6 @@
         )
       )
     )
-
     (symbol "antmicroEdgeConnectors:Socket_Amphenol_HPCE_2x17_10107844-002LF" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 53.34 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -308,7 +307,6 @@
         )
       )
     )
-
     (symbol "antmicroFerriteBeadsandChips:FB_600Z_0.5A_Murata-BLM18AG_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "FB" (at 15.24 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -389,7 +387,6 @@
         )
       )
     )
-
     (symbol "antmicroLEDIndicationDiscrete:LED_G_0603_LG_L29K-G2J1-24-Z" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 20.32 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -498,7 +495,6 @@
         )
       )
     )
-
     (symbol "antmicroResistors0402:R_0R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -559,7 +555,6 @@
         )
       )
     )
-
     (symbol "antmicroResistors0402:R_10k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -617,7 +612,6 @@
         )
       )
     )
-
     (symbol "antmicroResistors0402:R_5k1_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -675,7 +669,6 @@
         )
       )
     )
-
     (symbol "antmicroResistors0402:R_680R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -733,7 +726,6 @@
         )
       )
     )
-
     (symbol "antmicroResistorsmisc:R_0R_0805" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -794,7 +786,6 @@
         )
       )
     )
-
     (symbol "antmicroSlideSwitches:MSS3-V-T_R" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "SW" (at 25.4 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -905,7 +896,6 @@
         )
       )
     )
-
     (symbol "antmicroTVSDiodes:ESDA25P35-1U1M" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 24.13 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1003,7 +993,6 @@
         )
       )
     )
-
     (symbol "antmicroTVSDiodes:PESD5V0S2BQA" (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 27.94 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1081,7 +1070,6 @@
         )
       )
     )
-
     (symbol "antmicroTestPoints:TP_1mm_SMD" (pin_names hide) (in_bom no) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1127,7 +1115,6 @@
         )
       )
     )
-
     (symbol "antmicroTransistorsBipolarSingle:BC807-25W" (in_bom yes) (on_board yes)
       (property "Reference" "Q" (at 17.018 2.794 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1223,7 +1210,6 @@
         )
       )
     )
-
     (symbol "antmicroUSBConnectors:USB-C_GCT_USB4145-03-0070-C" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 21.59 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1422,7 +1408,6 @@
         )
       )
     )
-
     (symbol "antmicroWire2BoardConnectors:JST_XH_1x2_B2B-XH-A-LF-SN" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 7.62 1.27 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1477,7 +1462,6 @@
         )
       )
     )
-
     (symbol "antmicropower:+3V3" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 15.24 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -1530,7 +1514,6 @@
         )
       )
     )
-
     (symbol "antmicropower:GND" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 8.89 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -1569,7 +1552,6 @@
         )
       )
     )
-
     (symbol "antmicropower:PWR_FLAG" (power) (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "#FLG" (at 0 1.905 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -1729,6 +1711,7 @@
     (stroke (width 0) (type default))
     (uuid 1b3e74f8-2809-40f0-9770-4eaf58b4f3aa)
   )
+
   (wire (pts (xy 74.93 110.49) (xy 77.47 110.49))
     (stroke (width 0) (type default))
     (uuid 1bc98d2e-8218-4444-a53d-1c0012de4d1f)
@@ -1837,6 +1820,7 @@
     (stroke (width 0) (type default))
     (uuid 51fa9fe1-4b81-4604-a064-c6cfe60bd3a3)
   )
+
   (wire (pts (xy 365.76 85.09) (xy 358.14 85.09))
     (stroke (width 0) (type default))
     (uuid 5231f596-1dd5-4e05-9f36-5c25b0603b31)
@@ -2057,6 +2041,7 @@
     (stroke (width 0) (type default))
     (uuid c0d28701-3237-430a-9859-169f85240754)
   )
+
   (wire (pts (xy 74.93 95.25) (xy 74.93 97.79))
     (stroke (width 0) (type default))
     (uuid c2d0ffaf-7206-4c43-884b-363e4584bf97)
@@ -2117,6 +2102,7 @@
     (stroke (width 0) (type default))
     (uuid d93cf4ea-b656-4e8a-8bf6-7b8c8cb55a66)
   )
+
   (wire (pts (xy 113.03 125.73) (xy 114.3 125.73))
     (stroke (width 0) (type default))
     (uuid dcc381ab-8e0e-4894-828a-995b7c9a7365)
@@ -2157,6 +2143,7 @@
     (stroke (width 0) (type default))
     (uuid f74f718a-a4f5-4366-8eff-e19f56bac2c9)
   )
+
   (wire (pts (xy 82.55 162.56) (xy 87.63 162.56))
     (stroke (width 0) (type default))
     (uuid f84119d9-a2c5-42b3-9ad5-696a491310bd)
@@ -4740,7 +4727,7 @@
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "ESDA25P35-1U1M" (at 194.31 86.36 90)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right) hide)
     )
     (property "Footprint" "antmicro-footprints:QFN-2L_1.6x1x0.55mm" (at 203.2 106.68 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -4749,7 +4736,7 @@
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "MPN" "ESDA25P35-1U1M" (at 208.28 106.68 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "STMicroelectronics" (at 210.82 106.68 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -5789,7 +5776,7 @@
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "BC807-25W" (at 222.25 83.8199 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left) hide)
     )
     (property "Footprint" "antmicro-footprints:SOT-323" (at 229.108 80.264 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -5798,7 +5785,7 @@
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "MPN" "SBC807-40WT1G" (at 229.108 75.184 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "ON Semiconductor" (at 229.108 72.644 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
