@@ -85,6 +85,7 @@
         )
       )
     )
+
     (symbol "antmicroCapacitors0402:C_1u_16V_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -157,6 +158,7 @@
         )
       )
     )
+
     (symbol "antmicroDataAcquisitionAnalogtoDigitalConvertersADC:ADS7828" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 31.75 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -266,6 +268,7 @@
         )
       )
     )
+
     (symbol "antmicroFerriteBeadsandChips:FB_600Z_0.5A_Murata-BLM18AG_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "FB" (at 15.24 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -346,6 +349,7 @@
         )
       )
     )
+
     (symbol "antmicroInterfaceIOExpanders:TCA9534PWR_TSSOP" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 33.02 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -451,6 +455,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_0R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -511,6 +516,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_4k7_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -568,6 +574,7 @@
         )
       )
     )
+
     (symbol "antmicropower:+3V3" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 15.24 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -620,6 +627,7 @@
         )
       )
     )
+
     (symbol "antmicropower:GND" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 8.89 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -821,7 +829,6 @@
     (stroke (width 0) (type default))
     (uuid 2b013ebd-cc21-4260-953b-7cc0a3b9c528)
   )
-
   (wire (pts (xy 97.79 151.13) (xy 105.41 151.13))
     (stroke (width 0) (type default))
     (uuid 2b1c3eb5-be9f-4110-9e6f-9e6f41bb687a)
@@ -1014,7 +1021,6 @@
     (stroke (width 0) (type default))
     (uuid 6e83423d-f466-4e5d-8f9e-4bda4572e38c)
   )
-
   (wire (pts (xy 394.97 154.94) (xy 394.97 158.75))
     (stroke (width 0) (type default))
     (uuid 6f3d71fa-b205-4db6-bc1e-3dca57c4e3a2)
@@ -1303,7 +1309,6 @@
     (stroke (width 0) (type default))
     (uuid c74bfd1a-ee20-46c9-a8c7-f7af2ca1498d)
   )
-
   (wire (pts (xy 350.52 161.29) (xy 382.27 161.29))
     (stroke (width 0) (type default))
     (uuid c893d414-12fb-400e-880e-6998bf406253)

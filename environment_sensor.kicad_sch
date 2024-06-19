@@ -83,6 +83,7 @@
         )
       )
     )
+
     (symbol "antmicroMechanicalParts:Spacer_Drill3.7mm_H10mm_9774100151R" (in_bom yes) (on_board yes)
       (property "Reference" "H" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -129,6 +130,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_0R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -186,6 +188,7 @@
         )
       )
     )
+
     (symbol "antmicroTestPoints:TP_1mm_SMD" (pin_names hide) (in_bom no) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -228,6 +231,7 @@
         )
       )
     )
+
     (symbol "antmicroUSBConnectors:USB-C_GCT_USB4145-03-0070-C" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 21.59 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -426,6 +430,7 @@
         )
       )
     )
+
     (symbol "antmicroWire2BoardConnectors:JST_SH_1x4_SM04B-SRSS-TB-LF-SN" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 26.67 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -512,6 +517,7 @@
         )
       )
     )
+
     (symbol "antmicropower:PWR_FLAG" (power) (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "#FLG" (at 0 1.905 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -546,7 +552,8 @@
         )
       )
     )
-    (symbol "environment-sensor:+3V3" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicropower:+3V3" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 15.24 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
@@ -596,14 +603,15 @@
         )
       )
     )
-    (symbol "environment-sensor:ABM3B-12.000MHZ-B2-T" (in_bom yes) (on_board yes)
+
+    (symbol "antmicroResonators:Resonator_12MHz_ABM3B" (in_bom yes) (on_board yes)
       (property "Reference" "Y" (at 22.86 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
       (property "Value" "ABM3B-12.000MHZ-B2-T" (at 22.86 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
-      (property "Footprint" "antmicro-footprints:ABM3B" (at 22.86 -7.62 0)
+      (property "Footprint" "antmicro-footprints:Resonator_SMD_Abracon_ABM3B_5x3.2mm" (at 22.86 -7.62 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
       (property "Datasheet" "https://abracon.com/Resonators/abm3b.pdf" (at 22.86 -10.16 0)
@@ -627,7 +635,7 @@
       (property "ki_description" "Resonator: ceramic; 12MHz; ±20ppm; 18pF; 4-lead 5x3.2x1.1mm SMD metal case" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "ABM3B-12.000MHZ-B2-T_1_1"
+      (symbol "Resonator_12MHz_ABM3B_1_1"
         (polyline
           (pts
             (xy 3.81 1.27)
@@ -686,14 +694,15 @@
         )
       )
     )
-    (symbol "environment-sensor:ABM3B-8.000MHZ-10-1-U-T" (in_bom yes) (on_board yes)
+
+    (symbol "antmicroResonators:Resonator_8MHz_ABM3B" (in_bom yes) (on_board yes)
       (property "Reference" "Y" (at 22.86 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
       (property "Value" "ABM3B-8.000MHZ-10-1-U-T" (at 22.86 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
-      (property "Footprint" "antmicro-footprints:ABM3B" (at 22.86 -7.62 0)
+      (property "Footprint" "antmicro-footprints:Resonator_SMD_Abracon_ABM3B_5x3.2mm" (at 22.86 -7.62 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
       (property "Datasheet" "https://abracon.com/Resonators/abm3b.pdf" (at 22.86 -10.16 0)
@@ -717,7 +726,7 @@
       (property "ki_description" "Resonator: ceramic; 8MHz; ±10ppm; 10pF; 4-lead 5x3.2x1.1mm SMD metal case" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "ABM3B-8.000MHZ-10-1-U-T_1_1"
+      (symbol "Resonator_8MHz_ABM3B_1_1"
         (polyline
           (pts
             (xy 3.81 1.27)
@@ -776,7 +785,8 @@
         )
       )
     )
-    (symbol "environment-sensor:AP7370-33SA-7" (in_bom yes) (on_board yes)
+
+    (symbol "antmicroPMICVoltageRegulatorsLinear:AP7370-33SA-7" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 30.48 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -826,7 +836,8 @@
         )
       )
     )
-    (symbol "environment-sensor:BAT-HLD-012-SMT-TR" (in_bom yes) (on_board yes)
+
+    (symbol "antmicroBatteryHoldersClipsContacts:BAT-HLD-012-SMT-TR" (in_bom yes) (on_board yes)
       (property "Reference" "BAT" (at 17.78 -6.35 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -936,7 +947,8 @@
         )
       )
     )
-    (symbol "environment-sensor:C_100n_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroCapacitors0402:C_100n_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -1002,7 +1014,8 @@
         )
       )
     )
-    (symbol "environment-sensor:C_10p_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroCapacitors0402:C_10p_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -1068,7 +1081,8 @@
         )
       )
     )
-    (symbol "environment-sensor:C_16p_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroCapacitors0402:C_16p_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -1134,7 +1148,8 @@
         )
       )
     )
-    (symbol "environment-sensor:C_22p_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroCapacitors0402:C_22p_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -1200,7 +1215,8 @@
         )
       )
     )
-    (symbol "environment-sensor:C_2u2_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroCapacitors0402:C_2u2_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -1266,7 +1282,8 @@
         )
       )
     )
-    (symbol "environment-sensor:C_4u7_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroCapacitors0402:C_4u7_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -1332,14 +1349,15 @@
         )
       )
     )
-    (symbol "environment-sensor:ECS-_327-12_5-34B-TR" (in_bom yes) (on_board yes)
+
+    (symbol "antmicroResonators:Resonator_32.768kHz_ECX-31B" (in_bom yes) (on_board yes)
       (property "Reference" "Y" (at 21.59 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
       (property "Value" "ECS-_327-12_5-34B-TR" (at 21.59 -7.62 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
-      (property "Footprint" "antmicro-footprints:SMD-2_3.2x1.5mm" (at 21.59 -10.16 0)
+      (property "Footprint" "antmicro-footprints:Resonator_SMD_ECS_ECX-31B_3.2x1.5x0.9mm" (at 21.59 -10.16 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
       (property "Datasheet" "http://www.ecsxtal.com/store/pdf/ecx-31b.pdf" (at 21.59 -12.7 0)
@@ -1363,7 +1381,7 @@
       (property "ki_description" "32.768 kHz ±20ppm Crystal 12.5pF 70 kOhms 2-SMD, No Lead" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "ECS-_327-12_5-34B-TR_1_1"
+      (symbol "Resonator_32.768kHz_ECX-31B_1_1"
         (polyline
           (pts
             (xy 2.54 1.905)
@@ -1394,7 +1412,8 @@
         )
       )
     )
-    (symbol "environment-sensor:ESD9X5.0ST5G" (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroTVSDiodes:ESD9X5.0ST5G" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 21.59 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -1456,7 +1475,8 @@
         )
       )
     )
-    (symbol "environment-sensor:FB_120Z_2A_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroFerriteBeadsandChips:FB_120Z_2A_Murata-BLM18PG_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "FB" (at 15.24 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -1493,7 +1513,7 @@
       (property "ki_description" "Ferrite Beads WE-TMSB Suppression 240Ohm 200mA " (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "FB_120Z_2A_0603_0_1"
+      (symbol "FB_120Z_2A_Murata-BLM18PG_0603_0_1"
         (polyline
           (pts
             (xy 1.651 0)
@@ -1522,7 +1542,7 @@
           (fill (type none))
         )
       )
-      (symbol "FB_120Z_2A_0603_1_1"
+      (symbol "FB_120Z_2A_Murata-BLM18PG_0603_1_1"
         (pin passive line (at 0 0 0) (length 1.27)
           (name "~" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
@@ -1533,7 +1553,8 @@
         )
       )
     )
-    (symbol "environment-sensor:FT4232H_VQFN" (in_bom yes) (on_board yes)
+
+    (symbol "antmicroInterfaceControllers:FT4232H_VQFN" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 55.88 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -1796,7 +1817,8 @@
         )
       )
     )
-    (symbol "environment-sensor:GND" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicropower:GND" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 8.89 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
@@ -1834,7 +1856,8 @@
         )
       )
     )
-    (symbol "environment-sensor:GNDREF" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+
+    (symbol "antmicropower:GNDREF" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -6.35 0)
         (effects (font (size 1.27 1.27)) hide)
       )
@@ -1888,7 +1911,8 @@
         )
       )
     )
-    (symbol "environment-sensor:LED_G_0603_KP-1608ZGC" (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroLEDIndicationDiscrete:LED_G_0603_KP-1608ZGC" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 22.86 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -1969,7 +1993,8 @@
         )
       )
     )
-    (symbol "environment-sensor:MB85RC1MTPNF-G" (in_bom yes) (on_board yes)
+
+    (symbol "antmicroMemory:MB85RC1MTPNF-G" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 35.56 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -2039,7 +2064,8 @@
         )
       )
     )
-    (symbol "environment-sensor:PWR_FLAG" (power) (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicropower:PWR_FLAG" (power) (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "#FLG" (at 0 1.905 0)
         (effects (font (size 1.27 1.27)) hide)
       )
@@ -2073,7 +2099,8 @@
         )
       )
     )
-    (symbol "environment-sensor:R_0R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroResistors0402:R_0R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -2127,7 +2154,8 @@
         )
       )
     )
-    (symbol "environment-sensor:R_100R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroResistors0402:R_100R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -2178,7 +2206,8 @@
         )
       )
     )
-    (symbol "environment-sensor:R_100k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroResistors0402:R_100k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -2229,7 +2258,8 @@
         )
       )
     )
-    (symbol "environment-sensor:R_12k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroResistors0402:R_12k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -2280,7 +2310,8 @@
         )
       )
     )
-    (symbol "environment-sensor:R_1M_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroResistors0402:R_1M_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -2331,7 +2362,8 @@
         )
       )
     )
-    (symbol "environment-sensor:R_1k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroResistors0402:R_1k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -2382,7 +2414,8 @@
         )
       )
     )
-    (symbol "environment-sensor:R_470R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroResistors0402:R_470R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -2433,7 +2466,8 @@
         )
       )
     )
-    (symbol "environment-sensor:R_5k1_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroResistors0402:R_5k1_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -2484,7 +2518,8 @@
         )
       )
     )
-    (symbol "environment-sensor:SHT45" (in_bom yes) (on_board yes)
+
+    (symbol "antmicroHumidityMoistureSensors:SHT45" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 27.94 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -2541,14 +2576,15 @@
         )
       )
     )
-    (symbol "environment-sensor:STM32G474CET6" (in_bom yes) (on_board yes)
+
+    (symbol "antmicroMicrocontrollers:STM32G474CET6" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 58.42 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
       (property "Value" "STM32G474CET6" (at 58.42 -7.62 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
-      (property "Footprint" "antmicro-footprints:LQFP-48_B7x7mm_P0.5mm_0.20mmPadPadClearance_Pad0.30x1.20mm" (at 58.42 -10.16 0)
+      (property "Footprint" "antmicro-footprints:LQFP-48_7x7mm_P0.5mm" (at 58.42 -10.16 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
       (property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32g474ce.pdf" (at 58.42 -12.7 0)
@@ -2771,7 +2807,8 @@
         )
       )
     )
-    (symbol "environment-sensor:TPD2E009_SOT-9X3" (pin_names hide) (in_bom yes) (on_board yes)
+
+    (symbol "antmicroTVSDiodes:TPD2E009_SOT-9X3" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 15.24 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
@@ -3315,7 +3352,6 @@
     (stroke (width 0) (type default))
     (uuid 0bc1af58-4ff3-4363-8ddd-b8474f79c040)
   )
-
   (wire (pts (xy 19.05 181.61) (xy 19.05 180.34))
     (stroke (width 0) (type default))
     (uuid 0bf1d3e7-1d68-4cea-bd79-f08e635caa26)
@@ -3340,7 +3376,6 @@
     (stroke (width 0) (type default))
     (uuid 0e6726e5-916f-4277-a84d-6761c55f75b5)
   )
-
   (wire (pts (xy 203.2 113.03) (xy 203.2 110.49))
     (stroke (width 0) (type default))
     (uuid 0edce24d-cfb1-4c16-8643-ce429e031462)
@@ -3485,7 +3520,6 @@
     (stroke (width 0) (type default))
     (uuid 22d24daa-f692-44b4-a775-0ae300de3550)
   )
-
   (wire (pts (xy 293.37 196.85) (xy 293.37 198.12))
     (stroke (width 0) (type default))
     (uuid 235423d4-71a9-418e-b8cb-5d2b3d56e34e)
@@ -3602,7 +3636,6 @@
     (stroke (width 0) (type default))
     (uuid 362c3b08-8349-4154-9037-6fd9776b8eeb)
   )
-
   (wire (pts (xy 142.24 173.99) (xy 158.75 173.99))
     (stroke (width 0) (type default))
     (uuid 36c845ec-8879-4fc5-872a-52ac244245c9)
@@ -3615,7 +3648,6 @@
     (stroke (width 0) (type default))
     (uuid 37a1648e-dd87-424b-8225-29165507b95a)
   )
-
   (wire (pts (xy 135.89 49.53) (xy 135.89 48.26))
     (stroke (width 0) (type default))
     (uuid 3810f0c4-7389-480a-889b-733ac26384f8)
@@ -3832,7 +3864,6 @@
     (stroke (width 0) (type default))
     (uuid 584615a0-57dc-4ec1-bedd-193a53f91f98)
   )
-
   (wire (pts (xy 167.64 48.26) (xy 167.64 49.53))
     (stroke (width 0) (type default))
     (uuid 58516290-12d1-473c-80d4-ac76f1e57369)
@@ -3873,7 +3904,6 @@
     (stroke (width 0) (type default))
     (uuid 5fbfc0a2-8aa2-434a-bb2e-9f5d1d925242)
   )
-
   (wire (pts (xy 142.24 157.48) (xy 147.32 157.48))
     (stroke (width 0) (type default))
     (uuid 6095a677-5344-4e41-96ed-b58b645feda1)
@@ -4018,7 +4048,6 @@
     (stroke (width 0) (type default))
     (uuid 7483cc82-4f36-44be-ba6b-219e900d763b)
   )
-
   (wire (pts (xy 81.28 189.23) (xy 67.31 189.23))
     (stroke (width 0) (type default))
     (uuid 7563f150-6298-4573-91b2-497eb3f457d0)
@@ -4423,7 +4452,6 @@
     (stroke (width 0) (type default))
     (uuid ac7df638-a574-401f-ad78-d108db060ac4)
   )
-
   (wire (pts (xy 40.64 181.61) (xy 40.64 184.15))
     (stroke (width 0) (type default))
     (uuid ad9956f2-f0aa-45c4-912d-3e3dcc6985cd)
@@ -4696,7 +4724,6 @@
     (stroke (width 0) (type default))
     (uuid d3e5c077-7350-4f42-a855-060b3689c82e)
   )
-
   (wire (pts (xy 142.24 179.07) (xy 158.75 179.07))
     (stroke (width 0) (type default))
     (uuid d472cf6d-5c97-414e-8011-0cb16ca82567)
@@ -5585,7 +5612,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:FB_120Z_2A_0603") (at 41.91 105.41 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicroFerriteBeadsandChips:FB_120Z_2A_Murata-BLM18PG_0603") (at 41.91 105.41 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 000eb5ac-e0f9-46af-9d5c-4762aa55f467)
     (property "Reference" "FB15" (at 39.4081 99.06 0)
@@ -5623,7 +5650,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_0R_0402") (at 158.75 173.99 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 158.75 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00783e41-fe5b-4bc6-8096-3917152f5aa4)
     (property "Reference" "R264" (at 165.735 172.72 0)
@@ -5670,7 +5697,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 398.78 162.56 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 398.78 162.56 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 021d723a-c8f5-4998-b55d-b0bc275a4ac1)
     (property "Reference" "#PWR0409" (at 398.78 168.91 0)
@@ -5701,7 +5728,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_100k_0402") (at 306.07 46.99 270) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_100k_0402") (at 306.07 46.99 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 024427c5-d47b-49d2-96bf-9afc7fb15a79)
     (property "Reference" "R282" (at 307.34 43.18 90)
@@ -5822,7 +5849,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 71.12 163.83 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 71.12 163.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0350bfa6-82dc-4620-84fb-45c6520c52f1)
     (property "Reference" "#PWR028" (at 71.12 170.18 0)
@@ -5853,7 +5880,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 224.79 271.78 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 224.79 271.78 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0406cc4e-dd8f-4c18-8c09-685127a3909d)
     (property "Reference" "#PWR058" (at 224.79 278.13 0)
@@ -5884,7 +5911,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_4u7_0402") (at 214.63 54.61 90) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_4u7_0402") (at 214.63 54.61 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 070d89d7-7715-4fd4-9535-fc9d9ee6cf18)
     (property "Reference" "C81" (at 217.17 50.7935 90)
@@ -5931,7 +5958,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_100k_0402") (at 332.74 162.56 270) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_100k_0402") (at 332.74 162.56 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 07aa2fe0-dee8-42fc-9e86-8e26aed213bf)
     (property "Reference" "R286" (at 334.01 163.83 90)
@@ -5975,7 +6002,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_2u2_0402") (at 283.21 111.76 90) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_2u2_0402") (at 283.21 111.76 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 08b88622-65c5-4ceb-a996-b86ac3d81c8b)
     (property "Reference" "C90" (at 285.75 107.9435 90)
@@ -6022,7 +6049,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:PWR_FLAG") (at 50.8 203.2 0) (unit 1)
+  (symbol (lib_id "antmicropower:PWR_FLAG") (at 50.8 203.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 08cc266e-055f-4bc4-adc3-dbe470f526ed)
     (property "Reference" "#FLG010" (at 50.8 201.295 0)
@@ -6047,7 +6074,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 387.35 161.29 90) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 387.35 161.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0928c3c4-c7e5-4de9-82c4-60da269749f6)
     (property "Reference" "C105" (at 389.89 157.4735 90)
@@ -6094,7 +6121,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 215.9 118.11 270) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 215.9 118.11 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 09b1b265-b3b7-40f1-b7d7-ce2f4e9e7885)
     (property "Reference" "C82" (at 218.44 114.2935 90)
@@ -6141,7 +6168,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 68.58 68.58 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 68.58 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0b91ec6b-5a37-43cf-a22f-384cc1d0272d)
     (property "Reference" "#PWR027" (at 68.58 74.93 0)
@@ -6172,7 +6199,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 382.27 124.46 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 382.27 124.46 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 11661f68-dbc9-4c13-9971-a8df7aa6a5d6)
     (property "Reference" "#PWR0398" (at 382.27 130.81 0)
@@ -6203,7 +6230,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_0R_0402") (at 158.75 176.53 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 158.75 176.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1393c9d5-1778-43c6-ac86-9c9700cf0a18)
     (property "Reference" "R265" (at 165.735 175.26 0)
@@ -6250,7 +6277,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 382.27 118.11 270) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 382.27 118.11 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 14857fac-da74-4500-b572-4d49bda30e3d)
     (property "Reference" "C104" (at 384.81 119.3862 90)
@@ -6297,7 +6324,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 30.48 231.14 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 30.48 231.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 148d9469-b24f-4f0f-b08d-ff0f6df18f3c)
     (property "Reference" "#PWR010" (at 30.48 237.49 0)
@@ -6328,7 +6355,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 167.64 55.88 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 167.64 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1669378d-472e-45fe-ba42-c8bc58e87afb)
     (property "Reference" "#PWR043" (at 167.64 62.23 0)
@@ -6359,7 +6386,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 71.12 162.56 90) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 71.12 162.56 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 16b933bc-dd10-4086-b7f0-5c5e1c5f7cbe)
     (property "Reference" "C73" (at 73.66 158.7435 90)
@@ -6406,7 +6433,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 271.78 113.03 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 271.78 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 17e4732e-7f21-4964-a083-ee9555d3b51e)
     (property "Reference" "#PWR069" (at 271.78 119.38 0)
@@ -6437,7 +6464,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_470R_0402") (at 194.31 170.18 270) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_470R_0402") (at 194.31 170.18 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 194f0cdc-a537-458e-b657-1adf3e92d64f)
     (property "Reference" "R269" (at 195.58 166.37 90)
@@ -6481,7 +6508,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_4u7_0402") (at 40.64 207.01 90) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_4u7_0402") (at 40.64 207.01 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1a6d31a1-261a-43ae-8324-0c3d2d7a26b3)
     (property "Reference" "C64" (at 43.18 208.2862 90)
@@ -6528,7 +6555,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_1k_0402") (at 92.71 189.23 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_1k_0402") (at 92.71 189.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1b6299a5-c745-4e66-af9f-efb43914be1f)
     (property "Reference" "R253" (at 99.06 187.96 0)
@@ -6572,7 +6599,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 306.07 64.77 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 306.07 64.77 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1d9d6de0-10a0-4432-b635-d1c093e739d6)
     (property "Reference" "#PWR0210" (at 306.07 71.12 0)
@@ -6603,7 +6630,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 304.8 149.86 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 304.8 149.86 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1ee3e105-cc7a-4e83-9247-6e0cac3313e9)
     (property "Reference" "#PWR099" (at 304.8 156.21 0)
@@ -6634,7 +6661,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 229.87 264.16 270) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 229.87 264.16 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 20382ef5-d4df-421a-8b10-16c8ae124b1f)
     (property "Reference" "C85" (at 232.41 265.4362 90)
@@ -6681,7 +6708,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 228.6 118.11 270) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 228.6 118.11 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 230eb58c-d851-417e-ae44-5191f7f01d49)
     (property "Reference" "C84" (at 231.14 114.2935 90)
@@ -6728,7 +6755,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 191.77 119.38 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 191.77 119.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 28b81055-c665-4dd3-ac95-dfb1b66d457e)
     (property "Reference" "#PWR046" (at 191.77 125.73 0)
@@ -6759,7 +6786,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:ABM3B-8.000MHZ-10-1-U-T") (at 288.29 191.77 0) (unit 1)
+  (symbol (lib_id "antmicroResonators:Resonator_8MHz_ABM3B") (at 288.29 191.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 28d76232-1e31-4044-a70e-a3ad0256ad83)
     (property "Reference" "Y4" (at 292.1 186.055 0)
@@ -6768,7 +6795,7 @@
     (property "Value" "ABM3B-8.000MHZ-10-1-U-T" (at 294.64 199.39 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "Footprint" "antmicro-footprints:ABM3B" (at 311.15 199.39 0)
+    (property "Footprint" "antmicro-footprints:Resonator_SMD_Abracon_ABM3B_5x3.2mm" (at 311.15 199.39 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://abracon.com/Resonators/abm3b.pdf" (at 311.15 201.93 0)
@@ -6802,7 +6829,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:ESD9X5.0ST5G") (at 52.07 67.31 90) (unit 1)
+  (symbol (lib_id "antmicroTVSDiodes:ESD9X5.0ST5G") (at 52.07 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 28e36f7b-9c95-44f7-88dd-21e8bdc02ad8)
     (property "Reference" "D36" (at 54.61 62.23 90)
@@ -6840,7 +6867,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_100k_0402") (at 304.8 140.97 90) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_100k_0402") (at 304.8 140.97 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 29899d78-048b-4698-9245-0d750151417c)
     (property "Reference" "R280" (at 306.07 137.16 90)
@@ -6884,7 +6911,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 19.05 231.14 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 19.05 231.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 29e9d01e-5603-4780-bf1d-951b61f6abc3)
     (property "Reference" "#PWR06" (at 19.05 237.49 0)
@@ -6952,7 +6979,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 229.87 271.78 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 229.87 271.78 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2c817a7f-c166-4208-b6cb-3f8eb95d41b0)
     (property "Reference" "#PWR062" (at 229.87 278.13 0)
@@ -6983,7 +7010,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_100k_0402") (at 224.79 137.16 90) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_100k_0402") (at 224.79 137.16 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2d03d603-a8c2-473d-9915-d9e83dd21d2f)
     (property "Reference" "R272" (at 223.52 133.35 90)
@@ -7069,7 +7096,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_100k_0402") (at 304.8 148.59 90) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_100k_0402") (at 304.8 148.59 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2e2e7364-b1c9-4436-97a4-32e2199d94c5)
     (property "Reference" "R281" (at 306.07 144.78 90)
@@ -7113,7 +7140,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 40.64 163.83 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 40.64 163.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2e558a35-210c-472c-a9ca-2bc1f340c67b)
     (property "Reference" "#PWR011" (at 40.64 170.18 0)
@@ -7144,7 +7171,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 332.74 181.61 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 332.74 181.61 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2e668492-065b-4c05-acc8-04fa5e6b998c)
     (property "Reference" "#PWR0217" (at 332.74 187.96 0)
@@ -7250,7 +7277,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 40.64 224.79 90) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 40.64 224.79 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 377d8e3e-635f-4dcb-b0ae-fd1553482f1d)
     (property "Reference" "C65" (at 43.18 226.0662 90)
@@ -7297,7 +7324,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 300.99 119.38 90) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 300.99 119.38 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3b02f3b0-5a54-4301-8f26-68b7db986e58)
     (property "Reference" "#PWR082" (at 307.34 119.38 0)
@@ -7328,7 +7355,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_2u2_0402") (at 87.63 66.04 90) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_2u2_0402") (at 87.63 66.04 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3b2ed8d0-db20-4d91-bc3d-6c0a4a4cf2ee)
     (property "Reference" "C76" (at 90.17 62.2235 90)
@@ -7375,7 +7402,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_470R_0402") (at 160.02 157.48 180) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_470R_0402") (at 160.02 157.48 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3be0ec84-9f1e-45d4-8726-eab364170655)
     (property "Reference" "R268" (at 161.925 156.21 0)
@@ -7422,7 +7449,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:ESD9X5.0ST5G") (at 104.14 115.57 90) (unit 1)
+  (symbol (lib_id "antmicroTVSDiodes:ESD9X5.0ST5G") (at 104.14 115.57 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3ccc640f-a361-467d-a3b8-5530094d9fee)
     (property "Reference" "D39" (at 106.68 110.49 90)
@@ -7460,7 +7487,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_1M_0402") (at 290.83 205.74 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_1M_0402") (at 290.83 205.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3fc3fd32-1905-49b4-8372-0a3abf94bd7d)
     (property "Reference" "R276" (at 297.815 204.47 0)
@@ -7507,7 +7534,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 387.35 162.56 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 387.35 162.56 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3ffb3dfd-218c-421a-9fc3-1358fc3dc34a)
     (property "Reference" "#PWR0405" (at 387.35 168.91 0)
@@ -7538,7 +7565,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 50.8 213.36 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 50.8 213.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 407cd9d9-81e5-4fea-9bf8-247ee58598bc)
     (property "Reference" "#PWR018" (at 50.8 219.71 0)
@@ -7569,7 +7596,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 295.91 96.52 270) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 295.91 96.52 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 433b2c38-af37-4c5b-b830-d49b468f9b4f)
     (property "Reference" "C92" (at 298.45 97.7962 90)
@@ -7616,7 +7643,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:FT4232H_VQFN") (at 101.6 152.4 0) (unit 1)
+  (symbol (lib_id "antmicroInterfaceControllers:FT4232H_VQFN") (at 101.6 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4913ea9c-acea-4099-bc5f-8ef59d6c4f3d)
     (property "Reference" "U11" (at 121.92 144.78 0)
@@ -7756,7 +7783,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_0R_0402") (at 154.94 165.1 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 154.94 165.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5286b429-1563-4b2e-880f-8cc680b759c7)
     (property "Reference" "R258" (at 161.925 163.83 0)
@@ -7803,7 +7830,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 40.64 213.36 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 40.64 213.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 531eb2db-2e50-4012-bb92-43704d459c95)
     (property "Reference" "#PWR014" (at 40.64 219.71 0)
@@ -7834,7 +7861,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 316.23 64.77 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 316.23 64.77 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 545e92c0-387d-4205-824a-ef7ecab7510a)
     (property "Reference" "#PWR0214" (at 316.23 71.12 0)
@@ -7865,7 +7892,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_100R_0402") (at 227.33 181.61 180) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_100R_0402") (at 227.33 181.61 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5589a457-84fc-43af-b786-39b9ae7c2469)
     (property "Reference" "R275" (at 229.235 180.34 0)
@@ -7912,7 +7939,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 40.64 190.5 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 40.64 190.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5a632cb4-b36f-4c57-9b37-1f2bcd6ece58)
     (property "Reference" "#PWR012" (at 40.64 196.85 0)
@@ -7943,7 +7970,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_470R_0402") (at 160.02 154.94 180) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_470R_0402") (at 160.02 154.94 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5b45ef03-9973-4f21-9415-6509f26ef991)
     (property "Reference" "R267" (at 161.29 153.67 0)
@@ -7990,7 +8017,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_100k_0402") (at 332.74 180.34 90) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_100k_0402") (at 332.74 180.34 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5c874d00-9104-40b7-9df7-7e5b6f456b7d)
     (property "Reference" "R287" (at 334.01 176.53 90)
@@ -8071,7 +8098,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 97.79 116.84 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 97.79 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5f13c669-9b0f-4a80-b221-002abfc35b3d)
     (property "Reference" "#PWR037" (at 97.79 123.19 0)
@@ -8102,7 +8129,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_470R_0402") (at 135.89 63.5 90) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_470R_0402") (at 135.89 63.5 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 602d65d0-3770-40ce-b7cc-8ccde227b294)
     (property "Reference" "R256" (at 137.16 59.69 90)
@@ -8183,7 +8210,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 384.81 242.57 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 384.81 242.57 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 61de22df-c392-4842-b70c-f96d8993f099)
     (property "Reference" "#PWR0401" (at 384.81 248.92 0)
@@ -8251,7 +8278,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 260.35 40.64 270) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 260.35 40.64 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 64b5faa1-5395-4df3-937f-7fa1dc86e0a0)
     (property "Reference" "C88" (at 262.89 36.8235 90)
@@ -8298,7 +8325,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:LED_G_0603_KP-1608ZGC") (at 135.89 49.53 270) (unit 1)
+  (symbol (lib_id "antmicroLEDIndicationDiscrete:LED_G_0603_KP-1608ZGC") (at 135.89 49.53 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 64bcef90-520b-4bc4-ac7f-435495739014)
     (property "Reference" "LD1" (at 139.065 52.07 90)
@@ -8336,7 +8363,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 307.34 102.87 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 307.34 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 64cafe65-af57-47a9-8038-0b60d9dfb2c3)
     (property "Reference" "#PWR0211" (at 307.34 109.22 0)
@@ -8367,7 +8394,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 52.07 163.83 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 52.07 163.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 666d5de0-ea82-452e-aa96-947f1caca6b5)
     (property "Reference" "#PWR022" (at 52.07 170.18 0)
@@ -8398,7 +8425,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 176.53 49.53 270) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 176.53 49.53 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6720b113-17bd-4142-aec1-6983d5b4ae5a)
     (property "Reference" "C78" (at 179.07 50.8062 90)
@@ -8445,7 +8472,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 257.81 271.78 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 257.81 271.78 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 679b4e70-81d8-44aa-9f61-454f53840c83)
     (property "Reference" "#PWR066" (at 257.81 278.13 0)
@@ -8476,7 +8503,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 293.37 198.12 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 293.37 198.12 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 681aef05-7f63-43b8-a7e0-a807a67cec3e)
     (property "Reference" "#PWR076" (at 293.37 204.47 0)
@@ -8507,7 +8534,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:PWR_FLAG") (at 50.8 180.34 0) (unit 1)
+  (symbol (lib_id "antmicropower:PWR_FLAG") (at 50.8 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 682d0a2f-3d58-48c5-af8a-ac5e3e06fe5f)
     (property "Reference" "#FLG09" (at 50.8 178.435 0)
@@ -8532,7 +8559,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 29.21 162.56 90) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 29.21 162.56 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 68cb9a88-9b63-4234-8338-f58c2f22b80f)
     (property "Reference" "C59" (at 31.75 158.7435 90)
@@ -8579,7 +8606,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 40.64 231.14 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 40.64 231.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6a5fdf8e-2323-4283-acb5-63264895dcf8)
     (property "Reference" "#PWR015" (at 40.64 237.49 0)
@@ -8610,7 +8637,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 30.48 224.79 90) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 30.48 224.79 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6bb88ec9-8785-4674-86c9-5311784dff8c)
     (property "Reference" "C60" (at 33.02 226.0662 90)
@@ -8657,7 +8684,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_2u2_0402") (at 307.34 101.6 90) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_2u2_0402") (at 307.34 101.6 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6d57220f-88be-4f61-af35-277291d92a8f)
     (property "Reference" "C94" (at 309.88 97.7835 90)
@@ -8704,7 +8731,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 194.31 171.45 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 194.31 171.45 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6d7c57ab-8b09-45ce-9e6d-3ce3c8edbabc)
     (property "Reference" "#PWR048" (at 194.31 177.8 0)
@@ -8775,7 +8802,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 355.6 242.57 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 355.6 242.57 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6e5efa8b-d3f3-4a2b-ba82-c4c8111a0e54)
     (property "Reference" "#PWR0246" (at 355.6 248.92 0)
@@ -8806,7 +8833,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_5k1_0402") (at 74.93 105.41 90) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_5k1_0402") (at 74.93 105.41 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6fdec31b-8fa6-40d8-a974-dfc267e56811)
     (property "Reference" "R251" (at 76.2 101.6 90)
@@ -8850,7 +8877,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_5k1_0402") (at 97.79 105.41 90) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_5k1_0402") (at 97.79 105.41 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6ff3efb1-54f9-4d21-b250-5cfe055d61c6)
     (property "Reference" "R255" (at 99.06 101.6 90)
@@ -8894,7 +8921,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_100k_0402") (at 306.07 62.23 270) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_100k_0402") (at 306.07 62.23 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 74e22d9e-7ca0-4502-8bef-ee07e4a80a61)
     (property "Reference" "R283" (at 307.34 58.42 90)
@@ -8938,7 +8965,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_4u7_0402") (at 191.77 118.11 90) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_4u7_0402") (at 191.77 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7845feff-5089-4ae2-a6d2-7154e6a178f4)
     (property "Reference" "C79" (at 194.31 114.2935 90)
@@ -8985,7 +9012,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:+3V3") (at 355.6 218.44 0) (unit 1)
+  (symbol (lib_id "antmicropower:+3V3") (at 355.6 218.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7871547e-6015-4e29-8b6e-a99f26cced13)
     (property "Reference" "#PWR0208" (at 355.6 222.25 0)
@@ -9016,7 +9043,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 214.63 55.88 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 214.63 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 79b15795-63a5-4c6d-b767-4f52ea639706)
     (property "Reference" "#PWR052" (at 214.63 62.23 0)
@@ -9047,7 +9074,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_0R_0402") (at 222.25 179.07 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 222.25 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7b4558f0-e344-47c7-bfce-419e4d755800)
     (property "Reference" "R271" (at 229.235 177.8 0)
@@ -9131,7 +9158,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 276.86 64.77 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 276.86 64.77 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7cc51c7c-c2c6-4f5e-b2ee-c68f572b37f4)
     (property "Reference" "#PWR071" (at 276.86 71.12 0)
@@ -9162,7 +9189,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 52.07 162.56 90) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 52.07 162.56 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7e8869b3-8f67-49e8-b255-a57d410b12af)
     (property "Reference" "C71" (at 54.61 158.7435 90)
@@ -9209,7 +9236,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 287.02 214.63 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 287.02 214.63 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7ee7dfc1-4c63-4e03-be6a-b9238acf0336)
     (property "Reference" "#PWR074" (at 287.02 220.98 0)
@@ -9240,7 +9267,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_22p_0402") (at 86.36 233.68 270) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_22p_0402") (at 86.36 233.68 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7f1636d4-f4c4-44b4-a163-144333d43566)
     (property "Reference" "C75" (at 88.9 234.9562 90)
@@ -9287,7 +9314,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_22p_0402") (at 73.66 233.68 270) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_22p_0402") (at 73.66 233.68 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 80f0b781-ec5e-4b07-818e-1f87bdfba223)
     (property "Reference" "C74" (at 76.2 234.9562 90)
@@ -9334,7 +9361,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 295.91 102.87 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 295.91 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8b3ee3cb-99ec-4b52-97cc-fa24b3dbd85b)
     (property "Reference" "#PWR078" (at 295.91 109.22 0)
@@ -9365,7 +9392,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:LED_G_0603_KP-1608ZGC") (at 194.31 156.21 90) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroLEDIndicationDiscrete:LED_G_0603_KP-1608ZGC") (at 194.31 156.21 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8de61e21-5f5f-49a6-b5d5-feb6898fa72b)
     (property "Reference" "LD2" (at 189.23 155.575 90)
@@ -9403,7 +9430,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:ESD9X5.0ST5G") (at 240.03 270.51 90) (unit 1)
+  (symbol (lib_id "antmicroTVSDiodes:ESD9X5.0ST5G") (at 240.03 270.51 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8e3f9b34-ca64-49f1-aa5a-99d8428f3981)
     (property "Reference" "D42" (at 242.57 265.43 90)
@@ -9441,7 +9468,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 135.89 64.77 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 135.89 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 907a10e2-012c-4af9-a959-1199e9faed5e)
     (property "Reference" "#PWR042" (at 135.89 71.12 0)
@@ -9472,7 +9499,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:TPD2E009_SOT-9X3") (at 341.63 231.14 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicroTVSDiodes:TPD2E009_SOT-9X3") (at 341.63 231.14 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 90bad189-6c07-44a5-a730-02166aa6c5b5)
     (property "Reference" "D43" (at 337.185 227.33 0)
@@ -9548,7 +9575,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:FB_120Z_2A_0603") (at 105.41 48.26 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicroFerriteBeadsandChips:FB_120Z_2A_Murata-BLM18PG_0603") (at 105.41 48.26 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 928c99c4-cb6f-4dfb-85d9-5f106d8dda30)
     (property "Reference" "FB16" (at 102.9081 41.91 0)
@@ -9586,7 +9613,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 50.8 184.15 90) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 50.8 184.15 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 929e5a07-a8f2-48d5-bd86-c4f9a1ef8495)
     (property "Reference" "C68" (at 53.34 185.4262 90)
@@ -9633,7 +9660,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 40.64 162.56 90) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 40.64 162.56 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 92bdbcef-23bc-4ef1-807c-18d759e73ba3)
     (property "Reference" "C62" (at 43.18 158.7435 90)
@@ -9680,7 +9707,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 80.01 220.98 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 80.01 220.98 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 94f41d9d-5dcb-4cb5-9165-8e019a2b8bd9)
     (property "Reference" "#PWR031" (at 80.01 227.33 0)
@@ -9711,7 +9738,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 203.2 119.38 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 203.2 119.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9877a66f-8746-4cff-a26a-86078872e802)
     (property "Reference" "#PWR049" (at 203.2 125.73 0)
@@ -9742,7 +9769,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:PWR_FLAG") (at 259.08 97.79 0) (unit 1)
+  (symbol (lib_id "antmicropower:PWR_FLAG") (at 259.08 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9982df7c-aa59-4e57-b9a9-49944a1946ff)
     (property "Reference" "#FLG012" (at 259.08 95.885 0)
@@ -9767,7 +9794,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:+3V3") (at 193.04 31.75 0) (unit 1)
+  (symbol (lib_id "antmicropower:+3V3") (at 193.04 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 99e15de8-296f-4b05-931b-8e2446e0cad2)
     (property "Reference" "#PWR050" (at 193.04 35.56 0)
@@ -9798,7 +9825,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 50.8 207.01 90) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 50.8 207.01 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9a283781-eddc-4380-a7cd-c7897637f765)
     (property "Reference" "C69" (at 53.34 208.2862 90)
@@ -9845,7 +9872,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 115.57 68.58 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 115.57 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9b19a686-2f44-436c-b47e-85a32a5f1c04)
     (property "Reference" "#PWR039" (at 115.57 74.93 0)
@@ -9918,7 +9945,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 240.03 271.78 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 240.03 271.78 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9da5aaa3-73a4-4acf-abe0-50af39b3e680)
     (property "Reference" "#PWR064" (at 240.03 278.13 0)
@@ -9949,7 +9976,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:TPD2E009_SOT-9X3") (at 107.95 62.23 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicroTVSDiodes:TPD2E009_SOT-9X3") (at 107.95 62.23 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9e58f88f-da7d-47b0-a16c-598b48a8f17d)
     (property "Reference" "D40" (at 102.235 58.42 0)
@@ -9988,7 +10015,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_100R_0402") (at 227.33 161.29 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_100R_0402") (at 227.33 161.29 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a09c48a5-a2e5-4b71-b31d-cd980c0bf15b)
     (property "Reference" "R273" (at 229.235 160.02 0)
@@ -10035,7 +10062,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_5k1_0402") (at 381 46.99 90) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_5k1_0402") (at 381 46.99 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a0a3c613-6ca8-41f0-a757-22d35f32b993)
     (property "Reference" "R288" (at 382.27 43.18 90)
@@ -10119,7 +10146,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:FB_120Z_2A_0603") (at 248.92 102.87 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicroFerriteBeadsandChips:FB_120Z_2A_Murata-BLM18PG_0603") (at 248.92 102.87 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a21dff19-cb31-418a-8043-1c4218348968)
     (property "Reference" "FB17" (at 246.4181 96.52 0)
@@ -10157,7 +10184,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 375.92 180.34 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 375.92 180.34 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a2fce6b6-4573-42aa-8a96-4568e816b0f4)
     (property "Reference" "#PWR0393" (at 375.92 186.69 0)
@@ -10188,7 +10215,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_4u7_0402") (at 62.23 162.56 90) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_4u7_0402") (at 62.23 162.56 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a442e960-d68a-4cc1-9f78-8034c366f6ea)
     (property "Reference" "C72" (at 64.77 158.7435 90)
@@ -10235,7 +10262,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_2u2_0402") (at 167.64 49.53 270) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_2u2_0402") (at 167.64 49.53 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a44cdb2b-548e-40af-928e-e456bd60466e)
     (property "Reference" "C77" (at 170.18 50.8062 90)
@@ -10282,7 +10309,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 73.66 240.03 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 73.66 240.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a45a9440-c10f-4906-8435-f0d0f6089b98)
     (property "Reference" "#PWR029" (at 73.66 246.38 0)
@@ -10313,7 +10340,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 217.17 215.9 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 217.17 215.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a492d435-5fd6-4cda-9ae9-c6caed54adfb)
     (property "Reference" "#PWR056" (at 217.17 222.25 0)
@@ -10344,7 +10371,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:ESD9X5.0ST5G") (at 68.58 63.5 90) (unit 1)
+  (symbol (lib_id "antmicroTVSDiodes:ESD9X5.0ST5G") (at 68.58 63.5 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a74cf538-0ead-4197-9142-cf1c53872813)
     (property "Reference" "D37" (at 71.12 58.42 90)
@@ -10382,7 +10409,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_10p_0402") (at 287.02 213.36 270) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_10p_0402") (at 287.02 213.36 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a78e6037-6254-4af1-93d1-26f00d769a6d)
     (property "Reference" "C91" (at 289.56 209.5435 90)
@@ -10473,7 +10500,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_12k_0402") (at 95.25 238.76 90) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_12k_0402") (at 95.25 238.76 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a8936733-dcb8-49b2-81c4-5c3a09b8a310)
     (property "Reference" "R254" (at 97.155 234.9499 90)
@@ -10517,7 +10544,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 261.62 204.47 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 261.62 204.47 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a955da9f-2113-454e-ac89-3e9220af21a9)
     (property "Reference" "#PWR068" (at 261.62 210.82 0)
@@ -10601,7 +10628,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:ABM3B-12.000MHZ-B2-T") (at 85.09 214.63 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicroResonators:Resonator_12MHz_ABM3B") (at 85.09 214.63 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid aec0ef7b-e34e-46a6-8761-a8d9968838f1)
     (property "Reference" "Y2" (at 80.01 208.915 0)
@@ -10610,7 +10637,7 @@
     (property "Value" "ABM3B-12.000MHZ-B2-T" (at 80.01 209.55 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) hide)
     )
-    (property "Footprint" "antmicro-footprints:ABM3B" (at 62.23 222.25 0)
+    (property "Footprint" "antmicro-footprints:Resonator_SMD_Abracon_ABM3B_5x3.2mm" (at 62.23 222.25 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://abracon.com/Resonators/abm3b.pdf" (at 62.23 224.79 0)
@@ -10644,7 +10671,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_100R_0402") (at 227.33 163.83 180) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_100R_0402") (at 227.33 163.83 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b088fcd0-eb89-443b-af5c-68190b6fb224)
     (property "Reference" "R274" (at 229.235 162.56 0)
@@ -10728,7 +10755,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_0R_0402") (at 154.94 195.58 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 154.94 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b35ed90b-e3dd-4d32-b1a0-cb091a7a32ea)
     (property "Reference" "R260" (at 161.925 194.31 0)
@@ -10775,7 +10802,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 228.6 119.38 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 228.6 119.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b4309b3b-96d2-4788-9014-568caa785158)
     (property "Reference" "#PWR060" (at 228.6 125.73 0)
@@ -10806,7 +10833,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 87.63 68.58 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 87.63 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b4b70647-35f5-4187-b914-7dfc8dc2bc76)
     (property "Reference" "#PWR034" (at 87.63 74.93 0)
@@ -10837,7 +10864,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 41.91 85.09 180) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 41.91 85.09 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b5b96a20-5779-4574-901f-9423fe787d2d)
     (property "Reference" "C67" (at 39.37 80.01 0)
@@ -10884,7 +10911,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_1M_0402") (at 36.83 92.71 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_1M_0402") (at 36.83 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b5cc3e98-a45c-4847-bfc9-a92e6ebda7a7)
     (property "Reference" "R250" (at 43.18 91.44 0)
@@ -10931,7 +10958,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:ESD9X5.0ST5G") (at 365.76 241.3 90) (unit 1)
+  (symbol (lib_id "antmicroTVSDiodes:ESD9X5.0ST5G") (at 365.76 241.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b668faaa-c266-423f-956a-ad61e546e781)
     (property "Reference" "D44" (at 368.3 236.22 90)
@@ -10969,7 +10996,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:MB85RC1MTPNF-G") (at 287.02 44.45 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicroMemory:MB85RC1MTPNF-G") (at 287.02 44.45 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b6bb6895-5ff2-44d4-b406-33070504fe8c)
     (property "Reference" "U29" (at 277.3806 41.91 0)
@@ -11013,7 +11040,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 29.21 163.83 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 29.21 163.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b71f8825-9ee1-4ba2-9982-2d5c995ed0f4)
     (property "Reference" "#PWR09" (at 29.21 170.18 0)
@@ -11044,7 +11071,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_0R_0402") (at 154.94 208.28 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 154.94 208.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b8632207-0a2a-4696-90b0-05da85730177)
     (property "Reference" "R263" (at 161.925 207.01 0)
@@ -11094,7 +11121,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 52.07 68.58 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 52.07 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ba09115b-e25e-44c7-89f6-752834a58c05)
     (property "Reference" "#PWR021" (at 52.07 74.93 0)
@@ -11125,7 +11152,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 241.3 118.11 270) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 241.3 118.11 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ba6f20dd-21be-4075-998d-d9b8fc5a52b8)
     (property "Reference" "C87" (at 243.84 114.2935 90)
@@ -11172,7 +11199,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 231.14 215.9 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 231.14 215.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bb12cd91-1f04-4f25-8a22-46a0f1e251fa)
     (property "Reference" "#PWR063" (at 231.14 222.25 0)
@@ -11203,7 +11230,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 349.25 242.57 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 349.25 242.57 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bbd94820-8c44-4f87-be4c-92792fd401e3)
     (property "Reference" "#PWR0238" (at 349.25 248.92 0)
@@ -11234,7 +11261,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_100R_0402") (at 294.64 161.29 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_100R_0402") (at 294.64 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bc959a8b-e2f6-4a1c-9105-c430c662ff14)
     (property "Reference" "R277" (at 301.625 160.02 0)
@@ -11278,7 +11305,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 355.6 234.95 270) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 355.6 234.95 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bcccd623-2603-46c2-b83e-419e56af6c9f)
     (property "Reference" "C95" (at 358.14 236.2262 90)
@@ -11325,7 +11352,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 271.78 106.68 270) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 271.78 106.68 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bd17f822-2868-4039-ad28-71eb6805ffea)
     (property "Reference" "C89" (at 274.32 107.9562 90)
@@ -11372,7 +11399,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 50.8 107.95 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 50.8 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bf67a190-135e-4212-a3d9-2eae2f200915)
     (property "Reference" "#PWR016" (at 50.8 114.3 0)
@@ -11403,7 +11430,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_16p_0402") (at 217.17 209.55 270) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_16p_0402") (at 217.17 209.55 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c08ed6fb-f6f2-4440-b66f-3eb539f279ac)
     (property "Reference" "C83" (at 219.71 210.8262 90)
@@ -11450,7 +11477,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_16p_0402") (at 231.14 209.55 270) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_16p_0402") (at 231.14 209.55 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c372eb3f-ee47-4867-8278-250a9c84bcb4)
     (property "Reference" "C86" (at 233.68 210.8262 90)
@@ -11497,7 +11524,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 80.01 116.84 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 80.01 116.84 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c398ad7e-93f7-4a16-8406-364c15631eb3)
     (property "Reference" "#PWR032" (at 80.01 123.19 0)
@@ -11528,7 +11555,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_0R_0402") (at 154.94 205.74 0) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 154.94 205.74 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c82d942c-b2ce-4eaa-878c-194d01ba201c)
     (property "Reference" "R262" (at 161.925 204.47 0)
@@ -11578,7 +11605,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_5k1_0402") (at 388.62 46.99 90) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_5k1_0402") (at 388.62 46.99 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c8a499a5-558d-4475-906c-6ee11bc3fff2)
     (property "Reference" "R289" (at 389.89 43.18 90)
@@ -11622,7 +11649,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:TPD2E009_SOT-9X3") (at 217.17 260.35 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicroTVSDiodes:TPD2E009_SOT-9X3") (at 217.17 260.35 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cac8cfe2-bf05-4d29-b0a9-1f73fcc45b62)
     (property "Reference" "D41" (at 211.455 256.54 0)
@@ -11661,7 +11688,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 398.78 156.21 270) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 398.78 156.21 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cb2e8fa0-3f6e-4814-a4a7-f6c377c06828)
     (property "Reference" "C106" (at 401.32 157.4862 90)
@@ -11708,7 +11735,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:ECS-_327-12_5-34B-TR") (at 220.98 196.85 0) (unit 1)
+  (symbol (lib_id "antmicroResonators:Resonator_32.768kHz_ECX-31B") (at 220.98 196.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cc48c307-df8d-4482-88bd-7411e1c380ed)
     (property "Reference" "Y3" (at 224.79 191.135 0)
@@ -11717,7 +11744,7 @@
     (property "Value" "ECS-_327-12_5-34B-TR" (at 224.79 191.77 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) hide)
     )
-    (property "Footprint" "antmicro-footprints:SMD-2_3.2x1.5mm" (at 242.57 207.01 0)
+    (property "Footprint" "antmicro-footprints:Resonator_SMD_ECS_ECX-31B_3.2x1.5x0.9mm" (at 242.57 207.01 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Datasheet" "http://www.ecsxtal.com/store/pdf/ecx-31b.pdf" (at 242.57 209.55 0)
@@ -11749,7 +11776,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:AP7370-33SA-7") (at 185.42 48.26 0) (unit 1)
+  (symbol (lib_id "antmicroPMICVoltageRegulatorsLinear:AP7370-33SA-7") (at 185.42 48.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cfbcb8dd-28c5-4b01-9927-fb5a6ce4d48e)
     (property "Reference" "U27" (at 193.04 43.18 0)
@@ -11788,7 +11815,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_4u7_0402") (at 40.64 184.15 90) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_4u7_0402") (at 40.64 184.15 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d011891a-8e33-4770-80bb-8cc725632a76)
     (property "Reference" "C63" (at 43.18 185.4262 90)
@@ -11835,7 +11862,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_4u7_0402") (at 19.05 229.87 90) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_4u7_0402") (at 19.05 229.87 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d1d1a634-4dd9-4a8b-a842-1fa3b5dd6ab9)
     (property "Reference" "C57" (at 21.59 226.0535 90)
@@ -11882,7 +11909,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 300.99 214.63 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 300.99 214.63 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d29d57a1-f7ca-4983-b6f7-ab422d9ff726)
     (property "Reference" "#PWR089" (at 300.99 220.98 0)
@@ -11913,7 +11940,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 365.76 242.57 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 365.76 242.57 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d5b7a0c7-db5e-4c91-a167-a8f5f022c03f)
     (property "Reference" "#PWR0337" (at 365.76 248.92 0)
@@ -11944,7 +11971,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 193.04 59.69 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 193.04 59.69 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d5cd3450-f308-4c98-8b2a-ab78c6c880f2)
     (property "Reference" "#PWR047" (at 193.04 66.04 0)
@@ -11975,7 +12002,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_100R_0402") (at 294.64 163.83 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_100R_0402") (at 294.64 163.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d6a20b38-bc16-436f-9274-f73d56c7191d)
     (property "Reference" "R278" (at 301.625 162.56 0)
@@ -12019,7 +12046,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 176.53 55.88 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 176.53 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dc6b1a2d-16a7-4b83-ae38-0ead0dacaf3d)
     (property "Reference" "#PWR044" (at 176.53 62.23 0)
@@ -12050,7 +12077,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_2u2_0402") (at 17.78 162.56 90) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_2u2_0402") (at 17.78 162.56 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dccc0f0d-125b-406d-9b52-7b1f0b22ffa9)
     (property "Reference" "C56" (at 20.32 158.7435 90)
@@ -12097,7 +12124,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:FB_120Z_2A_0603") (at 29.21 204.47 0) (unit 1)
+  (symbol (lib_id "antmicroFerriteBeadsandChips:FB_120Z_2A_Murata-BLM18PG_0603") (at 29.21 204.47 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e02b6af7-f2f6-4858-9e16-753b678632e5)
     (property "Reference" "FB14" (at 31.7119 198.12 0)
@@ -12135,7 +12162,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 260.35 41.91 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 260.35 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e0b13302-0de5-48a7-9c86-cfa4415ded0f)
     (property "Reference" "#PWR067" (at 260.35 48.26 0)
@@ -12166,7 +12193,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 386.08 76.2 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 386.08 76.2 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e2a5f5d6-5301-44cf-b060-e45fc491569a)
     (property "Reference" "#PWR0402" (at 386.08 82.55 0)
@@ -12197,7 +12224,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_0R_0402") (at 154.94 162.56 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 154.94 162.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e4b19fce-e983-4d8f-8c67-76dce07a2ff1)
     (property "Reference" "R257" (at 161.29 161.29 0)
@@ -12244,7 +12271,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 215.9 119.38 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 215.9 119.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e58a6a7c-c58f-4e78-87d4-dc5617d4180e)
     (property "Reference" "#PWR054" (at 215.9 125.73 0)
@@ -12275,7 +12302,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_10p_0402") (at 300.99 213.36 270) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_10p_0402") (at 300.99 213.36 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e5a8205a-241f-46e9-8b90-80525603be97)
     (property "Reference" "C93" (at 303.53 209.5435 90)
@@ -12322,7 +12349,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 95.25 246.38 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 95.25 246.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e6614ddb-b799-4ced-b8a9-044da8dbc653)
     (property "Reference" "#PWR036" (at 95.25 252.73 0)
@@ -12353,7 +12380,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 17.78 163.83 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 17.78 163.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e6cbd8eb-9d99-464c-902e-da91e1516900)
     (property "Reference" "#PWR03" (at 17.78 170.18 0)
@@ -12384,7 +12411,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:STM32G474CET6") (at 236.22 123.19 0) (unit 1)
+  (symbol (lib_id "antmicroMicrocontrollers:STM32G474CET6") (at 236.22 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ea1b1a04-594c-4f36-a10a-595d72244381)
     (property "Reference" "U28" (at 266.1794 199.39 0)
@@ -12393,7 +12420,7 @@
     (property "Value" "STM32G474CET6" (at 266.1794 201.93 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
-    (property "Footprint" "antmicro-footprints:LQFP-48_B7x7mm_P0.5mm_0.20mmPadPadClearance_Pad0.30x1.20mm" (at 294.64 133.35 0)
+    (property "Footprint" "antmicro-footprints:LQFP-48_7x7mm_P0.5mm" (at 294.64 133.35 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32g474ce.pdf" (at 294.64 135.89 0)
@@ -12468,7 +12495,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_0R_0402") (at 154.94 198.12 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 154.94 198.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ea4213a2-be9b-49bd-9852-1bce36b9cc56)
     (property "Reference" "R261" (at 161.925 196.85 0)
@@ -12515,7 +12542,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 62.23 163.83 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 62.23 163.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid eb31a22d-a9e2-48a4-9a99-f4ad93822c8d)
     (property "Reference" "#PWR026" (at 62.23 170.18 0)
@@ -12546,7 +12573,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:SHT45") (at 355.6 120.65 0) (unit 1)
+  (symbol (lib_id "antmicroHumidityMoistureSensors:SHT45") (at 355.6 120.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ebbeb46e-0dc1-4e67-b23e-00c9df049c5e)
     (property "Reference" "U30" (at 369.57 126.9999 0)
@@ -12586,7 +12613,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_1k_0402") (at 295.91 71.12 90) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_1k_0402") (at 295.91 71.12 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ecbd5d86-ad99-4bca-b5ec-cf2db3bf1c5b)
     (property "Reference" "R279" (at 297.18 67.31 90)
@@ -12630,7 +12657,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GNDREF") (at 27.94 107.95 0) (unit 1)
+  (symbol (lib_id "antmicropower:GNDREF") (at 27.94 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ed5f225e-2d60-42f2-821b-1421855fb265)
     (property "Reference" "#PWR07" (at 27.94 114.3 0)
@@ -12692,7 +12719,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 50.8 231.14 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 50.8 231.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid edcb1928-91c2-4cde-9ea3-aa1804c47b29)
     (property "Reference" "#PWR020" (at 50.8 237.49 0)
@@ -12723,7 +12750,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 74.93 116.84 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 74.93 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ee1d6d71-cc77-46bc-8378-72b9944509e7)
     (property "Reference" "#PWR030" (at 74.93 123.19 0)
@@ -12754,7 +12781,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 283.21 113.03 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 283.21 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid efb77300-01b0-43d1-9449-2b540611a1e3)
     (property "Reference" "#PWR072" (at 283.21 119.38 0)
@@ -12785,7 +12812,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:PWR_FLAG") (at 167.64 46.99 0) (unit 1)
+  (symbol (lib_id "antmicropower:PWR_FLAG") (at 167.64 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f1baf9b7-22c5-4431-bd47-52593acbae20)
     (property "Reference" "#FLG011" (at 167.64 45.085 0)
@@ -12810,7 +12837,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_1M_0402") (at 222.25 207.01 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_1M_0402") (at 222.25 207.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f2879e95-9966-4272-960c-eff1d030373b)
     (property "Reference" "R270" (at 229.235 205.74 0)
@@ -12857,7 +12884,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_100k_0402") (at 316.23 46.99 270) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_100k_0402") (at 316.23 46.99 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f2cb72a7-f3b2-468b-af70-73f544773c08)
     (property "Reference" "R284" (at 317.5 43.18 90)
@@ -12901,7 +12928,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_0R_0402") (at 158.75 179.07 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 158.75 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f494c078-7da7-4174-9121-547311a7beaf)
     (property "Reference" "R266" (at 165.735 177.8 0)
@@ -12948,7 +12975,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 86.36 240.03 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 86.36 240.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f4fe343a-19a3-423c-a6fd-f25c84032587)
     (property "Reference" "#PWR033" (at 86.36 246.38 0)
@@ -12979,7 +13006,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 50.8 190.5 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 50.8 190.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f5ea1e84-0dd9-448a-bf3a-4f6840043b6d)
     (property "Reference" "#PWR017" (at 50.8 196.85 0)
@@ -13010,7 +13037,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:BAT-HLD-012-SMT-TR") (at 287.02 119.38 90) (unit 1)
+  (symbol (lib_id "antmicroBatteryHoldersClipsContacts:BAT-HLD-012-SMT-TR") (at 287.02 119.38 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f793c79b-9fb5-4239-8a76-eb548534cf07)
     (property "Reference" "BAT1" (at 288.29 113.665 90)
@@ -13049,7 +13076,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_100n_0402") (at 50.8 224.79 90) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 50.8 224.79 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f87962b5-26b4-42f2-b915-d454f303239c)
     (property "Reference" "C70" (at 53.34 226.0662 90)
@@ -13096,7 +13123,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 104.14 116.84 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 104.14 116.84 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f89d5b61-7b10-4e83-b4e0-16d863887349)
     (property "Reference" "#PWR038" (at 104.14 123.19 0)
@@ -13127,7 +13154,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:FB_120Z_2A_0603") (at 29.21 181.61 0) (unit 1)
+  (symbol (lib_id "antmicroFerriteBeadsandChips:FB_120Z_2A_Murata-BLM18PG_0603") (at 29.21 181.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid faef96fd-fd06-4636-aa98-8aa0b30ab5e7)
     (property "Reference" "FB13" (at 31.7119 175.26 0)
@@ -13165,7 +13192,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_1M_0402") (at 77.47 228.6 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_1M_0402") (at 77.47 228.6 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fb0ac084-6bdc-4617-a636-feba7b03d452)
     (property "Reference" "R252" (at 83.82 227.33 0)
@@ -13212,7 +13239,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 241.3 119.38 0) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 241.3 119.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fc1bec7d-a6e4-4bf0-a581-29a1219f6cac)
     (property "Reference" "#PWR065" (at 241.3 125.73 0)
@@ -13243,7 +13270,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:ESD9X5.0ST5G") (at 80.01 115.57 90) (unit 1)
+  (symbol (lib_id "antmicroTVSDiodes:ESD9X5.0ST5G") (at 80.01 115.57 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fc332193-0c3b-498a-a259-dc49e3a0e28b)
     (property "Reference" "D38" (at 82.55 110.49 90)
@@ -13281,7 +13308,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_100k_0402") (at 316.23 62.23 270) (mirror x) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_100k_0402") (at 316.23 62.23 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fcea7c92-e0d2-492c-82c6-a099b93411f8)
     (property "Reference" "R285" (at 317.5 58.42 90)
@@ -13325,7 +13352,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:R_0R_0402") (at 154.94 186.69 0) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 154.94 186.69 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fd1098c7-4a87-47fd-8897-d048dba89d88)
     (property "Reference" "R259" (at 161.925 185.42 0)
@@ -13375,7 +13402,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:C_2u2_0402") (at 203.2 113.03 270) (unit 1)
+  (symbol (lib_id "antmicroCapacitors0402:C_2u2_0402") (at 203.2 113.03 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fd5c562f-3042-47a9-8a2e-7a9ed8f1ec1e)
     (property "Reference" "C80" (at 205.74 114.3062 90)
@@ -13422,7 +13449,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:PWR_FLAG") (at 21.59 102.87 0) (unit 1)
+  (symbol (lib_id "antmicropower:PWR_FLAG") (at 21.59 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fe65b8a1-9c1f-44da-a67a-a44321020060)
     (property "Reference" "#FLG06" (at 21.59 100.965 0)
@@ -13447,7 +13474,7 @@
     )
   )
 
-  (symbol (lib_id "environment-sensor:GND") (at 365.76 135.89 0) (mirror y) (unit 1)
+  (symbol (lib_id "antmicropower:GND") (at 365.76 135.89 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ff6ced1c-5d00-495f-a9ab-c8f6152bddc7)
     (property "Reference" "#PWR0309" (at 365.76 142.24 0)

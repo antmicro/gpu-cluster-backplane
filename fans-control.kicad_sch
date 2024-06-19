@@ -85,6 +85,7 @@
         )
       )
     )
+
     (symbol "antmicroCapacitors0603:C_10u_16V_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -157,6 +158,7 @@
         )
       )
     )
+
     (symbol "antmicroDiodesRectifiersSingle:1N4148WS-7-F" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 21.59 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -238,6 +240,7 @@
         )
       )
     )
+
     (symbol "antmicroFerriteBeadsandChips:FB_120Z_3A_Murata-BLM18SG_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "FB" (at 13.97 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -318,6 +321,7 @@
         )
       )
     )
+
     (symbol "antmicroInterfaceAnalogSwitchesMultiplexersDemultiplexers:TS5A3359_VSSOP" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 41.91 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -500,6 +504,7 @@
         )
       )
     )
+
     (symbol "antmicroOperationalAmplifiers:LM339_TSSOP_CUSTOM_Split" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 25.4 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -836,6 +841,7 @@
         )
       )
     )
+
     (symbol "antmicroPMICMotorDriversControllers:MAX6643_QSOP" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 38.1 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -938,6 +944,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_0R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -998,6 +1005,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_100R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1055,6 +1063,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_10k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1112,6 +1121,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_510k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1169,6 +1179,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_51k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1226,6 +1237,7 @@
         )
       )
     )
+
     (symbol "antmicroTestPoints:TP_1mm_SMD" (pin_names hide) (in_bom no) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1271,6 +1283,7 @@
         )
       )
     )
+
     (symbol "antmicroTransistorsFETsMOSFETsSingle:BSS138PW" (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "Q" (at 3.81 -6.35 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1447,6 +1460,7 @@
         )
       )
     )
+
     (symbol "antmicroWire2BoardConnectors:JST_SH_1x2_BM02B-SRSS-TB-LF-SN" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 19.05 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1509,6 +1523,7 @@
         )
       )
     )
+
     (symbol "antmicroWire2BoardConnectors:JST_XH_1x2_B2B-XH-A-LF-SN" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 7.62 1.27 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1563,6 +1578,7 @@
         )
       )
     )
+
     (symbol "antmicroWire2BoardConnectors:Molex_KK_1x4_22-23-2041" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 13.335 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1633,6 +1649,7 @@
         )
       )
     )
+
     (symbol "antmicropower:+3V3" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 15.24 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -1685,6 +1702,7 @@
         )
       )
     )
+
     (symbol "antmicropower:+5V" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 15.24 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -1735,6 +1753,7 @@
         )
       )
     )
+
     (symbol "antmicropower:GND" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 8.89 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -2143,7 +2162,6 @@
     (stroke (width 0) (type default))
     (uuid 1aadfc0e-4902-466b-8b2f-73f708ec82e0)
   )
-
   (wire (pts (xy 137.16 234.95) (xy 160.02 234.95))
     (stroke (width 0) (type default))
     (uuid 1b13d541-a669-4fee-9495-6abc6bc9da3e)
@@ -2268,7 +2286,6 @@
     (stroke (width 0) (type default))
     (uuid 344bfa28-7888-4436-ad2f-b38c3693ab47)
   )
-
   (wire (pts (xy 88.9 187.96) (xy 100.33 187.96))
     (stroke (width 0) (type default))
     (uuid 345978f2-c3bd-43b0-9047-df28d19603bf)
@@ -2333,7 +2350,6 @@
     (stroke (width 0) (type default))
     (uuid 3c9f4d83-3bcb-4e67-8daf-8b9d25f24d07)
   )
-
   (wire (pts (xy 163.83 148.59) (xy 167.64 148.59))
     (stroke (width 0) (type default))
     (uuid 3d132149-294a-46e7-9366-c06dd30884c8)
@@ -2502,7 +2518,6 @@
     (stroke (width 0) (type default))
     (uuid 5bec17a3-da41-420f-89e3-2073e2bcf835)
   )
-
   (wire (pts (xy 165.1 66.04) (xy 167.64 66.04))
     (stroke (width 0) (type default))
     (uuid 5c292caa-e488-43af-a053-5056909da6b1)
@@ -2583,7 +2598,6 @@
     (stroke (width 0) (type default))
     (uuid 652c59b2-fbef-404b-9eef-7cfd9b33e779)
   )
-
   (wire (pts (xy 100.33 234.95) (xy 100.33 236.22))
     (stroke (width 0) (type default))
     (uuid 6555f104-ab2f-4024-a2d7-597fa10e0300)
@@ -2684,7 +2698,6 @@
     (stroke (width 0) (type default))
     (uuid 767dfb5f-2f57-4955-9006-4ca35eeebbfa)
   )
-
   (wire (pts (xy 45.72 262.89) (xy 52.07 262.89))
     (stroke (width 0) (type default))
     (uuid 775990b4-bfdf-4658-a39a-95817353f8b3)
@@ -2737,7 +2750,6 @@
     (stroke (width 0) (type default))
     (uuid 7c687c6b-1735-4ceb-9efe-b1a726b253d7)
   )
-
   (wire (pts (xy 349.25 157.48) (xy 349.25 147.32))
     (stroke (width 0) (type default))
     (uuid 7c922384-022c-4e11-9cb4-0fca7a902ba7)
@@ -2802,7 +2814,6 @@
     (stroke (width 0) (type default))
     (uuid 85aeb2d0-8c22-4d51-9755-af56bcb980eb)
   )
-
   (wire (pts (xy 184.15 93.98) (xy 184.15 95.25))
     (stroke (width 0) (type default))
     (uuid 85fa8f20-5f73-473d-944b-281376858120)
@@ -3083,7 +3094,6 @@
     (stroke (width 0) (type default))
     (uuid affd9811-abbf-40a8-a4e0-c850855e9db3)
   )
-
   (wire (pts (xy 350.52 179.07) (xy 346.71 179.07))
     (stroke (width 0) (type default))
     (uuid b07af498-7061-4485-8176-b255bce7f5b7)
@@ -3372,7 +3382,6 @@
     (stroke (width 0) (type default))
     (uuid ea672918-279d-4d5c-bcf0-f0cbdc1f1478)
   )
-
   (wire (pts (xy 349.25 242.57) (xy 349.25 243.84))
     (stroke (width 0) (type default))
     (uuid eb17bf07-c784-4cc8-94dc-c86f773e5b42)
