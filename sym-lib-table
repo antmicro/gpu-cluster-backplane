@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "gpu-cluster-backplane")(type "KiCad")(uri "${KIPRJMOD}/lib/gpu-cluster-backplane.kicad_sym")(options "")(descr ""))
-)

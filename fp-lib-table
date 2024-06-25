@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "gpu-cluster-backplane-footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/gpu-cluster-backplane-footprints")(options "")(descr ""))
-)
