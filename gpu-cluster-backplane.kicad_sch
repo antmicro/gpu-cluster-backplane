@@ -3255,10 +3255,10 @@
     (stroke (width 0) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 00000000-0000-0000-0000-000062220f27)
-    (property "Sheetname" "FTDI and power" (at 119.38 238.0484 0)
+    (property "Sheetname" "Power" (at 119.38 238.0484 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "ftdi-module.kicad_sch" (at 119.38 262.2046 0)
+    (property "Sheetfile" "power.kicad_sch" (at 119.38 262.2046 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
