@@ -9,7 +9,7 @@ Copyright (c) 2023-2024 [Antmicro](https://www.antmicro.com)
 This project contains open hardware design files for a PCB supporting power distribution in a cluster composed of GPUs.
 This board has been derived from an open source [d166-e-psu-breakout](https://github.com/antmicro/d1600e-psu-breakout) created by Antmicro.
 The GPU cluster backplane has been designed to be used with up to eight GPU units connected over a series [thunderbolt-gpu-adapters](https://github.com/antmicro/thunderbolt-gpu-adapter).
-The design files for the board were prepared in KiCad 6.x.
+The design files for the board were prepared in KiCad 7.x.
 
 ## Key features
 
