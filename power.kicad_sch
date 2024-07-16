@@ -3819,7 +3819,7 @@
   (symbol (lib_id "antmicroResistors0402:R_10k_0402") (at 165.1 182.88 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 40c7dc4e-2f5c-458b-8ab5-9dd976ab048c)
-    (property "Reference" "R?" (at 162.56 179.07 90)
+    (property "Reference" "R8" (at 162.56 179.07 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "R_10k_0402" (at 152.4 162.56 0)
@@ -3854,7 +3854,7 @@
     (instances
       (project "gpu-cluster-backplane"
         (path "/1dfa85fb-d2ca-4fb7-a43a-9f2dc5b08d74/00000000-0000-0000-0000-000062220f27"
-          (reference "R?") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -4011,7 +4011,7 @@
   (symbol (lib_id "antmicroResistors0402:R_10k_0402") (at 165.1 101.6 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 70aee0ad-8154-4a1a-b7c2-a0af8368c4a8)
-    (property "Reference" "R?" (at 162.56 97.79 90)
+    (property "Reference" "R5" (at 162.56 97.79 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "R_10k_0402" (at 152.4 81.28 0)
@@ -4046,7 +4046,7 @@
     (instances
       (project "gpu-cluster-backplane"
         (path "/1dfa85fb-d2ca-4fb7-a43a-9f2dc5b08d74/00000000-0000-0000-0000-000062220f27"
-          (reference "R?") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -4831,7 +4831,7 @@
   (symbol (lib_id "antmicroResistors0402:R_10k_0402") (at 165.1 187.96 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e862b91f-282e-4894-83f1-ab821daea934)
-    (property "Reference" "R?" (at 162.56 184.15 90)
+    (property "Reference" "R9" (at 162.56 184.15 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "R_10k_0402" (at 152.4 167.64 0)
@@ -4866,7 +4866,7 @@
     (instances
       (project "gpu-cluster-backplane"
         (path "/1dfa85fb-d2ca-4fb7-a43a-9f2dc5b08d74/00000000-0000-0000-0000-000062220f27"
-          (reference "R?") (unit 1)
+          (reference "R9") (unit 1)
         )
       )
     )
@@ -4994,7 +4994,7 @@
   (symbol (lib_id "antmicroResistors0402:R_10k_0402") (at 165.1 96.52 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f9d0c70d-a2a8-4bb3-af8c-281cf979a74e)
-    (property "Reference" "R?" (at 162.56 92.71 90)
+    (property "Reference" "R4" (at 162.56 92.71 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "R_10k_0402" (at 152.4 76.2 0)
@@ -5029,7 +5029,7 @@
     (instances
       (project "gpu-cluster-backplane"
         (path "/1dfa85fb-d2ca-4fb7-a43a-9f2dc5b08d74/00000000-0000-0000-0000-000062220f27"
-          (reference "R?") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )

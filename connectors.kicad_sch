@@ -3724,11 +3724,6 @@
     (effects (font (size 2 2)) (justify left bottom))
     (uuid 5c575dcc-baa5-4b2c-b5b3-be0159875c46)
   )
-  (text "need to validate this during bringup\nas we don't know current capabilities\nof the 12V always on output"
-    (at 73.025 171.45 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 6351de41-28fa-454b-b34f-bbb0545dcace)
-  )
   (text "Front panel power switch\n" (at 224.79 130.81 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d77af47d-c6c4-47e1-ae51-e2d80ccffd33)
