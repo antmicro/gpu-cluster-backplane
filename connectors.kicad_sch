@@ -235,6 +235,7 @@
         )
       )
     )
+
     (symbol "antmicroLEDIndicationDiscrete:LED_G_0603_LG_L29K-G2J1-24-Z" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 20.32 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -340,6 +341,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_0R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -397,6 +399,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_10k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -451,6 +454,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_680R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -505,6 +509,7 @@
         )
       )
     )
+
     (symbol "antmicroResistorsmisc:R_0R_0805" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -562,6 +567,7 @@
         )
       )
     )
+
     (symbol "antmicroSlideSwitches:MSS3-V-T_R" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "SW" (at 25.4 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -672,6 +678,7 @@
         )
       )
     )
+
     (symbol "antmicroTVSDiodes:ESDA25P35-1U1M" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 24.13 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -766,6 +773,7 @@
         )
       )
     )
+
     (symbol "antmicroTestPoints:TP_1mm_SMD" (pin_names hide) (in_bom no) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -808,6 +816,7 @@
         )
       )
     )
+
     (symbol "antmicroTransistorsBipolarSingle:BC807-25W" (in_bom yes) (on_board yes)
       (property "Reference" "Q" (at 17.018 2.794 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -903,6 +912,7 @@
         )
       )
     )
+
     (symbol "antmicroWire2BoardConnectors:JST_XH_1x2_B2B-XH-A-LF-SN" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 7.62 1.27 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -957,6 +967,7 @@
         )
       )
     )
+
     (symbol "antmicropower:+3V3" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 15.24 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -1009,6 +1020,7 @@
         )
       )
     )
+
     (symbol "antmicropower:GND" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 8.89 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -1047,6 +1059,7 @@
         )
       )
     )
+
     (symbol "antmicropower:PWR_FLAG" (power) (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "#FLG" (at 0 1.905 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -1183,7 +1196,6 @@
     (stroke (width 0) (type default))
     (uuid 1b3e74f8-2809-40f0-9770-4eaf58b4f3aa)
   )
-
   (wire (pts (xy 74.93 110.49) (xy 77.47 110.49))
     (stroke (width 0) (type default))
     (uuid 1bc98d2e-8218-4444-a53d-1c0012de4d1f)
@@ -1260,7 +1272,6 @@
     (stroke (width 0) (type default))
     (uuid 51fa9fe1-4b81-4604-a064-c6cfe60bd3a3)
   )
-
   (wire (pts (xy 116.84 95.25) (xy 113.03 95.25))
     (stroke (width 0) (type default))
     (uuid 5623a8a7-728d-48ba-ab92-fa949242bd65)
@@ -1441,7 +1452,6 @@
     (stroke (width 0) (type default))
     (uuid c0d28701-3237-430a-9859-169f85240754)
   )
-
   (wire (pts (xy 74.93 95.25) (xy 74.93 97.79))
     (stroke (width 0) (type default))
     (uuid c2d0ffaf-7206-4c43-884b-363e4584bf97)
@@ -1514,7 +1524,6 @@
     (stroke (width 0) (type default))
     (uuid f74f718a-a4f5-4366-8eff-e19f56bac2c9)
   )
-
   (wire (pts (xy 82.55 162.56) (xy 87.63 162.56))
     (stroke (width 0) (type default))
     (uuid f84119d9-a2c5-42b3-9ad5-696a491310bd)
@@ -3791,7 +3800,7 @@
   )
 
   (symbol (lib_id "antmicroResistorsmisc:R_0R_0805") (at 87.63 153.67 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 03f485b8-74da-43b7-a051-d0ee0fe8c47d)
     (property "Reference" "R83" (at 90.17 148.59 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -3825,6 +3834,9 @@
     )
     (property "Current" "2.5A" (at 107.95 184.15 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid 6fd956c4-286e-4b48-9a97-a7c978003974))
     (pin "2" (uuid 849ca972-c7c9-4ee3-81bc-368c455d86fa))
@@ -3907,7 +3919,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 233.68 114.3 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 0f222681-e1a8-482e-9573-46c629620a5c)
     (property "Reference" "R86" (at 236.22 110.49 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -3942,7 +3954,7 @@
     (property "Current" "1A" (at 254 144.78 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "DNP" "" (at 233.68 114.3 0)
+    (property "DNP" "DNP" (at 233.68 114.3 0)
       (effects (font (size 1.27 1.27)))
     )
     (pin "1" (uuid c3e29179-d83f-4dd3-94d3-cc048a8ac8af))
@@ -4066,7 +4078,7 @@
   )
 
   (symbol (lib_id "antmicroSlideSwitches:MSS3-V-T_R") (at 231.14 102.87 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 31711d0d-ecdc-46b0-9e63-679ac3ee67eb)
     (property "Reference" "SW1" (at 247.65 101.6 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -4092,7 +4104,7 @@
     (property "License" "Apache-2.0" (at 256.54 125.73 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "DNP" "" (at 231.14 102.87 0)
+    (property "DNP" "DNP" (at 231.14 102.87 0)
       (effects (font (size 1.27 1.27)))
     )
     (pin "1" (uuid 634f9272-f4df-4d36-b812-3e993c3e7dd0))

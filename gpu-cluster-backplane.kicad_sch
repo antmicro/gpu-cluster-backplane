@@ -47,6 +47,7 @@
         )
       )
     )
+
     (symbol "antmicroMechanicalParts:oshw_logo" (in_bom no) (on_board yes)
       (property "Reference" "N" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -82,7 +83,6 @@
       )
     )
   )
-
 
   (image (at 35.56 275.59) (scale 0.4)
     (uuid 11e6e689-87fd-4c47-87d1-08bbb6e6b83d)

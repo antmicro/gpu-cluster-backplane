@@ -139,6 +139,7 @@
         )
       )
     )
+
     (symbol "antmicroCapacitors0402:C_100n_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -208,6 +209,7 @@
         )
       )
     )
+
     (symbol "antmicroCapacitors0402:C_10p_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -277,6 +279,7 @@
         )
       )
     )
+
     (symbol "antmicroCapacitors0402:C_16p_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -346,6 +349,7 @@
         )
       )
     )
+
     (symbol "antmicroCapacitors0402:C_22p_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -415,6 +419,7 @@
         )
       )
     )
+
     (symbol "antmicroCapacitors0402:C_2u2_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -484,6 +489,7 @@
         )
       )
     )
+
     (symbol "antmicroCapacitors0402:C_4u7_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -553,6 +559,7 @@
         )
       )
     )
+
     (symbol "antmicroFerriteBeadsandChips:FB_120Z_2A_Murata-BLM18PG_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "FB" (at 15.24 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -630,6 +637,7 @@
         )
       )
     )
+
     (symbol "antmicroHumidityMoistureSensors:BME280" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 33.02 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -700,6 +708,7 @@
         )
       )
     )
+
     (symbol "antmicroHumidityMoistureSensors:SHT45" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 27.94 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -757,6 +766,7 @@
         )
       )
     )
+
     (symbol "antmicroInterfaceControllers:FT4232H_VQFN" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 55.88 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1023,6 +1033,7 @@
         )
       )
     )
+
     (symbol "antmicroLEDIndicationDiscrete:LED_G_0603_KP-1608ZGC" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 20.32 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1128,6 +1139,7 @@
         )
       )
     )
+
     (symbol "antmicroMechanicalParts:Spacer_Drill3.7mm_H10mm_9774100151R" (in_bom yes) (on_board yes)
       (property "Reference" "H" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1174,6 +1186,7 @@
         )
       )
     )
+
     (symbol "antmicroMemory:MB85RC1MTPNF-G" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 35.56 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1244,6 +1257,7 @@
         )
       )
     )
+
     (symbol "antmicroMicrocontrollers:STM32G474CET6" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 58.42 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1474,6 +1488,7 @@
         )
       )
     )
+
     (symbol "antmicroPMICVoltageRegulatorsLinear:AP7370-33SA-7" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 30.48 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1524,6 +1539,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_0R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1581,6 +1597,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_100R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1635,6 +1652,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_100k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1689,6 +1707,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_12k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1743,6 +1762,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_1M_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1797,6 +1817,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_1k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1851,6 +1872,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_470R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1905,6 +1927,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_4k7_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1959,6 +1982,7 @@
         )
       )
     )
+
     (symbol "antmicroResistors0402:R_5k1_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2013,6 +2037,7 @@
         )
       )
     )
+
     (symbol "antmicroResonators:Resonator_12MHz_ABM3B" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "Y" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2106,6 +2131,7 @@
         )
       )
     )
+
     (symbol "antmicroResonators:Resonator_32.768kHz_ECX-31B" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "Y" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2171,6 +2197,7 @@
         )
       )
     )
+
     (symbol "antmicroResonators:Resonator_8MHz_ABM3B" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "Y" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2264,6 +2291,7 @@
         )
       )
     )
+
     (symbol "antmicroTVSDiodes:ESD9X5.0ST5G" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 21.59 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2358,6 +2386,7 @@
         )
       )
     )
+
     (symbol "antmicroTVSDiodes:TPD2E009_SOT-9X3" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 15.24 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2504,6 +2533,7 @@
         )
       )
     )
+
     (symbol "antmicroTestPoints:TP_1mm_SMD" (pin_names hide) (in_bom no) (on_board yes)
       (property "Reference" "TP" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2546,6 +2576,7 @@
         )
       )
     )
+
     (symbol "antmicroUSBConnectors:USB-C_GCT_USB4145-03-0070-C" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 21.59 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2744,6 +2775,7 @@
         )
       )
     )
+
     (symbol "antmicroWire2BoardConnectors:JST_SH_1x4_SM04B-SRSS-TB-LF-SN" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 26.67 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -2822,6 +2854,7 @@
         )
       )
     )
+
     (symbol "antmicropower:+3V3" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 15.24 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -2874,6 +2907,7 @@
         )
       )
     )
+
     (symbol "antmicropower:GND" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 8.89 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
@@ -2912,6 +2946,7 @@
         )
       )
     )
+
     (symbol "antmicropower:GNDREF" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -6.35 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -2966,6 +3001,7 @@
         )
       )
     )
+
     (symbol "antmicropower:PWR_FLAG" (power) (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "#FLG" (at 0 1.905 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -3391,7 +3427,6 @@
     (stroke (width 0) (type default))
     (uuid 0bc1af58-4ff3-4363-8ddd-b8474f79c040)
   )
-
   (wire (pts (xy 19.05 181.61) (xy 19.05 180.34))
     (stroke (width 0) (type default))
     (uuid 0bf1d3e7-1d68-4cea-bd79-f08e635caa26)
@@ -3416,7 +3451,6 @@
     (stroke (width 0) (type default))
     (uuid 0e6726e5-916f-4277-a84d-6761c55f75b5)
   )
-
   (wire (pts (xy 251.46 110.49) (xy 251.46 107.95))
     (stroke (width 0) (type default))
     (uuid 0edce24d-cfb1-4c16-8643-ce429e031462)
@@ -3569,7 +3603,6 @@
     (stroke (width 0) (type default))
     (uuid 22d24daa-f692-44b4-a775-0ae300de3550)
   )
-
   (wire (pts (xy 299.72 132.08) (xy 299.72 133.35))
     (stroke (width 0) (type default))
     (uuid 236b2587-1e93-4ec2-94c9-3fda452b62d3)
@@ -3670,7 +3703,6 @@
     (stroke (width 0) (type default))
     (uuid 362c3b08-8349-4154-9037-6fd9776b8eeb)
   )
-
   (wire (pts (xy 242.57 107.95) (xy 251.46 107.95))
     (stroke (width 0) (type default))
     (uuid 36733126-ac6b-4829-9c76-b13db66a6a0b)
@@ -3903,7 +3935,6 @@
     (stroke (width 0) (type default))
     (uuid 584615a0-57dc-4ec1-bedd-193a53f91f98)
   )
-
   (wire (pts (xy 167.64 48.26) (xy 167.64 49.53))
     (stroke (width 0) (type default))
     (uuid 58516290-12d1-473c-80d4-ac76f1e57369)
@@ -3948,7 +3979,6 @@
     (stroke (width 0) (type default))
     (uuid 5fbfc0a2-8aa2-434a-bb2e-9f5d1d925242)
   )
-
   (wire (pts (xy 142.24 157.48) (xy 147.32 157.48))
     (stroke (width 0) (type default))
     (uuid 6095a677-5344-4e41-96ed-b58b645feda1)
@@ -4101,7 +4131,6 @@
     (stroke (width 0) (type default))
     (uuid 7483cc82-4f36-44be-ba6b-219e900d763b)
   )
-
   (wire (pts (xy 81.28 189.23) (xy 67.31 189.23))
     (stroke (width 0) (type default))
     (uuid 7563f150-6298-4573-91b2-497eb3f457d0)
@@ -4518,7 +4547,6 @@
     (stroke (width 0) (type default))
     (uuid ac7df638-a574-401f-ad78-d108db060ac4)
   )
-
   (wire (pts (xy 220.98 247.65) (xy 245.11 247.65))
     (stroke (width 0) (type default))
     (uuid ac80b4b2-e9c7-4e2e-92a0-948430791e3b)
@@ -4567,7 +4595,6 @@
     (stroke (width 0) (type solid))
     (uuid b28cc856-00c8-4941-9374-349ded5ceeb3)
   )
-
   (wire (pts (xy 288.29 72.39) (xy 290.83 72.39))
     (stroke (width 0) (type default))
     (uuid b30c8d06-e862-4e26-9990-932317ac54d1)
@@ -4800,7 +4827,6 @@
     (stroke (width 0) (type default))
     (uuid d3e5c077-7350-4f42-a855-060b3689c82e)
   )
-
   (wire (pts (xy 142.24 179.07) (xy 158.75 179.07))
     (stroke (width 0) (type default))
     (uuid d472cf6d-5c97-414e-8011-0cb16ca82567)
@@ -5903,7 +5929,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_100k_0402") (at 306.07 46.99 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 024427c5-d47b-49d2-96bf-9afc7fb15a79)
     (property "Reference" "R282" (at 307.34 43.18 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -5935,6 +5961,9 @@
     (property "Tolerance" "1%" (at 295.91 26.67 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
+    )
     (pin "1" (uuid 5f50cfe3-a535-4dbb-85b7-f357188c2f2f))
     (pin "2" (uuid 74c5f736-bc31-4a37-a7b2-52a34efd2d1c))
     (instances
@@ -5947,7 +5976,7 @@
   )
 
   (symbol (lib_id "antmicroMechanicalParts:Spacer_Drill3.7mm_H10mm_9774100151R") (at 38.1 276.86 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 027e9c99-f3f7-46b2-9fa9-409954401c2a)
     (property "Reference" "H10" (at 33.02 264.16 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -5972,6 +6001,9 @@
     )
     (property "License" "Apache-2.0" (at 22.86 254 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid 8672d6a8-3c3a-403d-b8f0-3dc7e3a03144))
     (instances
@@ -6130,7 +6162,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_100k_0402") (at 332.74 182.88 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 07aa2fe0-dee8-42fc-9e86-8e26aed213bf)
     (property "Reference" "R286" (at 334.01 184.15 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -6161,6 +6193,9 @@
     )
     (property "Tolerance" "1%" (at 322.58 203.2 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid 0d56a1bd-faf4-4799-9cb5-2c8a94518a95))
     (pin "2" (uuid e3d5fdfb-f3cf-431f-9b2b-492d50dc4072))
@@ -7303,7 +7338,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_100k_0402") (at 290.83 151.13 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 2e2e7364-b1c9-4436-97a4-32e2199d94c5)
     (property "Reference" "R281" (at 292.1 147.32 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
@@ -7334,6 +7369,9 @@
     )
     (property "Tolerance" "1%" (at 300.99 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid 422bc25c-b3c8-43e8-b8a7-63b3d2b380d2))
     (pin "2" (uuid c2e742a9-79c9-4a59-a020-39a7f54bae85))
@@ -7409,7 +7447,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 201.93 31.75 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 31f85197-a236-49cc-b90c-77a16d595377)
     (property "Reference" "R290" (at 199.39 25.4 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -7443,6 +7481,9 @@
     )
     (property "Current" "1A" (at 181.61 1.27 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid 93545d3d-f560-45ed-93cc-ab952eedbf47))
     (pin "2" (uuid 20617ef6-160b-4b2e-8be6-e345e52f1618))
@@ -7657,7 +7698,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_1M_0402") (at 281.94 200.66 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 3fc3fd32-1905-49b4-8372-0a3abf94bd7d)
     (property "Reference" "R276" (at 288.925 199.39 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -7688,6 +7729,9 @@
     )
     (property "Tolerance" "1%" (at 302.26 210.82 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid 145cf45e-8a06-42b6-9caa-68ae321e3cf7))
     (pin "2" (uuid d990c491-afbc-4fb5-9543-e223db25387b))
@@ -7934,7 +7978,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 288.29 233.68 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 506b8ae4-26da-4869-8e35-ebe5324c4e04)
     (property "Reference" "R18" (at 290.83 237.49 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -7968,6 +8012,9 @@
     )
     (property "Current" "1A" (at 308.61 264.16 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "2" (uuid 51701d0a-4ae6-4664-aaf1-06dd7e518a96))
     (pin "1" (uuid 5bec6d1d-9134-43bc-95f0-af417a741477))
@@ -8176,7 +8223,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_100R_0402") (at 226.06 189.23 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 5589a457-84fc-43af-b786-39b9ae7c2469)
     (property "Reference" "R275" (at 227.965 187.96 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -8207,6 +8254,9 @@
     )
     (property "Tolerance" "1%" (at 205.74 179.07 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid 721c38f3-5ab8-44b9-82ed-84f712c2e7c0))
     (pin "2" (uuid 59b48ca0-605e-426b-a793-b24ad4598543))
@@ -8871,7 +8921,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 288.29 231.14 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 685b4f91-4376-4226-9086-c2bd59b466f4)
     (property "Reference" "R17" (at 290.83 224.79 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -8905,6 +8955,9 @@
     )
     (property "Current" "1A" (at 308.61 261.62 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "2" (uuid bfcabe7c-43a4-4964-be9f-85b5ce8e5c01))
     (pin "1" (uuid d49c6a75-98ab-45ae-8995-20b9a3547967))
@@ -9158,7 +9211,7 @@
   )
 
   (symbol (lib_id "antmicroMechanicalParts:Spacer_Drill3.7mm_H10mm_9774100151R") (at 85.09 276.86 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 6dc22f57-5dbd-46e9-a93f-51a74c55488c)
     (property "Reference" "H11" (at 80.01 264.16 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -9183,6 +9236,9 @@
     )
     (property "License" "Apache-2.0" (at 69.85 254 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid b3afb23b-4680-4e5b-8631-c8b3e9eeec7e))
     (instances
@@ -10362,7 +10418,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_100R_0402") (at 226.06 168.91 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid a09c48a5-a2e5-4b71-b31d-cd980c0bf15b)
     (property "Reference" "R273" (at 227.965 167.64 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -10393,6 +10449,9 @@
     )
     (property "Tolerance" "1%" (at 205.74 179.07 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid e3fc03b4-3e28-44b1-9c8c-a1a20835c876))
     (pin "2" (uuid f752cb34-8ada-4423-83f6-41295b974a16))
@@ -10450,7 +10509,7 @@
   )
 
   (symbol (lib_id "antmicroMechanicalParts:Spacer_Drill3.7mm_H10mm_9774100151R") (at 130.81 276.86 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid a17df4b5-1a68-4318-8edd-b3ed93d28036)
     (property "Reference" "H12" (at 125.73 264.16 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -10475,6 +10534,9 @@
     )
     (property "License" "Apache-2.0" (at 115.57 254 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid 01a75916-cd40-4d2a-86aa-b79742647411))
     (instances
@@ -11096,7 +11158,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_100R_0402") (at 226.06 171.45 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid b088fcd0-eb89-443b-af5c-68190b6fb224)
     (property "Reference" "R274" (at 227.965 170.18 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -11127,6 +11189,9 @@
     )
     (property "Tolerance" "1%" (at 205.74 161.29 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid 6289c8db-0b12-4684-8db7-f920cf0fcf31))
     (pin "2" (uuid c0200563-50da-4bb0-92e1-c51fbbf6ef36))
@@ -11333,7 +11398,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_1M_0402") (at 36.83 92.71 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid b5cc3e98-a45c-4847-bfc9-a92e6ebda7a7)
     (property "Reference" "R250" (at 43.18 91.44 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -11364,6 +11429,9 @@
     )
     (property "Tolerance" "1%" (at 57.15 102.87 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid 90224c66-d00b-4f21-a639-a0b78a6751c5))
     (pin "2" (uuid cbc13526-1821-4806-b37c-91bf4e1c52b7))
@@ -11452,7 +11520,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 154.94 208.28 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid b8632207-0a2a-4696-90b0-05da85730177)
     (property "Reference" "R263" (at 161.925 207.01 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -11486,6 +11554,9 @@
     )
     (property "Current" "1A" (at 175.26 238.76 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid 7901a984-b0ea-415d-b5a6-bd7bae2fe6db))
     (pin "2" (uuid f412dd78-c277-4465-9bab-5a076b665808))
@@ -11886,7 +11957,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 154.94 205.74 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid c82d942c-b2ce-4eaa-878c-194d01ba201c)
     (property "Reference" "R262" (at 161.925 204.47 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -11920,6 +11991,9 @@
     )
     (property "Current" "1A" (at 175.26 175.26 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid 4be1520d-17ac-493f-8bfe-83b715574c87))
     (pin "2" (uuid 490d3878-7285-4c09-98dd-fa30e7a4a6ee))
@@ -13308,7 +13382,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_1M_0402") (at 308.61 124.46 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid f2879e95-9966-4272-960c-eff1d030373b)
     (property "Reference" "R270" (at 306.07 119.38 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -13340,6 +13414,9 @@
     (property "Tolerance" "1%" (at 288.29 134.62 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
+    )
     (pin "1" (uuid 4097920c-e66f-4bdc-a6b5-c9821d7a311d))
     (pin "2" (uuid 201092d2-4d4e-401e-8ccd-cd5dccf4dcf7))
     (instances
@@ -13352,7 +13429,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_100k_0402") (at 316.23 46.99 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid f2cb72a7-f3b2-468b-af70-73f544773c08)
     (property "Reference" "R284" (at 317.5 43.18 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -13383,6 +13460,9 @@
     )
     (property "Tolerance" "1%" (at 306.07 26.67 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid 596f883f-b04a-4df3-94a8-7113884e8d45))
     (pin "2" (uuid 4f6f0bd3-f437-4bd5-b821-dd97467b5174))
@@ -13627,7 +13707,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_1M_0402") (at 77.47 228.6 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid fb0ac084-6bdc-4617-a636-feba7b03d452)
     (property "Reference" "R252" (at 77.47 226.695 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -13658,6 +13738,9 @@
     )
     (property "Tolerance" "1%" (at 97.79 238.76 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid 00238bfa-fe6b-418a-b9a4-29e5ee177302))
     (pin "2" (uuid 0ea7e061-9aef-4931-bf8e-821ce367ddb2))
@@ -13828,7 +13911,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 154.94 186.69 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid fd1098c7-4a87-47fd-8897-d048dba89d88)
     (property "Reference" "R259" (at 161.925 185.42 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -13862,6 +13945,9 @@
     )
     (property "Current" "1A" (at 175.26 217.17 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 0.0 0.0 0)
+      (effects (font (size 1.0 1.0)))
     )
     (pin "1" (uuid be03fc52-a668-4fa5-92fe-cc42707d76dc))
     (pin "2" (uuid 7e8aad48-c2a6-4d72-b566-d8e533566ba1))
